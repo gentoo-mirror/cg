@@ -3,7 +3,6 @@
 # * generated automatically using pmaint *
 
 app-office/calligra:attica - Get hot stuff with dev-libs/libattica
-app-office/calligra:colorio - Enables media-libs/opencolorio which is a complete color management solution.
 app-office/calligra:eigen - Enable dev-cpp/eigen mathematical templates support
 app-office/calligra:glew - Enable media-libs/glew opengl extension library support
 app-office/calligra:glib - Enable support for C library routines from dev-libs/glib
@@ -12,7 +11,6 @@ app-office/calligra:import-filter - Enable support for various import filter fil
 app-office/calligra:kdcraw - Enable support for KDE image manipulating interface via kde-base/libkdcraw
 app-office/calligra:kdepim - Enable support for KDEPIM resources integration
 app-office/calligra:marble - Enable displaying of maps using Marble
-app-office/calligra:nepomuk - Enable Nepomuk based semantic desktop support (deprecated)
 app-office/calligra:okular - Enable bindings for kde-base/okular
 app-office/calligra:spacenav - Enable support for the 3Dconnexion spacenav input device via dev-libs/libspnav
 app-office/calligra:vc - Enable support for dev-libs/vc, could be a significant speed boost on krita
@@ -22,18 +20,7 @@ dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
 dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
 dev-util/nvidia-cuda-toolkit:eclipse - Install the dev-util/eclipse-sdk plugins
 dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
-media-gfx/bundler:ceres - Add support for ceresnonlinear least-squares minimizer
-media-gfx/darktable:colord - Support color management using x11-misc/colord
-media-gfx/darktable:flickr - Add support for uploading photos to flickr
-media-gfx/darktable:geo - Enable geotagging support
-media-gfx/darktable:graphicsmagick - Use media-gfx/graphicsmagick for image importing
-media-gfx/darktable:opencl - Enable opencl support
-media-gfx/darktable:pax_kernel - Triggers paxmarking of main darktable binary
-media-gfx/darktable:rawspeed - Enable the rawspeed backend
-media-gfx/darktable:slideshow - Build the opengl slideshow viewer
-media-gfx/darktable:squish - Enable thumbnail compression via libsquish
-media-gfx/darktable:web-services - Add support for uploading photos to facebook and picasa
-media-gfx/darktable:webp - Enable WebP export support
+media-gfx/embree:ispc - Adds support for Intel SPMD Program Compiler
 media-gfx/makehuman:aqsis - Aqsis add its dependencies (Open source RenderMan-compliant 3D rendering solution)
 media-gfx/makehuman:blender - Add media-gfx/blender support
 media-gfx/osl:tbb - Add support for dev-cpp/tbb
@@ -44,5 +31,4 @@ media-libs/openimageio:colorio - Use media-gfx/opencolorio
 media-libs/openimageio:opencv - Use media-libs/opencv
 media-libs/openimageio:tbb - Use dev-cpp/tbb
 media-libs/pba:cuda - Add support for dev-util/nvidia-cuda-toolkit
-x11-themes/bespin:windeco - Enable window decoration for KWin.
 x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details
