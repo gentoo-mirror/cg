@@ -2,6 +2,23 @@
 # your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-emulation/wine:capi - Enable ISDN support via CAPI
+app-emulation/wine:custom-cflags - Bypass strip-flags; use at your own peril
+app-emulation/wine:dos - Pull in games-emulation/dosbox to run DOS applications
+app-emulation/wine:gecko - Add support for the Gecko engine when using iexplore
+app-emulation/wine:mono - Add support for .NET using Wine's Mono add-on
+app-emulation/wine:netapi - Use libnetapi from net-fs/samba to support Windows networks in netapi32.dll
+app-emulation/wine:opencl - Enable OpenCL support
+app-emulation/wine:osmesa - Add support for OpenGL in bitmaps using libOSMesa
+app-emulation/wine:pcap - Support packet capture software (e.g. wireshark)
+app-emulation/wine:perl - Install helpers written in perl (winedump/winemaker)
+app-emulation/wine:pipelight - Apply unofficial Wine-Staging patches for Pipelight/Silverlight support
+app-emulation/wine:prelink - Run prelink on DLLs during build -- do not disable if you do not know what this means as it can break things at runtime
+app-emulation/wine:realtime - Pull in sys-auth/rtkit for low-latency pulseaudio support
+app-emulation/wine:run-exes - Use Wine to open and run .EXE and .MSI files
+app-emulation/wine:s3tc - Pull in media-libs/libtxc_dxtn for DXTn texture compression, needed for many games
+app-emulation/wine:samba - Add support for NTLM auth. see http://wiki.winehq.org/NtlmAuthSetupGuide and http://wiki.winehq.org/NtlmSigningAndSealing
+app-emulation/wine:staging - Apply unofficial Wine-Staging patches for advanced feature support that haven't made it into upstream Wine yet
 app-office/calligra:attica - Get hot stuff with dev-libs/libattica
 app-office/calligra:eigen - Enable dev-cpp/eigen mathematical templates support
 app-office/calligra:glew - Enable media-libs/glew opengl extension library support
