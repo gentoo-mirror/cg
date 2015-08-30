@@ -41,7 +41,7 @@ media-libs/opencollada 1.2.2_p20150702: Stream based read/write library for COLL
 media-libs/opencolorio 1.0.9-r4: A color management framework for visual effects and animation
 media-libs/openctm 1.0.3-r1: OpenCTM - the Open Compressed Triangle Mesh.
 media-libs/openexr 2.2.0-r1 2.2.0-r2: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/openimageio 1.5.18: A library for reading and writing images
+media-libs/openimageio 1.5.18 9999: A library for reading and writing images
 media-libs/opensubdiv 3.0.0: An Open-Source subdivision surface library
 media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
