@@ -1,17 +1,7 @@
-app-dicts/aspell-ky 0.1.0: Kirghiz language dictionary for aspell
-app-dicts/myspell-ky 0.1.0: Kirghiz dictionaries for myspell/hunspell
 app-emulation/wine 1.7.47-r1: Free implementation of Windows(tm) on Unix
-app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation being used
-app-office/calligra 2.9.6-r1: KDE Office Suite
-app-office/calligra-l10n 2.9.6: Calligra localization package
-app-text/goldendict 9999: Feature-rich dictionary lookup program
-app-text/sword 9999: Library for Bible reading software
 dev-cpp/yaml-cpp 0.5.2: A YAML parser and emitter in C++
-dev-libs/boost-numpy 9999-r1: Boost.Python interface for NumPy
 dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
 dev-util/nvidia-cuda-toolkit 6.5.14 7.0.28-r1 7.5.7-r2: NVIDIA CUDA Toolkit (compiler and friends)
-kde-base/dolphin-dropbox-plugin 4.14.3: KDE Dolphin plugin for Dropbox (from Mercurial repos)
-kde-misc/kfilebox 0.4.10: KDE dropbox client
 media-gfx/AwesomeBump 9999: A free, open source, cross-platform video editor
 media-gfx/PoissonRecon 6.13: Screened Poisson Surface Reconstruction
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
@@ -21,43 +11,4 @@ media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cmvs 2: Clustering Views for Multi-view Stereo
 media-gfx/djv 9999: Professional movie playback and image processing software.
 media-gfx/embree 9999: Embree ray tracing kernels by intel
-media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
-media-gfx/luxrender 9999: A GPL unbiased renderer.
-media-gfx/makehuman 1.0.1 1.0.2: Software for the modelling of 3D humanoid characters.
-media-gfx/ngplant 0.9.12 9999: plant modeling software package
-media-gfx/openvdb 3.0.0-r5: Libs for the efficient manipulation of volumetric data
-media-gfx/osl 1.6.5-r1: Open Shading Language
-media-gfx/pmvs 2-r1: Patch-based Multi-view Stereo Software
-media-gfx/siftgpu 0.5.400 0.5.400-r1: A GPU Implementation of SIFT
-media-gfx/slowmovideo 9999: Create slow-motion videos from your footage
-media-gfx/v3d 9999: GPU implementation for slowmoVideo
-media-gfx/vlfeat 9999: Sift detector
-media-gfx/vsfm 0.5.26: A Visual Structure from Motion System
-media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
-media-libs/alembic 1.5.8-r3: An open framework for storing and sharing 3D geometry data.
-media-libs/graclus 1.2: A fast graph clustering software
-media-libs/luxrays 9999: Library to accelerate the ray intersection process by using GPUs.
-media-libs/opencollada 1.2.2_p20150702: Stream based read/write library for COLLADA files
-media-libs/opencolorio 1.0.9-r4: A color management framework for visual effects and animation
-media-libs/openctm 1.0.3-r1: OpenCTM - the Open Compressed Triangle Mesh.
-media-libs/openexr 2.2.0-r1 2.2.0-r2: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/openimageio 1.5.18 9999: A library for reading and writing images
-media-libs/opensubdiv 3.0.0 3.0.2: An Open-Source subdivision surface library
-media-libs/pba 1.0.5: Multicore Bundle Adjustment
-media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
-media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
-media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
-media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
-media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
-media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
-media-plugins/gxaudiovisualisation 9999: Blender Python script for audio visualisation
-media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
-media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
-media-plugins/vidstab 9999: Video stabilization library
-media-tv/kodi 14.1-r1: Kodi is a free and open source media-player and entertainment hub
-media-video/lightworks 12.5-r5 12.5-r6: Lightworks is the fastest, most accessible and focused NLE in the industry
-media-video/shotcut 9999: A free, open source, cross-platform video editor
-net-misc/megasync 2.1.1: The official QT-Based mega.co.nz client for sync your MEGA account
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
-x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
-x11-themes/oxygen-gtk3 9999: Official GTK+ 3 port of KDE's Oxygen widget style
