@@ -66,4 +66,5 @@ media-tv/kodi:texturepacker - Support packing skin textures
 media-tv/kodi:waveform - Enable waveform visualization plugin
 media-tv/kodi:webserver - Enable internal webserver
 media-tv/kodi:xrandr - Support X randr extension
+x11-misc/sddm:consolekit - Use ck-launch-session from sys-auth/consolekit by default in Xsession (no native support)
 x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details

@@ -58,6 +58,7 @@ media-tv/kodi 14.1-r1: Kodi is a free and open source media-player and entertain
 media-video/lightworks 12.5-r5 12.5-r6: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-misc/megasync 2.1.1: The official QT-Based mega.co.nz client for sync your MEGA account
+x11-misc/sddm 9999-r1: Simple Desktop Display Manager
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
 x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
 x11-themes/oxygen-gtk3 9999: Official GTK+ 3 port of KDE's Oxygen widget style
