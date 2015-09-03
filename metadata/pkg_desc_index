@@ -2,8 +2,8 @@ app-dicts/aspell-ky 0.1.0: Kirghiz language dictionary for aspell
 app-dicts/myspell-ky 0.1.0: Kirghiz dictionaries for myspell/hunspell
 app-emulation/wine 1.7.47-r1: Free implementation of Windows(tm) on Unix
 app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation being used
-app-office/calligra 2.9.6-r1: KDE Office Suite
-app-office/calligra-l10n 2.9.6: Calligra localization package
+app-office/calligra 2.9.7: KDE Office Suite
+app-office/calligra-l10n 2.9.7: Calligra localization package
 app-text/goldendict 9999: Feature-rich dictionary lookup program
 app-text/sword 9999: Library for Bible reading software
 dev-cpp/yaml-cpp 0.5.2: A YAML parser and emitter in C++
