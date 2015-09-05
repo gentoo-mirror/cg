@@ -55,7 +55,7 @@ media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
 media-tv/kodi 14.1-r1: Kodi is a free and open source media-player and entertainment hub
-media-video/lightworks 12.5-r5 12.5-r6: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 12.5-r6 12.5-r7: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-misc/megasync 2.1.1: The official QT-Based mega.co.nz client for sync your MEGA account
 x11-misc/sddm 9999-r1: Simple Desktop Display Manager
