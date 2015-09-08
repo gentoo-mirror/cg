@@ -9,12 +9,14 @@ app-text/sword 9999: Library for Bible reading software
 dev-cpp/yaml-cpp 0.5.2: A YAML parser and emitter in C++
 dev-libs/boost-numpy 9999-r1: Boost.Python interface for NumPy
 dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
+dev-util/lemon 3.8.11.1: A LALR(1) parser generator.
 dev-util/nvidia-cuda-toolkit 6.5.14 7.0.28-r1 7.5.7-r2: NVIDIA CUDA Toolkit (compiler and friends)
 kde-base/dolphin-dropbox-plugin 4.14.3: KDE Dolphin plugin for Dropbox (from Mercurial repos)
 kde-misc/kfilebox 0.4.10: KDE dropbox client
 media-gfx/AwesomeBump 9999: A free, open source, cross-platform video editor
 media-gfx/PoissonRecon 6.13: Screened Poisson Surface Reconstruction
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
+media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
 media-gfx/blender 9999: 3D Creation/Animation/Publishing System
 media-gfx/cloudcompare 9999: 3D point cloud processing software
@@ -46,6 +48,16 @@ media-libs/opensubdiv 3.0.0 3.0.2: An Open-Source subdivision surface library
 media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
+media-plugins/blender-addons-meta 9999: Blender addons meta package
+media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
+media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
+media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
+media-plugins/blender-kinoraw-tools 9999: Blender addon. A various sequencer addons
+media-plugins/blender-light-studio 9999: Blender addon. Lighting system
+media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
+media-plugins/blender-push-pull-face 9999: Blender addon. Advansed face extrude
+media-plugins/blender-uvsquares 9999: Blender addon. A camera calibration toolkit
+media-plugins/blender-vsfmbundle 9999: Blender addon. Import bundler scene to blender
 media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
