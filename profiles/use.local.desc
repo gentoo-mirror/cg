@@ -19,19 +19,6 @@ app-emulation/wine:run-exes - Use Wine to open and run .EXE and .MSI files
 app-emulation/wine:s3tc - Pull in media-libs/libtxc_dxtn for DXTn texture compression, needed for many games
 app-emulation/wine:samba - Add support for NTLM auth. see http://wiki.winehq.org/NtlmAuthSetupGuide and http://wiki.winehq.org/NtlmSigningAndSealing
 app-emulation/wine:staging - Apply unofficial Wine-Staging patches for advanced feature support that haven't made it into upstream Wine yet
-app-office/calligra:attica - Get hot stuff with dev-libs/libattica
-app-office/calligra:eigen - Enable dev-cpp/eigen mathematical templates support
-app-office/calligra:glew - Enable media-libs/glew opengl extension library support
-app-office/calligra:glib - Enable support for C library routines from dev-libs/glib
-app-office/calligra:gsf - Enable support for ODT structures extraction via gnome-extra/libgsf
-app-office/calligra:import-filter - Enable support for various import filter file formats like WordPerfect, Visio and Apple Keynote
-app-office/calligra:kdcraw - Enable support for KDE image manipulating interface via kde-base/libkdcraw
-app-office/calligra:kdepim - Enable support for KDEPIM resources integration
-app-office/calligra:marble - Enable displaying of maps using Marble
-app-office/calligra:okular - Enable bindings for kde-base/okular
-app-office/calligra:spacenav - Enable support for the 3Dconnexion spacenav input device via dev-libs/libspnav
-app-office/calligra:vc - Enable support for dev-libs/vc, could be a significant speed boost on krita
-app-office/calligra:xbase - Enable support for xbase compatible database formats
 dev-util/cuda-z:sm_30 - Add support for compute capability 3.0
 dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
 dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
