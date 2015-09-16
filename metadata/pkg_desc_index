@@ -50,6 +50,7 @@ media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
 media-plugins/blender-addons-meta 9999: Blender addons meta package
+media-plugins/blender-animation-nodes 9999: Blender addon. The nodes to create animations.
 media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
