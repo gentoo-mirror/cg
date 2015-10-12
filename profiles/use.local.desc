@@ -2,23 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-emulation/wine:capi - Enable ISDN support via CAPI
-app-emulation/wine:custom-cflags - Bypass strip-flags; use at your own peril
-app-emulation/wine:dos - Pull in games-emulation/dosbox to run DOS applications
-app-emulation/wine:gecko - Add support for the Gecko engine when using iexplore
-app-emulation/wine:mono - Add support for .NET using Wine's Mono add-on
-app-emulation/wine:netapi - Use libnetapi from net-fs/samba to support Windows networks in netapi32.dll
-app-emulation/wine:opencl - Enable OpenCL support
-app-emulation/wine:osmesa - Add support for OpenGL in bitmaps using libOSMesa
-app-emulation/wine:pcap - Support packet capture software (e.g. wireshark)
-app-emulation/wine:perl - Install helpers written in perl (winedump/winemaker)
-app-emulation/wine:pipelight - Apply unofficial Wine-Staging patches for Pipelight/Silverlight support
-app-emulation/wine:prelink - Run prelink on DLLs during build -- do not disable if you do not know what this means as it can break things at runtime
-app-emulation/wine:realtime - Pull in sys-auth/rtkit for low-latency pulseaudio support
-app-emulation/wine:run-exes - Use Wine to open and run .EXE and .MSI files
-app-emulation/wine:s3tc - Pull in media-libs/libtxc_dxtn for DXTn texture compression, needed for many games
-app-emulation/wine:samba - Add support for NTLM auth. see http://wiki.winehq.org/NtlmAuthSetupGuide and http://wiki.winehq.org/NtlmSigningAndSealing
-app-emulation/wine:staging - Apply unofficial Wine-Staging patches for advanced feature support that haven't made it into upstream Wine yet
 dev-util/cuda-z:sm_30 - Add support for compute capability 3.0
 dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
 dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
@@ -53,25 +36,4 @@ media-tv/kodi:texturepacker - Support packing skin textures
 media-tv/kodi:waveform - Enable waveform visualization plugin
 media-tv/kodi:webserver - Enable internal webserver
 media-tv/kodi:xrandr - Support X randr extension
-sci-libs/vtk:R - Enable support for dev-lang/R
-sci-libs/vtk:all-modules - Build all modules
-sci-libs/vtk:boost - Add support for boost
-sci-libs/vtk:cg - Use nvidia's cg shaders
-sci-libs/vtk:gdal - Support for gdal formated data
-sci-libs/vtk:imaging - Building Imaging modules
-sci-libs/vtk:json - Support for json formated data
-sci-libs/vtk:kaapi - Use sci-libs/xkaapi to handle smp support
-sci-libs/vtk:offscreen - Offscreen rendering through OSMesa
-sci-libs/vtk:rendering - Building Redering modules
-sci-libs/vtk:tbb - Use dev-cpp/tbb to handle smp support
-sci-libs/vtk:views - Building Views modules
-sci-libs/vtk:web - Install web component
-sci-libs/vtk:xdmf2 - Support for xdmf2 formated data
-sys-apps/hwloc:cuda - Enable CUDA device discovery
-sys-apps/hwloc:gl - Enable GL display device discovery (NVCtrl)
-sys-apps/hwloc:numa - Add support for numa memory allocation
-sys-apps/hwloc:opencl - Enable OpenCL device discovery (AMD only)
-sys-apps/hwloc:pci - Enable PCI device discovery using libpci
-sys-apps/hwloc:plugins - Build hwloc components as plugins so that the hwloc core library does not directly depend on their dependencies (for instance the libpci library)
-x11-misc/sddm:consolekit - Use ck-launch-session from sys-auth/consolekit by default in Xsession (no native support)
 x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details
