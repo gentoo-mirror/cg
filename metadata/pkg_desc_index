@@ -25,7 +25,7 @@ media-gfx/djv 9999: Professional movie playback and image processing software.
 media-gfx/embree 9999: Embree ray tracing kernels by intel
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/luxrender 9999: A GPL unbiased renderer.
-media-gfx/makehuman 1.0.2-r1 1.1.0 9999 9999-r1 9999-r2 9999-r3: Software for the modelling of 3D humanoid characters.
+media-gfx/makehuman 1.0.2-r1 1.1.0 9999 9999-r1 9999-r2 9999-r3 9999-r4: Software for the modelling of 3D humanoid characters.
 media-gfx/ngplant 0.9.12 9999: plant modeling software package
 media-gfx/openvdb 3.0.0-r5: Libs for the efficient manipulation of volumetric data
 media-gfx/osl 1.6.5-r1 1.6.8: Open Shading Language
@@ -67,6 +67,7 @@ media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-plugins/gxaudiovisualisation 9999: Blender Python script for audio visualisation
 media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
+media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
 media-tv/kodi 14.1-r1: Kodi is a free and open source media-player and entertainment hub
