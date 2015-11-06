@@ -26,6 +26,7 @@ media-gfx/embree 9999: Embree ray tracing kernels by intel
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/luxrender 9999: A GPL unbiased renderer.
 media-gfx/makehuman 1.0.2-r1 1.1.0 9999 9999-r1 9999-r2 9999-r3 9999-r4: Software for the modelling of 3D humanoid characters.
+media-gfx/mitsuba 9999: Mitsuba is a physically based renderer.
 media-gfx/ngplant 0.9.12 9999: plant modeling software package
 media-gfx/openvdb 3.0.0-r5: Libs for the efficient manipulation of volumetric data
 media-gfx/osl 1.6.5-r1 1.6.8: Open Shading Language
@@ -56,7 +57,9 @@ media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
 media-plugins/blender-kinoraw-tools 9999: Blender addon. A various sequencer addons
 media-plugins/blender-light-studio 9999: Blender addon. Lighting system
+media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
 media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
+media-plugins/blender-nodearrange 9999: Blender addon. Cleaning up Node Trees
 media-plugins/blender-push-pull-face 9999: Blender addon. Advansed face extrude
 media-plugins/blender-sverchok 9999: Blender addon. A visual programing with nodes
 media-plugins/blender-uvsquares 9999: Blender addon. A camera calibration toolkit
@@ -68,6 +71,7 @@ media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-plugins/gxaudiovisualisation 9999: Blender Python script for audio visualisation
 media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
 media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
+media-plugins/mitsuba-blender 9999: Blender addon. Mitsuba exporter
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
 media-tv/kodi 14.1-r1: Kodi is a free and open source media-player and entertainment hub
