@@ -26,7 +26,7 @@ media-gfx/embree 9999: Embree ray tracing kernels by intel
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/luxrender 9999: A GPL unbiased renderer.
 media-gfx/makehuman 1.0.2-r1 1.1.0 9999 9999-r1 9999-r2 9999-r3 9999-r4: Software for the modelling of 3D humanoid characters.
-media-gfx/mitsuba 9999 9999-r1 9999-r2: Mitsuba is a physically based renderer.
+media-gfx/mitsuba 9999-r2: Mitsuba is a physically based renderer.
 media-gfx/ngplant 0.9.12 9999: plant modeling software package
 media-gfx/openvdb 3.0.0-r5: Libs for the efficient manipulation of volumetric data
 media-gfx/osl 1.6.5-r1 1.6.8: Open Shading Language
