@@ -79,6 +79,8 @@ media-video/lightworks 12.5-r7 12.5.0: Lightworks is the fastest, most accessibl
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-misc/econnman 9999: EFL user interface for connman
 net-misc/megasync 15.04: The official QT-Based mega.co.nz client for sync your MEGA account
+x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
+x11-misc/xneur 0.17.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
 x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
 x11-themes/oxygen-gtk3 9999: Official GTK+ 3 port of KDE's Oxygen widget style
