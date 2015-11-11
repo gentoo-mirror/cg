@@ -4,9 +4,11 @@ app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation
 app-text/goldendict 9999: Feature-rich dictionary lookup program
 app-text/sword 9999: Library for Bible reading software
 dev-cpp/yaml-cpp 0.5.2: A YAML parser and emitter in C++
+dev-libs/boost 1.59.0-r2: Boost Libraries for C++
 dev-libs/boost-numpy 9999-r1: Boost.Python interface for NumPy
 dev-python/cerealizer 0.8.1: A secure pickle-like module
 dev-python/pysqlite 2.8.1: DB-API 2.0 interface for SQLite 3.x
+dev-util/boost-build 1.59.0-r2: A system for large project software construction, which is simple to use and powerful
 dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
 dev-util/lemon 3.8.11.1: A LALR(1) parser generator.
 dev-util/nvidia-cuda-toolkit 6.5.14 7.0.28-r1 7.5.7-r2 7.5.18-r1: NVIDIA CUDA Toolkit (compiler and friends)
