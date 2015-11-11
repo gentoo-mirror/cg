@@ -2,6 +2,20 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-office/calligra:attica - Get hot stuff with dev-libs/libattica
+app-office/calligra:color-management - Enable color management via media-libs/opencolorio
+app-office/calligra:eigen - Enable dev-cpp/eigen mathematical templates support
+app-office/calligra:glew - Enable media-libs/glew opengl extension library support
+app-office/calligra:glib - Enable support for C library routines from dev-libs/glib
+app-office/calligra:gsf - Enable support for ODT structures extraction via gnome-extra/libgsf
+app-office/calligra:import-filter - Enable support for various import filter file formats like WordPerfect, Visio and Apple Keynote
+app-office/calligra:kdcraw - Enable support for KDE image manipulating interface via kde-apps/libkdcraw
+app-office/calligra:kdepim - Enable support for KDEPIM resources integration
+app-office/calligra:marble - Enable displaying of maps using Marble
+app-office/calligra:okular - Enable bindings for kde-apps/okular
+app-office/calligra:spacenav - Enable support for the 3Dconnexion spacenav input device via dev-libs/libspnav
+app-office/calligra:vc - Enable support for dev-libs/vc, could be a significant speed boost on krita
+app-office/calligra:xbase - Enable support for xbase compatible database formats
 dev-libs/boost:context - Build and install the Boost.Context library and all other Boostlibraries that depends on it
 dev-libs/boost:debug - Build and install only the debug version of the Boost libraries. Only enable this flag if you're developing against boost.
 dev-libs/boost:doc - Install the full API documentation documentation. This takes over 200MB of extra disk space.
