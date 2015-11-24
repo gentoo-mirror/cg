@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=Blender addon. A camera calibration toolkit
+EAPI=5
+HOMEPAGE=https://github.com/Radivarig/UvSquares
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND==media-gfx/blender-9999
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=2bfd659435b7ebab37ab3f50285ec7ef

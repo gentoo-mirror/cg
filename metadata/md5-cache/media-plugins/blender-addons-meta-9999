@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Blender addons meta package
+EAPI=5
+KEYWORDS=~amd64 ~x86
+LICENSE=metapackage
+RDEPEND==media-gfx/blender-9999 media-plugins/blender-animation-nodes media-plugins/blender-blam media-plugins/blender-booltron media-plugins/blender-export-selected media-plugins/blender-kinoraw-tools media-plugins/blender-light-studio media-plugins/blender-mira-tools media-plugins/blender-push-pull-face media-plugins/blender-uvsquares media-plugins/blender-vsfmbundle
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=fdb6c5ca79002f0f2576d1fbcb19a03b
