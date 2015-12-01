@@ -56,6 +56,7 @@ media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
 media-plugins/blender-addons-meta 9999: Blender addons meta package
 media-plugins/blender-animation-nodes 9999: Blender addon. The nodes to create animations.
 media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
+media-plugins/blender-blend4web 9999: Blender addon. Interactive 3D visualization on the Internet
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects

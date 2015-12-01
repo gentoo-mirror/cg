@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=Blender addon. Interactive 3D visualization on the Internet
+EAPI=5
+HOMEPAGE=https://www.blend4web.com
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND==media-gfx/blender-9999
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_compile:- src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=a8bbb186fc542b13a7b71551ae8eec43
