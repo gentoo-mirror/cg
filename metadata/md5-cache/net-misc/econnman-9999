@@ -1,0 +1,12 @@
+DEFINED_PHASES=prepare setup unpack
+DEPEND=dev-python/python-efl[python_targets_python2_7(-)?,python_targets_python3_4(-)?,python_targets_python3_5(-)?,-python_single_target_python3_3(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_jython2_7(-),python_single_target_python2_7(+)?,python_single_target_python3_4(+)?,python_single_target_python3_5(+)?] net-misc/connman:0 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1
+DESCRIPTION=EFL user interface for connman
+EAPI=5
+HOMEPAGE=http://www.enlightenment.org/
+IUSE=python_targets_python2_7 python_targets_python3_4 python_targets_python3_5 python_single_target_python2_7 python_single_target_python3_4 python_single_target_python3_5
+LICENSE=LGPL-3
+RDEPEND=dev-python/python-efl[python_targets_python2_7(-)?,python_targets_python3_4(-)?,python_targets_python3_5(-)?,-python_single_target_python3_3(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_jython2_7(-),python_single_target_python2_7(+)?,python_single_target_python3_4(+)?,python_single_target_python3_5(+)?] net-misc/connman:0
+SLOT=0
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_unpack:git-r3 src_prepare:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	d9bd2ddd85a58e470b49ca997e255a4c	git-r3	0961ca04f93a7ae0e4c4a0b2b8c3be99	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	python-single-r1	caecf590709cc0fcf0b6582bdc49150f	python-utils-r1	832cb17726d498a182de6b9ee2adc0dc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=42e337b2adc2c42e28aa49d392b1b438
