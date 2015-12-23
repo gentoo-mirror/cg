@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=Blender addon. A batch naming
+EAPI=5
+HOMEPAGE=http://blenderartists.org/forum/showthread.php?272086-Addon-Item-Panel-amp-Batch-Naming-1-4
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND==media-gfx/blender-9999
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=3f518bbaffb282545f06b7ea1b97ba29

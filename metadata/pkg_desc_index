@@ -62,6 +62,7 @@ media-plugins/blender-blend4web 9999: Blender addon. Interactive 3D visualizatio
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
+media-plugins/blender-item-panel 9999: Blender addon. A batch naming
 media-plugins/blender-kinoraw-tools 9999: Blender addon. A various sequencer addons
 media-plugins/blender-light-studio 9999: Blender addon. Lighting system
 media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
