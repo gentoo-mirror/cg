@@ -58,7 +58,6 @@ media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
 media-plugins/blender-addons-meta 9999: Blender addons meta package
 media-plugins/blender-animation-nodes 9999: Blender addon. The nodes to create animations.
 media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
-media-plugins/blender-blend4web 9999: Blender addon. Interactive 3D visualization on the Internet
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
@@ -82,7 +81,7 @@ media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
 media-plugins/mitsuba-blender 9999: Blender addon. Mitsuba exporter
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
-media-video/lightworks 12.5-r7 12.5.0: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 12.5.0 12.6-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-misc/econnman 9999: EFL user interface for connman
 net-misc/megasync 15.04: The official QT-Based mega.co.nz client for sync your MEGA account
