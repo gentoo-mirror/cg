@@ -3,17 +3,11 @@ app-dicts/aspell-ky 0.1.0: Kirghiz language dictionary for aspell
 app-dicts/myspell-ky 0.1.0: Kirghiz dictionaries for myspell/hunspell
 app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation being used
 app-misc/media-player-info 22-r9: A repository of data files describing media player capabilities
-app-office/calligra 2.9.9: KDE Office Suite
-app-office/calligra-l10n 2.9.9: Calligra localization package
 app-text/goldendict 9999: Feature-rich dictionary lookup program
 app-text/sword 9999: Library for Bible reading software
-dev-cpp/yaml-cpp 0.5.2: A YAML parser and emitter in C++
-dev-libs/boost 1.58.0-r2 1.59.0-r2: Boost Libraries for C++
-dev-libs/boost-numpy 9999-r1: Boost.Python interface for NumPy
 dev-python/cerealizer 0.8.1: A secure pickle-like module
 dev-python/pysqlite 2.8.1: DB-API 2.0 interface for SQLite 3.x
 dev-qt/qtnproperty 9999: Extended properties for Qt5
-dev-util/boost-build 1.58.0-r2 1.59.0-r2: A system for large project software construction, which is simple to use and powerful
 dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
 dev-util/lemon 3.8.11.1: A LALR(1) parser generator.
 dev-util/nvidia-cuda-toolkit 6.5.14 7.0.28-r1 7.5.7-r2 7.5.18-r1 7.5.18-r2: NVIDIA CUDA Toolkit (compiler and friends)
@@ -83,10 +77,10 @@ media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
 media-plugins/mitsuba-blender 9999: Blender addon. Mitsuba exporter
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
-media-video/lightworks 12.5.0 12.6-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 12.5.0 12.6-r1 12.6-r2: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-misc/econnman 9999: EFL user interface for connman
-net-misc/megasync 15.04: The official QT-Based mega.co.nz client for sync your MEGA account
+net-misc/megasync 15.04 15.10: The official QT-Based mega.co.nz client for sync your MEGA account
 x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
 x11-misc/xneur 0.17.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
