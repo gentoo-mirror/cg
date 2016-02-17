@@ -9,5 +9,5 @@ RDEPEND=app-text/hunspell app-text/aspell
 SLOT=0
 SRC_URI=mirror://gnu/aspell/dict/ky/aspell6-ky-0.01-0.tar.bz2
 _eclass_exported_funcs=src_unpack:myspell-r2 src_configure:- src_compile:- src_install:myspell-r2
-_eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multilib	3972ca401cf7dbb430df9995f5d8d580	myspell-r2	3f98144882500b2caaa0ab2bf3202ada	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	multilib	3972ca401cf7dbb430df9995f5d8d580	myspell-r2	3f98144882500b2caaa0ab2bf3202ada	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=5bcdebc72a5474f292e9e1d8682ff6e3
