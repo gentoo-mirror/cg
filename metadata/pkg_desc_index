@@ -46,7 +46,7 @@ media-libs/opencolorio 1.0.9-r4: A color management framework for visual effects
 media-libs/openctm 1.0.3-r1: OpenCTM - the Open Compressed Triangle Mesh.
 media-libs/opencv 3.1.0-r9: A collection of algorithms and sample code for various computer vision problems
 media-libs/openexr 2.2.0-r1 2.2.0-r2: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/openimageio 1.5.18 9999: A library for reading and writing images
+media-libs/openimageio 1.5.18 1.6.10 9999: A library for reading and writing images
 media-libs/opensubdiv 3.0.0 3.0.2 3.0.3: An Open-Source subdivision surface library
 media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
@@ -78,8 +78,9 @@ media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
 media-plugins/mitsuba-blender 9999: Blender addon. Mitsuba exporter
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
-media-video/lightworks 12.5.0 12.6-r1 12.6-r2: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 12.5.0 12.6-r3: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
+net-misc/bcloud 9999: Baidu Pan client for Linux Desktop users
 net-misc/econnman 9999: EFL user interface for connman
 net-misc/megasync 15.04 15.10: The official QT-Based mega.co.nz client for sync your MEGA account
 x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
