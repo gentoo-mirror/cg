@@ -1,12 +1,12 @@
 DEFINED_PHASES=install unpack
 DEPEND=dev-vcs/git
-DESCRIPTION=Blender addon. Lighting system
+DESCRIPTION=Blender addon. Shape Extrude Tool
 EAPI=5
-HOMEPAGE=https://github.com/leomoon-studios/blender-light-studio
+HOMEPAGE=http://blenderartists.org/forum/showthread.php?389974-Addon-Perfect-Shape-Shape-Extrude-Tool
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND==media-gfx/blender-9999
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=b45a9b019dfe715cef5ec71f46eab4ad
+_md5_=745223bebf4e99bbcad47f9ae425183a
