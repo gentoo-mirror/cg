@@ -6,9 +6,9 @@ EAPI=5
 
 inherit git-2
 
-DESCRIPTION="Blender addon. Lighting system"
-HOMEPAGE="https://github.com/leomoon-studios/blender-light-studio"
-EGIT_REPO_URI="https://github.com/leomoon-studios/blender-light-studio.git"
+DESCRIPTION="Blender addon. Shape Extrude Tool"
+HOMEPAGE="http://blenderartists.org/forum/showthread.php?389974-Addon-Perfect-Shape-Shape-Extrude-Tool"
+EGIT_REPO_URI="https://github.com/hophead-ninja/perfect_shape.git"
 
 LICENSE="GPL-2"
 SLOT="0"
@@ -19,9 +19,8 @@ DEPEND=""
 RDEPEND="=media-gfx/blender-9999"
 
 src_install() {
-	mv "${S}"/src "${S}"/${PN}
 	if VER="/usr/share/blender/*";then
 	    insinto ${VER}/scripts/addons/
-	    doins -r "${S}"/${PN}
+	    doins -r "${S}"/perfect_shape
 	fi
 }
