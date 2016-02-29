@@ -53,19 +53,18 @@ media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
 media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
 media-plugins/blender-YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
-media-plugins/blender-addons-meta 9999: Blender addons meta package
 media-plugins/blender-animation-nodes 9999: Blender addon. The nodes to create animations.
 media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
-media-plugins/blender-item-panel 9999: Blender addon. A batch naming
+media-plugins/blender-extrude-and-reshape 9999: Blender addon. Extrude and Reshape
 media-plugins/blender-kinoraw-tools 9999: Blender addon. A various sequencer addons
 media-plugins/blender-light-studio 9999: Blender addon. Lighting system
 media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
 media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
+media-plugins/blender-name-panel 9999: Blender addon. Name Panel
 media-plugins/blender-nodearrange 9999: Blender addon. Cleaning up Node Trees
-media-plugins/blender-push-pull-face 9999: Blender addon. Advansed face extrude
 media-plugins/blender-sverchok 9999: Blender addon. A visual programing with nodes
 media-plugins/blender-uvsquares 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-vsfmbundle 9999: Blender addon. Import bundler scene to blender
