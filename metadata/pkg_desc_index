@@ -52,12 +52,14 @@ media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
 media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
+media-plugins/blender-MultiEdit 9999: Blender addon for editing of multiple objects
 media-plugins/blender-YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
 media-plugins/blender-animation-nodes 9999: Blender addon. The nodes to create animations.
 media-plugins/blender-archimesh 9999: Blender addon. Shape Extrude Tool
 media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
+media-plugins/blender-dynamic-slideshow 9999: Blender addon. Slideshow with animated cameras
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
 media-plugins/blender-extrude-and-reshape 9999: Blender addon. Extrude and Reshape
 media-plugins/blender-kinoraw-tools 9999: Blender addon. A various sequencer addons
