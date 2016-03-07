@@ -51,6 +51,7 @@ media-libs/opensubdiv 3.0.0 3.0.2 3.0.3: An Open-Source subdivision surface libr
 media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r3: Python bindings for the IlmBase
+media-plugins/blender-BlenRig 9999: Blender addon. Auto-rigging and skinning system
 media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
 media-plugins/blender-MultiEdit 9999: Blender addon for editing of multiple objects
 media-plugins/blender-YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
