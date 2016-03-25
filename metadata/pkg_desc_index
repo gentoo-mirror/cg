@@ -89,6 +89,7 @@ net-fs/btfs 2.8: Mount a torrent file or magnet link as a file system
 net-misc/bcloud 9999: Baidu Pan client for Linux Desktop users
 net-misc/econnman 9999: EFL user interface for connman
 net-misc/megasync 15.04 15.10: The official QT-Based mega.co.nz client for sync your MEGA account
+sci-libs/ceres-solver 1.11.0-r1: Nonlinear least-squares minimizer
 x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
 x11-misc/xneur 0.17.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
