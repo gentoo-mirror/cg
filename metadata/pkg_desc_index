@@ -42,6 +42,7 @@ media-libs/alembic 1.5.8-r3: An open framework for storing and sharing 3D geomet
 media-libs/graclus 1.2: A fast graph clustering software
 media-libs/libmv 9999: 3D SFM System
 media-libs/luxrays 9999: Library to accelerate the ray intersection process by using GPUs.
+media-libs/openMVG 9999: Open Multiple View Geometry library
 media-libs/opencollada 1.2.2_p20150702: Stream based read/write library for COLLADA files
 media-libs/opencolorio 1.0.9-r4: A color management framework for visual effects and animation
 media-libs/openctm 1.0.3-r1: OpenCTM - the Open Compressed Triangle Mesh.
