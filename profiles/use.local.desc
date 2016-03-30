@@ -16,6 +16,7 @@ media-gfx/osl:tbb - Add support for dev-cpp/tbb
 media-gfx/siftgpu:cuda - Add support for dev-util/nvidia-cuda-toolkit
 media-libs/luxrays:blender - Add support for blender
 media-libs/opencolorio:pdf - Install extra documentation in PDF format
+media-libs/opencolorio-configs:additional - Install additional KFaenza icons. See third homepage for details
 media-libs/opencv:contrib - Install user contributed scripts from opencv_contrib
 media-libs/opencv:cuda - Enable NVIDIA Cuda computations support
 media-libs/opencv:eigen - Enable usage of dev-cpp/eigen for computations
@@ -27,6 +28,7 @@ media-libs/openimageio:colorio - Use media-gfx/opencolorio
 media-libs/openimageio:opencv - Use media-libs/opencv
 media-libs/openimageio:tbb - Use dev-cpp/tbb
 media-libs/pba:cuda - Add support for dev-util/nvidia-cuda-toolkit
+media-libs/tinydir:additional - Install additional KFaenza icons. See third homepage for details
 sci-libs/ceres-solver:c++11 - Use C++11 compiler features instead of internal ones
 sci-libs/ceres-solver:cxsparse - Enable simple support for sparse matrix algebra from sci-libs/cxsparse with no LAPACK dependencies
 sci-libs/ceres-solver:gflags - Use dev-cpp/gflags for flag parsing
