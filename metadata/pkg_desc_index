@@ -87,6 +87,7 @@ media-plugins/gxaudiovisualisation 9999: Blender Python script for audio visuali
 media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
 media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
 media-plugins/mitsuba-blender 9999: Blender addon. Mitsuba exporter
+media-plugins/openfx-TuttleOFX 9999: OpenFX. Image processing using OpenCV
 media-plugins/openfx-arena 9999: OpenFX. A set of visual effect plugins for OpenFX
 media-plugins/openfx-io 9999: OpenFX. The Readers/Writers plugins
 media-plugins/openfx-misc 9999: OpenFX. Miscellaneous plugins
