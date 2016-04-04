@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=dev-lang/python:3.5/3.5m dev-python/numpy media-libs/freetype x11-libs/libXt media-libs/lcms dev-libs/libltdl media-libs/libpng:0/16 virtual/jpeg media-libs/libcaca media-libs/glew media-libs/tiff media-libs/openexr media-libs/openimageio media-gfx/imagemagick media-libs/libraw virtual/ffmpeg media-libs/openjpeg virtual/glu media-gfx/graphviz virtual/jre virtual/jdk dev-libs/boost >=dev-vcs/git-1.8.2.1 sys-devel/make >=dev-util/cmake-2.8.12
+DEPEND=dev-lang/python:3.5/3.5m dev-python/numpy media-libs/freetype x11-libs/libXt media-libs/lcms dev-libs/libltdl media-libs/libpng:0/16 virtual/jpeg media-libs/libcaca media-libs/glew media-libs/tiff media-libs/openexr media-libs/openimageio media-gfx/imagemagick media-libs/libraw virtual/ffmpeg media-libs/openjpeg virtual/glu media-gfx/graphviz virtual/jre virtual/jdk dev-java/icedtea-bin dev-libs/boost >=dev-vcs/git-1.8.2.1 sys-devel/make >=dev-util/cmake-2.8.12
 DESCRIPTION=OpenFX. Image processing using OpenCV
 EAPI=5
 HOMEPAGE=http://www.tuttleofx.org/
 KEYWORDS=~amd64
 LICENSE=GPL-2
-RDEPEND=dev-lang/python:3.5/3.5m dev-python/numpy media-libs/freetype x11-libs/libXt media-libs/lcms dev-libs/libltdl media-libs/libpng:0/16 virtual/jpeg media-libs/libcaca media-libs/glew media-libs/tiff media-libs/openexr media-libs/openimageio media-gfx/imagemagick media-libs/libraw virtual/ffmpeg media-libs/openjpeg virtual/glu media-gfx/graphviz virtual/jre virtual/jdk dev-libs/boost
+RDEPEND=dev-lang/python:3.5/3.5m dev-python/numpy media-libs/freetype x11-libs/libXt media-libs/lcms dev-libs/libltdl media-libs/libpng:0/16 virtual/jpeg media-libs/libcaca media-libs/glew media-libs/tiff media-libs/openexr media-libs/openimageio media-gfx/imagemagick media-libs/libraw virtual/ffmpeg media-libs/openjpeg virtual/glu media-gfx/graphviz virtual/jre virtual/jdk dev-java/icedtea-bin dev-libs/boost
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
 _eclasses_=cmake-utils	422bbd1bee2557490177a34dbe0a662b	eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=5b356d1e9b80008b5064f9657b00a0a9
+_md5_=2532433c5f08f2eff4e650e1477f40fa
