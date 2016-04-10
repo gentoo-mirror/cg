@@ -31,7 +31,7 @@ media-gfx/mitsuba 9999-r2: Mitsuba is a physically based renderer.
 media-gfx/natron 9999: Node-graph based compositing software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/openvdb 3.0.0-r5 3.1.0 3.1.0-r1: Libs for the efficient manipulation of volumetric data
-media-gfx/osl 1.6.5-r1 1.6.8 1.7.1 9999: Open Shading Language
+media-gfx/osl 1.6.5-r1 1.6.8 1.7.2 9999: Open Shading Language
 media-gfx/pmvs 2-r1: Patch-based Multi-view Stereo Software
 media-gfx/siftgpu 0.5.400 0.5.400-r1: A GPU Implementation of SIFT
 media-gfx/slowmovideo 9999: Create slow-motion videos from your footage
