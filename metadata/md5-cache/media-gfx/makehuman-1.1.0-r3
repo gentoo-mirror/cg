@@ -1,0 +1,14 @@
+DEFINED_PHASES=install
+DEPEND=dev-python/pyopengl[python_targets_python2_7] dev-python/numpy[python_targets_python2_7] dev-python/PyQt4[python_targets_python2_7] media-libs/sdl-image media-libs/mesa media-libs/glew blender? ( media-gfx/blender ) aqsis? ( media-gfx/aqsis )
+DESCRIPTION=Software for the modelling of 3D humanoid characters.
+EAPI=5
+HOMEPAGE=http://www.makehuman.org/
+IUSE=aqsis blender python_targets_python2_7
+KEYWORDS=~x86 ~amd64
+LICENSE=AGPL
+PDEPEND=blender? ( media-plugins/makehuman-mhx2[blender] )
+RDEPEND=dev-python/pyopengl[python_targets_python2_7] dev-python/numpy[python_targets_python2_7] dev-python/PyQt4[python_targets_python2_7] media-libs/sdl-image media-libs/mesa media-libs/glew blender? ( media-gfx/blender ) aqsis? ( media-gfx/aqsis )
+SLOT=0
+SRC_URI=http://ppa.launchpad.net/makehuman-official/makehuman-11x/ubuntu/pool/main/m/makehuman/makehuman_1.1.0~rc3+20160416132607.orig.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=3d6dbd02abb7f5993332e6bf93cf8a9a
