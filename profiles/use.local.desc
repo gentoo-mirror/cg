@@ -14,6 +14,8 @@ media-gfx/makehuman:aqsis - Aqsis add its dependencies (Open source RenderMan-co
 media-gfx/makehuman:blender - Add media-gfx/blender support
 media-gfx/osl:tbb - Add support for dev-cpp/tbb
 media-gfx/siftgpu:cuda - Add support for dev-util/nvidia-cuda-toolkit
+media-libs/devil:allegro - Add support for Allegro
+media-libs/devil:nvtt - Add support for media-gfx/nvidia-texture-tools
 media-libs/luxrays:blender - Add support for blender
 media-libs/opencolorio:pdf - Install extra documentation in PDF format
 media-libs/opencolorio-configs:additional - Install additional KFaenza icons. See third homepage for details
