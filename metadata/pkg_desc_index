@@ -6,6 +6,7 @@ app-misc/media-player-info 22-r9: A repository of data files describing media pl
 app-text/goldendict 9999: Feature-rich dictionary lookup program
 app-text/sword 9999: Library for Bible reading software
 dev-python/cerealizer 0.8.1: A secure pickle-like module
+dev-python/numpy 1.11.0-r1: Fast array and numerical python library
 dev-python/pysqlite 2.8.1: DB-API 2.0 interface for SQLite 3.x
 dev-qt/qtnproperty 9999: Extended properties for Qt5
 dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
@@ -40,7 +41,7 @@ media-gfx/vlfeat 9999: Sift detector
 media-gfx/vsfm 0.5.26: A Visual Structure from Motion System
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-libs/SeExpr 9999: An embeddable expression evaluation engine
-media-libs/alembic 1.5.8-r3: An open framework for storing and sharing 3D geometry data.
+media-libs/alembic 1.5.8-r3 1.5.8-r4 1.5.8-r5: An open framework for storing and sharing 3D geometry data.
 media-libs/devil 1.7.8-r2: DevIL image library
 media-libs/graclus 1.2: A fast graph clustering software
 media-libs/libmv 9999: 3D SFM System
@@ -55,7 +56,7 @@ media-libs/openimageio 1.5.18 1.6.10 9999: A library for reading and writing ima
 media-libs/opensubdiv 3.0.0 3.0.2 3.0.3: An Open-Source subdivision surface library
 media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
-media-libs/pyilmbase 2.2.0-r3 2.2.0-r4 2.2.0-r5: Python bindings for the IlmBase
+media-libs/pyilmbase 2.2.0-r3 2.2.0-r4 2.2.0-r5 2.2.0-r7: Python bindings for the IlmBase
 media-libs/tinydir 9999: Lightweight, portable and easy to integrate C directory and file reader
 media-plugins/blender-BlenRig 9999: Blender addon. Auto-rigging and skinning system
 media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
