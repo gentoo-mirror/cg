@@ -5,8 +5,8 @@ EAPI=5
 HOMEPAGE=http://nikitron.cc.ua/sverchok_ru.html
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND==media-gfx/blender-9999
+RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	672c3929a162f221a53b4ccb4d25d8a2
-_md5_=c8a45ed95844b9e2bd87c4eabbe9759f
+_md5_=f64c403f7d97cb15a9a7f026873804f9

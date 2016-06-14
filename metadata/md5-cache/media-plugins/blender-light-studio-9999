@@ -5,8 +5,8 @@ EAPI=5
 HOMEPAGE=https://github.com/leomoon-studios/blender-light-studio
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND==media-gfx/blender-9999
+RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	672c3929a162f221a53b4ccb4d25d8a2
-_md5_=b45a9b019dfe715cef5ec71f46eab4ad
+_md5_=ae313bfe2ae192e5d57399160c79940f
