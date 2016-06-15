@@ -69,6 +69,7 @@ media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-dynamic-slideshow 9999: Blender addon. Slideshow with animated cameras
+media-plugins/blender-edgeequalize 9999: Blender addon. Set equal edge lengths.
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
 media-plugins/blender-kinoraw-tools 9999: Blender addon. A various sequencer addons
 media-plugins/blender-light-studio 9999: Blender addon. Lighting system
