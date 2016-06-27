@@ -8,5 +8,5 @@ LICENSE=CC-BY-SA-3.0
 SLOT=0
 SRC_URI=http://reddog.s35.xrea.com/software/luce-2.0.0.tar.xz
 _eclass_exported_funcs=-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	77f907363e91028a361ce5a3e9e7ed1e
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
 _md5_=6bc7f070093fee7abffad96a7406264a
