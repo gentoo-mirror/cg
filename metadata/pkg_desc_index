@@ -24,7 +24,7 @@ media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
 media-gfx/blender 9999 9999-r5 9999-r6 9999-r7 9999-r8: 3D Creation/Animation/Publishing System
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cmvs 2: Clustering Views for Multi-view Stereo
-media-gfx/djv 9999: Professional movie playback and image processing software.
+media-gfx/djv 9999 9999-r1: Professional movie playback and image processing software.
 media-gfx/embree 2.7.0 9999: Embree ray tracing kernels by intel
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/luxrender 9999: A GPL unbiased renderer.
