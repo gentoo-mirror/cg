@@ -65,7 +65,6 @@ media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
 media-plugins/blender-MultiEdit 9999: Blender addon for editing of multiple objects
 media-plugins/blender-YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
 media-plugins/blender-animation-nodes 9999: Blender addon. The nodes to create animations.
-media-plugins/blender-archimesh 9999: Blender addon. Shape Extrude Tool
 media-plugins/blender-batch-operations 9999: Blender addon. Batch operations for specific cases
 media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
