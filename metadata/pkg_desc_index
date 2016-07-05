@@ -14,6 +14,7 @@ dev-util/lemon 3.8.11.1: A LALR(1) parser generator.
 dev-util/nvidia-cuda-toolkit 7.5.18-r2 7.5.18-r3: NVIDIA CUDA Toolkit (compiler and friends)
 games-arcade/fofix 3.121 9999-r1: A game of musical skill and fast fingers
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
+kde-apps/krename 9999: krename ported to kf5
 kde-base/dolphin-dropbox-plugin 4.14.3: KDE Dolphin plugin for Dropbox (from Mercurial repos)
 kde-misc/kfilebox 0.4.10: KDE dropbox client
 media-gfx/AwesomeBump 4.0.0 4.0.0-r1 9999 9999-r1 9999-r2: A free, open source, cross-platform video editor
