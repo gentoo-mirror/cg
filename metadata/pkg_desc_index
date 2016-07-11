@@ -106,7 +106,7 @@ net-fs/btfs 2.8: Mount a torrent file or magnet link as a file system
 net-misc/bcloud 3.8.2.2 9999: Baidu Pan client for Linux Desktop users
 net-misc/econnman 9999: EFL user interface for connman
 net-misc/lionsync 9999: LionRender sync client
-net-misc/megasync 15.04 15.10: The official QT-Based mega.co.nz client for sync your MEGA account
+net-misc/megasync 15.04 15.10 16.04: The official QT-Based mega.co.nz client for sync your MEGA account
 sci-libs/ceres-solver 1.11.0-r1: Nonlinear least-squares minimizer
 sci-libs/hdf5 1.8.17-r1 1.8.17-r2 1.10.0_p1: General purpose library and file format for storing scientific data
 x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
