@@ -5,6 +5,8 @@ app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation
 app-misc/media-player-info 22-r9: A repository of data files describing media player capabilities
 app-text/goldendict 9999: Feature-rich dictionary lookup program
 app-text/sword 9999: Library for Bible reading software
+dev-ml/gapi-ocaml 0.2.10: A simple OCaml client for Google Services
+dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
 dev-python/cerealizer 0.8.1: A secure pickle-like module
 dev-python/numpy 1.11.0-r1: Fast array and numerical python library
 dev-python/pysqlite 2.8.1: DB-API 2.0 interface for SQLite 3.x
@@ -110,6 +112,7 @@ net-misc/lionsync 9999: LionRender sync client
 net-misc/megasync 15.04 15.10 16.04: The official QT-Based mega.co.nz client for sync your MEGA account
 sci-libs/ceres-solver 1.11.0-r1: Nonlinear least-squares minimizer
 sci-libs/hdf5 1.8.17-r1 1.8.17-r2 1.10.0_p1: General purpose library and file format for storing scientific data
+sys-fs/google-drive-ocamlfuse 0.5.22: FUSE filesystem over Google Drive
 x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
 x11-misc/xneur 0.17.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
