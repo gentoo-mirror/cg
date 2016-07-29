@@ -84,6 +84,7 @@ media-plugins/blender-perfect-shape 9999: Blender addon. Shape Extrude Tool
 media-plugins/blender-sverchok 9999: Blender addon. A visual programing with nodes
 media-plugins/blender-uvsquares 9999: Blender addon. A camera calibration toolkit
 media-plugins/blender-vsfmbundle 9999: Blender addon. Import bundler scene to blender
+media-plugins/blender-welder 9999: Bledner addon. Created welds of objects intersection
 media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
