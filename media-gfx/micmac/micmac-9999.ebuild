@@ -9,19 +9,19 @@ inherit cmake-utils eutils mercurial
 DESCRIPTION="Photorgammetry (SFM) software"
 HOMEPAGE="http://logiciels.ign.fr/?-Micmac,3-"
 EHG_REPO_URI="https://culture3d:culture3d@geoportail.forge.ign.fr/hg/culture3d"
+#EHG_REVISION="6772"
 
 LICENSE="CeCILL-B"
 SLOT="0"
 KEYWORDS="~amd64"
-IUSE="qt5 -openmp opencl doc" #dont compiled with openmp
-#TODO failed build with openmp
+IUSE="qt5 opencl doc"
+
 RDEPEND="
 	media-gfx/imagemagick
 	sci-libs/proj
 	media-gfx/exiv2
 	qt5? ( dev-qt/qtcore:5 )
-	opencl? ( virtual/opencl )
-	openmp? ( sys-devel/gcc[openmp] )"
+	opencl? ( virtual/opencl )"
 
 DEPEND="${RDEPEND}"
 
@@ -40,13 +40,15 @@ src_configure() {
 	mycmakeargs=(
 		${mycmakeargs}
 		-DCMAKE_INSTALL_PREFIX="/usr"
-		-DBUILD_POISSON=ON
+		-DBUILD_POISSON=OFF
 		-DBUILD_RNX2RTKP=OFF
 		-DCUDA_ENABLED=OFF
+		-DWITH_CPP11=ON
+		-DWITH_OPEN_MP=OFF
+		-DWITH_CPP11=OFF
 		-DNO_X11=OFF
 		-DWITH_DOXYGEN=OFF
 		$(cmake-utils_use_with opencl OPENCL)
-		$(cmake-utils_use_with openmp OPEN_MP)
 		$(cmake-utils_use_with qt5 QT5)
 	)
 	cmake-utils_src_configure
@@ -63,5 +65,5 @@ src_install() {
     fi
 	exeinto /usr/bin
 	doexe ${S}/bin/*
-	doexe ${S}/binaire-aux/linux/* #for POISSON and RNX2RTKP)
+	#doexe ${S}/binaire-aux/linux/* #for POISSON and RNX2RTKP)
 }
