@@ -38,7 +38,7 @@ media-gfx/micmac 9999: Photorgammetry (SFM) software
 media-gfx/mitsuba 9999-r2: Mitsuba is a physically based renderer.
 media-gfx/natron 9999: Node-graph based compositing software
 media-gfx/ngplant 9999: plant modeling software package
-media-gfx/openvdb 3.0.0-r5 3.1.0 3.1.0-r1 3.1.0-r2 3.1.0-r3: Libs for the efficient manipulation of volumetric data
+media-gfx/openvdb 3.0.0-r5 3.1.0 3.1.0-r1 3.1.0-r2 3.1.0-r3 3.2.0: Libs for the efficient manipulation of volumetric data
 media-gfx/osl 9999: Open Shading Language
 media-gfx/pmvs 2-r1: Patch-based Multi-view Stereo Software
 media-gfx/siftgpu 0.5.400 0.5.400-r1: A GPU Implementation of SIFT
