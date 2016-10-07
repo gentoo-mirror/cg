@@ -84,6 +84,7 @@ media-plugins/blender-light-studio 9999: Blender addon. Lighting system
 media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
 media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-plugins/blender-modular-tree 9999: Blender addon. Creation of fully skinned, unwrapped trees.
+media-plugins/blender-mp_advanced_renaming 9999: Blender addon. An advanced functionalities to rename objects
 media-plugins/blender-name-panel 9999: Blender addon. Name Panel
 media-plugins/blender-nodearrange 9999: Blender addon. Cleaning up Node Trees
 media-plugins/blender-perfect-shape 9999: Blender addon. Shape Extrude Tool
