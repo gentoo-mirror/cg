@@ -124,3 +124,4 @@ x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and E
 x11-misc/xneur 0.17.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
 x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
 x11-themes/oxygen-gtk3 9999: Official GTK+ 3 port of KDE's Oxygen widget style
+x11-themes/virtuality 9999: qt5 widget style
