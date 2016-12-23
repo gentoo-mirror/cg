@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=>=dev-libs/boost-1.43[python] media-libs/openexr media-libs/tiff:= media-libs/libpng:= media-libs/libjpeg-turbo media-libs/ilmbase >=media-libs/freeimage-3.15.0 media-libs/openimageio virtual/opengl virtual/opencl sys-devel/bison sys-devel/flex =media-libs/luxrays-9999[debug?] doc? ( >=app-doc/doxygen-1.5.7[-nodot] ) sys-devel/make >=dev-util/cmake-2.8.12 dev-vcs/mercurial
+DEPEND=>=dev-libs/boost-1.43[python] media-libs/openexr media-libs/tiff:= media-libs/libpng:= media-libs/libjpeg-turbo media-libs/ilmbase >=media-libs/freeimage-3.15.0 media-libs/openimageio virtual/opengl virtual/opencl sys-devel/bison sys-devel/flex =media-libs/luxrays-9999[debug?] doc? ( >=app-doc/doxygen-1.5.7[-nodot] ) sys-devel/make >=dev-util/cmake-3.2.2 dev-vcs/mercurial
 DESCRIPTION=A GPL unbiased renderer.
 EAPI=5
 HOMEPAGE=http://www.luxrender.net
@@ -10,5 +10,5 @@ PDEPEND=blender? ( =media-plugins/luxblend25-9999 )
 RDEPEND=>=dev-libs/boost-1.43[python] media-libs/openexr media-libs/tiff:= media-libs/libpng:= media-libs/libjpeg-turbo media-libs/ilmbase >=media-libs/freeimage-3.15.0 media-libs/openimageio virtual/opengl virtual/opencl
 SLOT=0
 _eclass_exported_funcs=pkg_setup:python-single-r1 src_unpack:mercurial src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	16e40479aefbbed67ea20779992ab90e	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	python-single-r1	19a74c6b5c191723a997dc7e0cc6bb09	python-utils-r1	d142329ab093dd20c1dd0edb5f094108	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=cmake-utils	841d8d6fc58d18f89ca4920900fd8d2a	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	python-single-r1	19a74c6b5c191723a997dc7e0cc6bb09	python-utils-r1	d142329ab093dd20c1dd0edb5f094108	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=55b035a954a64b6f608d451eb28bf2ab
