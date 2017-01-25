@@ -30,6 +30,7 @@ media-gfx/cloudcompare 9999 9999-r1: 3D point cloud processing software
 media-gfx/cmvs 2: Clustering Views for Multi-view Stereo
 media-gfx/djv 9999 9999-r1: Professional movie playback and image processing software.
 media-gfx/embree 2.7.0 9999: Embree ray tracing kernels by intel
+media-gfx/freecad 0.16-r1: QT based Computer Aided Design application
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/luxrender 9999: A GPL unbiased renderer.
