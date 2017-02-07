@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=virtual/ffmpeg media-libs/freeglut media-libs/glew media-libs/libsdl media-libs/opencv dev-qt/qtopengl:4 dev-qt/qtscript:4 dev-qt/qttest:4 dev-qt/qtxmlpatterns:4 virtual/jpeg:* sys-devel/make >=dev-util/cmake-3.5.2 dev-vcs/git
+DEPEND=virtual/ffmpeg media-libs/freeglut media-libs/glew media-libs/libsdl media-libs/opencv dev-qt/qtopengl:4 dev-qt/qtscript:4 dev-qt/qttest:4 dev-qt/qtxmlpatterns:4 virtual/jpeg:* sys-devel/make >=dev-util/cmake-3.6.3 dev-vcs/git
 DESCRIPTION=Create slow-motion videos from your footage
 EAPI=5
 HOMEPAGE=http://slowmovideo.granjow.net/
@@ -9,5 +9,5 @@ PDEPEND=video_cards_nvidia? ( media-gfx/v3d )
 RDEPEND=virtual/ffmpeg media-libs/freeglut media-libs/glew media-libs/libsdl media-libs/opencv dev-qt/qtopengl:4 dev-qt/qtscript:4 dev-qt/qttest:4 dev-qt/qtxmlpatterns:4 virtual/jpeg:*
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:cmake-utils src_configure:cmake-utils src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	b602fb1ae4bc807a6756bb8b187fbe54	eutils	ea170b525f6a38a006be05c9d9429f13	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	git-2	7af5d170bfc02983b4bcd3167dc5edd4	multilib	165fc17c38d1b11dac2008280dab6e80	multiprocessing	7bb10a841be2368af0c00f27dd67560b	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=cmake-utils	014267c4475c1a625ecec5b16e0db1e6	eutils	ea170b525f6a38a006be05c9d9429f13	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	git-2	7af5d170bfc02983b4bcd3167dc5edd4	multilib	165fc17c38d1b11dac2008280dab6e80	multiprocessing	7bb10a841be2368af0c00f27dd67560b	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=aaa8360bfa7ff4a845b12f5f929fd409

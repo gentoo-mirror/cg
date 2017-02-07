@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=dev-libs/libpcre dev-libs/zziplib media-libs/lib3ds sys-libs/zlib >=sys-devel/gcc-4.7 expat? ( dev-libs/expat ) !expat? ( dev-libs/libxml2 ) sys-apps/findutils sys-apps/sed sys-devel/make >=dev-util/cmake-3.5.2
+DEPEND=dev-libs/libpcre dev-libs/zziplib media-libs/lib3ds sys-libs/zlib >=sys-devel/gcc-4.7 expat? ( dev-libs/expat ) !expat? ( dev-libs/libxml2 ) sys-apps/findutils sys-apps/sed sys-devel/make >=dev-util/cmake-3.6.3
 DESCRIPTION=Stream based read/write library for COLLADA files
 EAPI=5
 HOMEPAGE=http://www.opencollada.org/
@@ -10,5 +10,5 @@ RDEPEND=dev-libs/libpcre dev-libs/zziplib media-libs/lib3ds sys-libs/zlib >=sys-
 SLOT=0
 SRC_URI=https://github.com/KhronosGroup/OpenCOLLADA/tarball/3335ac164e68b2512a40914b14c74db260e6ff7d -> opencollada-1.2.2_p20150702.tar.gz
 _eclass_exported_funcs=src_unpack:vcs-snapshot src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	b602fb1ae4bc807a6756bb8b187fbe54	eutils	ea170b525f6a38a006be05c9d9429f13	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	multilib	165fc17c38d1b11dac2008280dab6e80	multiprocessing	7bb10a841be2368af0c00f27dd67560b	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	vcs-snapshot	2b65ecb2d0f91e4322c2ac8d673993bd	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=cmake-utils	014267c4475c1a625ecec5b16e0db1e6	eutils	ea170b525f6a38a006be05c9d9429f13	flag-o-matic	7366202dd55cb8f018f5d450d54e7749	multilib	165fc17c38d1b11dac2008280dab6e80	multiprocessing	7bb10a841be2368af0c00f27dd67560b	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	vcs-snapshot	2b65ecb2d0f91e4322c2ac8d673993bd	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=d531999152511666716aa88a3cddde67
