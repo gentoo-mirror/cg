@@ -93,9 +93,7 @@ media-plugins/blender-light-studio 9999: Blender addon. Lighting system
 media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
 media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-plugins/blender-modular-tree 9999: Blender addon. Creation of fully skinned, unwrapped trees.
-media-plugins/blender-mp_advanced_renaming 9999: Blender addon. An advanced functionalities to rename objects
 media-plugins/blender-name-panel 9999: Blender addon. Name Panel
-media-plugins/blender-nodearrange 9999: Blender addon. Cleaning up Node Trees
 media-plugins/blender-offset_edges 9999: Blender addon for offsetting edges
 media-plugins/blender-perfect-shape 9999: Blender addon. Shape Extrude Tool
 media-plugins/blender-sverchok 9999: Blender addon. A visual programing with nodes
@@ -110,7 +108,6 @@ media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-plugins/gxaudiovisualisation 9999: Blender Python script for audio visualisation
 media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
 media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
-media-plugins/mitsuba-blender 9999: Blender addon. Mitsuba exporter
 media-plugins/openfx-TuttleOFX 9999: OpenFX. A library to connect and batch operations
 media-plugins/openfx-arena 9999: OpenFX. A set of visual effect plugins for OpenFX
 media-plugins/openfx-io 9999: OpenFX. The Readers/Writers plugins
