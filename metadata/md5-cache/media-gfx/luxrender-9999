@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=>=dev-libs/boost-1.43[python] media-libs/openexr media-libs/tiff:= media-libs/libpng:= media-libs/libjpeg-turbo media-libs/ilmbase >=media-libs/freeimage-3.15.0 media-libs/openimageio virtual/opengl virtual/opencl sys-devel/bison sys-devel/flex =media-libs/luxrays-9999[debug?] doc? ( >=app-doc/doxygen-1.5.7[-nodot] ) sys-devel/make >=dev-util/cmake-3.6.3 dev-vcs/mercurial
+DEPEND=>=dev-libs/boost-1.43[python] media-libs/openexr media-libs/tiff:= media-libs/libpng:= media-libs/libjpeg-turbo media-libs/ilmbase >=media-libs/freeimage-3.15.0 media-libs/openimageio virtual/opengl virtual/opencl sys-devel/bison sys-devel/flex =media-libs/luxrays-9999[debug?] doc? ( >=app-doc/doxygen-1.5.7[-nodot] ) sys-devel/make >=dev-util/cmake-3.7.2 dev-vcs/mercurial
 DESCRIPTION=A GPL unbiased renderer.
 EAPI=5
 HOMEPAGE=http://www.luxrender.net
@@ -10,5 +10,5 @@ PDEPEND=blender? ( =media-plugins/luxblend25-9999 )
 RDEPEND=>=dev-libs/boost-1.43[python] media-libs/openexr media-libs/tiff:= media-libs/libpng:= media-libs/libjpeg-turbo media-libs/ilmbase >=media-libs/freeimage-3.15.0 media-libs/openimageio virtual/opengl virtual/opencl
 SLOT=0
 _eclass_exported_funcs=pkg_setup:python-single-r1 src_unpack:mercurial src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	dd1d263f83f0791bd433b134f40db39b	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	mercurial	4d80fb11f07e24cf9827196e4f45fd18	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	python-single-r1	c3e54dd0dc1e70c6252f2551a55bf053	python-utils-r1	4f8aa7196c2c9a5630e66c2113ae46c3	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_eclasses_=cmake-utils	a69f3a404abc4ade0a99e523f51b989d	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	mercurial	4d80fb11f07e24cf9827196e4f45fd18	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	python-single-r1	c3e54dd0dc1e70c6252f2551a55bf053	python-utils-r1	4f8aa7196c2c9a5630e66c2113ae46c3	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
 _md5_=55b035a954a64b6f608d451eb28bf2ab
