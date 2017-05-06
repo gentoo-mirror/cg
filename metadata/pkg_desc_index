@@ -1,5 +1,4 @@
 app-accessibility/speech-dispatcher 0.8.3-r9: Speech synthesis interface
-app-dicts/aspell-ky 0.1.0: Kirghiz language dictionary for aspell
 app-dicts/myspell-ky 0.1.0: Kirghiz dictionaries for myspell/hunspell
 app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation being used
 app-misc/media-player-info 22-r9: A repository of data files describing media player capabilities
