@@ -115,7 +115,7 @@ media-plugins/openfx-opencv 9999: OpenFX. Image processing using OpenCV
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-plugins/vidstab 9999: Video stabilization library
 media-video/QtAV 9999: A cross-platform multimedia framework based on Qt and FFmpeg.
-media-video/lightworks 12.5.0 12.6-r3 12.6-r4 14.0-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 12.5.0 12.6-r3 12.6-r4 14.0-r1 14.0-r2: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-fs/btfs 2.8: Mount a torrent file or magnet link as a file system
 net-misc/bcloud 3.8.2.2 9999: Baidu Pan client for Linux Desktop users
