@@ -2,14 +2,11 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-accessibility/speech-dispatcher:espeak - Adds support for espeak speech engine
-app-accessibility/speech-dispatcher:flite - Adds support for flite speech engine
 dev-util/cuda-z:sm_30 - Add support for compute capability 3.0
 dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
 dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
 dev-util/nvidia-cuda-toolkit:eclipse - Install the dev-util/eclipse-sdk plugins
 dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
-media-gfx/embree:ispc - Adds support for Intel SPMD Program Compiler
 media-gfx/instant-meshes:tbb - Add support for dev-cpp/tbb
 media-gfx/makehuman:aqsis - Aqsis add its dependencies (Open source RenderMan-compliant 3D rendering solution)
 media-gfx/makehuman:blender - Add media-gfx/blender support
@@ -20,11 +17,7 @@ media-libs/devil:allegro - Add support for Allegro
 media-libs/devil:nvtt - Add support for media-gfx/nvidia-texture-tools
 media-libs/filmic-blender:pdf - Install extra documentation in PDF format
 media-libs/luxrays:blender - Add support for blender
-media-libs/opencolorio:pdf - Install extra documentation in PDF format
 media-libs/opencolorio-configs:additional - Install additional KFaenza icons. See third homepage for details
-media-libs/openimageio:colorio - Use media-gfx/opencolorio
-media-libs/openimageio:opencv - Use media-libs/opencv
-media-libs/openimageio:tbb - Use dev-cpp/tbb
 media-libs/pba:cuda - Add support for dev-util/nvidia-cuda-toolkit
 media-libs/tinydir:additional - Install additional KFaenza icons. See third homepage for details
 sci-libs/ceres-solver:c++11 - Use C++11 compiler features instead of internal ones

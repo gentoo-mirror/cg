@@ -1,21 +1,11 @@
-app-accessibility/speech-dispatcher 0.8.3-r9: Speech synthesis interface
 app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation being used
 app-misc/media-player-info 22-r9: A repository of data files describing media player capabilities
-app-text/goldendict 9999: Feature-rich dictionary lookup program
-app-text/sword 9999: Library for Bible reading software
-dev-ml/gapi-ocaml 0.2.10: A simple OCaml client for Google Services
-dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
 dev-python/cerealizer 0.8.1: A secure pickle-like module
-dev-python/numpy 1.11.0-r1: Fast array and numerical python library
-dev-python/pysqlite 2.8.1: DB-API 2.0 interface for SQLite 3.x
 dev-qt/qtnproperty 9999: Extended properties for Qt5
 dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
 dev-util/lemon 3.8.11.1: A LALR(1) parser generator.
-dev-util/nvidia-cuda-toolkit 7.5.18-r2 7.5.18-r3 8.0.44-r3: NVIDIA CUDA Toolkit (compiler and friends)
-games-arcade/fofix 3.121 9999-r1: A game of musical skill and fast fingers
+dev-util/nvidia-cuda-toolkit 7.5.18-r2 7.5.18-r3 8.0.44-r3 8.0.61-r1: NVIDIA CUDA Toolkit (compiler and friends)
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
-kde-apps/krename 9999: krename ported to kf5
-kde-misc/kfilebox 0.4.10: KDE dropbox client
 media-gfx/AwesomeBump 4.0.0 4.0.0-r1 9999 9999-r1 9999-r2: A free, open source, cross-platform video editor
 media-gfx/NormalmapGenerator 9999: A simple program that converts images into normal maps
 media-gfx/PoissonRecon 6.13: Screened Poisson Surface Reconstruction
@@ -23,19 +13,14 @@ media-gfx/alchemy 9999: Drawing program used for creating shapes, with interacti
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
 media-gfx/blender 9999-r8 9999-r9 9999-r10 9999-r11 9999-r12 9999-r13 9999-r14 9999-r15: 3D Creation/Animation/Publishing System
-media-gfx/blender-bin 2.78-r1: 3D Creation/Animation/Publishing System
 media-gfx/cloudcompare 9999 9999-r1: 3D point cloud processing software
 media-gfx/cmvs 2: Clustering Views for Multi-view Stereo
 media-gfx/djv 9999 9999-r1: Professional movie playback and image processing software.
-media-gfx/embree 2.7.0 9999: Embree ray tracing kernels by intel
-media-gfx/freecad 0.16-r1: QT based Computer Aided Design application
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/luxrender 9999: A GPL unbiased renderer.
 media-gfx/makehuman 1.0.2-r1 1.1.0 1.1.0-r1 1.1.0-r3 1.1.0-r4 9999-r4: Software for the modelling of 3D humanoid characters.
-media-gfx/meshlab 9999: The open source mesh processing system
 media-gfx/micmac 9999 9999-r1: Photorgammetry (SFM) software
-media-gfx/mitsuba 9999-r2: Mitsuba is a physically based renderer.
 media-gfx/natron 9999: Node-graph based compositing software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/osl 9999: Open Shading Language
@@ -56,12 +41,10 @@ media-libs/libmv 9999: 3D SFM System
 media-libs/luxrays 9999: Library to accelerate the ray intersection process by using GPUs.
 media-libs/openMVG 9999: Open Multiple View Geometry library
 media-libs/opencollada 1.2.2_p20150702: Stream based read/write library for COLLADA files
-media-libs/opencolorio 1.0.9-r4: A color management framework for visual effects and animation
 media-libs/opencolorio-configs 9999: Color Configurations for OpenColorIO
 media-libs/openctm 1.0.3-r1: OpenCTM - the Open Compressed Triangle Mesh.
 media-libs/openexr 2.2.0-r1 2.2.0-r2: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/openimageio 1.5.18 1.6.10 9999: A library for reading and writing images
-media-libs/opensubdiv 3.0.0 3.0.2 3.0.3 3.1.0-r1: An Open-Source subdivision surface library
+media-libs/opensubdiv 3.2.0: An Open-Source subdivision surface library
 media-libs/pba 1.0.5: Multicore Bundle Adjustment
 media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r7: Python bindings for the IlmBase
@@ -116,14 +99,9 @@ media-plugins/vidstab 9999: Video stabilization library
 media-video/QtAV 9999: A cross-platform multimedia framework based on Qt and FFmpeg.
 media-video/lightworks 12.5.0 12.6-r3 12.6-r4 14.0-r1 14.0-r2 14.0-r3: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/shotcut 9999: A free, open source, cross-platform video editor
-net-fs/btfs 2.8: Mount a torrent file or magnet link as a file system
 net-misc/bcloud 3.8.2.2 9999: Baidu Pan client for Linux Desktop users
-net-misc/econnman 9999: EFL user interface for connman
-net-misc/lionsync 9999: LionRender sync client
-net-misc/megasync 15.04 15.10 16.04: The official QT-Based mega.co.nz client for sync your MEGA account
 sci-libs/ceres-solver 1.11.0-r1: Nonlinear least-squares minimizer
 sci-libs/hdf5 1.8.17-r1 1.8.17-r2 1.10.0_p1: General purpose library and file format for storing scientific data
-sys-fs/google-drive-ocamlfuse 0.5.22: FUSE filesystem over Google Drive
 sys-kernel/gentoo-sources 4.6.4-r20: Full sources including the Gentoo patchset for the 4.6 kernel tree
 x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
