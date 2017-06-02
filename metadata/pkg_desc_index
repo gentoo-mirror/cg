@@ -43,6 +43,7 @@ media-gfx/pmvs 2-r1: Patch-based Multi-view Stereo Software
 media-gfx/siftgpu 0.5.400 0.5.400-r1: A GPU Implementation of SIFT
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/slowmovideo 9999: Create slow-motion videos from your footage
+media-gfx/v3d 9999: GPU implementation for slowmoVideo
 media-gfx/vlfeat 9999: Sift detector
 media-gfx/vsfm 0.5.26: A Visual Structure from Motion System
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
