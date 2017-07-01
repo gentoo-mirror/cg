@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND==media-libs/mlt-9999 dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtx11extras:5 dev-qt/qtsql:5 dev-qt/qtwebkit:5 dev-qt/qtquickcontrols:5 dev-qt/qtnetwork:5 dev-qt/qtxml:5 dev-qt/qtopengl:5 dev-qt/qtwidgets:5 dev-qt/qtconcurrent:5 dev-qt/qtmultimedia:5 dev-qt/qtprintsupport:5 =media-video/ffmpeg-2* media-libs/x264 media-libs/libvpx media-sound/lame media-plugins/frei0r-plugins media-libs/ladspa-sdk
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_install:-
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	git-2	195a672bfaf52d868442171c9469bbb6	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	772b26a6baefb4c8c5e0c1fc724508b7
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	git-2	195a672bfaf52d868442171c9469bbb6	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
 _md5_=bd9a1562c1862ef42e70d00c02c90997
