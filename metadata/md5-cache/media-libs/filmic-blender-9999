@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=media-gfx/blender[addons,opencolorio]
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:- pkg_postrm:- src_unpack:git-r3 src_install:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=f992427640f7b7fca3f9afcf74786b98
