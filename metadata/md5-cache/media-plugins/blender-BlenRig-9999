@@ -7,6 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
 _md5_=410c8174e6d5beb3ee9419fa3ff36f9f

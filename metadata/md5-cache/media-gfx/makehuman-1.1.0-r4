@@ -10,5 +10,4 @@ PDEPEND=blender? ( media-plugins/makehuman-mhx2[blender] )
 RDEPEND=dev-python/pyopengl[python_targets_python2_7] dev-python/numpy[python_targets_python2_7] dev-python/PyQt4[python_targets_python2_7] media-libs/sdl-image media-libs/mesa media-libs/glew blender? ( media-gfx/blender ) aqsis? ( media-gfx/aqsis )
 SLOT=0
 SRC_URI=http://ppa.launchpad.net/makehuman-official/makehuman-11x/ubuntu/pool/main/m/makehuman/makehuman_1.1.0+20160514083530.orig.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=912bf68cc1403d0e36275e007bf1177f

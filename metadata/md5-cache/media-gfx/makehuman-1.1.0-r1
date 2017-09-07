@@ -9,5 +9,4 @@ LICENSE=AGPL
 RDEPEND=dev-python/pyopengl[python_targets_python2_7] dev-python/numpy[python_targets_python2_7] dev-python/PyQt4[python_targets_python2_7] media-libs/sdl-image media-libs/mesa media-libs/glew blender? ( media-gfx/blender ) aqsis? ( media-gfx/aqsis )
 SLOT=0
 SRC_URI=http://ppa.launchpad.net/makehuman-official/makehuman-11x/ubuntu/pool/main/m/makehuman/makehuman_1.1.0~rc2+20160305161451.orig.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=f1b9e5a3c4e968e906d6b1734f0966dc
