@@ -2,32 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-util/cuda-z:sm_30 - Add support for compute capability 3.0
-dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
-dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
-dev-util/nvidia-cuda-toolkit:eclipse - Install the dev-util/eclipse-sdk plugins
-dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
 media-gfx/instant-meshes:tbb - Add support for dev-cpp/tbb
-media-gfx/makehuman:aqsis - Aqsis add its dependencies (Open source RenderMan-compliant 3D rendering solution)
-media-gfx/makehuman:blender - Add media-gfx/blender support
 media-gfx/osl:tbb - Add support for dev-cpp/tbb
-media-gfx/siftgpu:cuda - Add support for dev-util/nvidia-cuda-toolkit
 media-gfx/sketch-retopo:tbb - Add support for dev-cpp/tbb
-media-libs/devil:allegro - Add support for Allegro
-media-libs/devil:nvtt - Add support for media-gfx/nvidia-texture-tools
-media-libs/filmic-blender:pdf - Install extra documentation in PDF format
-media-libs/luxrays:blender - Add support for blender
-media-libs/opencolorio-configs:additional - Install additional KFaenza icons. See third homepage for details
-media-libs/pba:cuda - Add support for dev-util/nvidia-cuda-toolkit
-media-libs/tinydir:additional - Install additional KFaenza icons. See third homepage for details
-sci-libs/ceres-solver:c++11 - Use C++11 compiler features instead of internal ones
-sci-libs/ceres-solver:cxsparse - Enable simple support for sparse matrix algebra from sci-libs/cxsparse with no LAPACK dependencies
-sci-libs/ceres-solver:gflags - Use dev-cpp/gflags for flag parsing
-sci-libs/ceres-solver:protobuf - Use dev-libs/protobuf to encode structured data
-sci-libs/ceres-solver:schur - Enable fixed-size schur specializations (disable if binary size is an issue)
-sci-libs/ceres-solver:sparse - Enable support for sparse matrix algebra with various packages from SuiteSparse instead of Eigen Sparse
-sci-libs/hdf5:fortran2003 - Enable new features that require Fortran 2003 (http://www.hdfgroup.org/HDF5/doc/fortran/NewFeatures_F2003.pdf)
-sys-kernel/gentoo-sources:deblob - Remove binary blobs from kernel sources to provide libre license compliance.
-sys-kernel/gentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
-sys-kernel/gentoo-sources:kdbus - Apply the kdbus patch. This also requires the "experimental" use flag.
-x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details

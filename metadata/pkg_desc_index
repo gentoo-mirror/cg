@@ -1,54 +1,20 @@
-app-eselect/eselect-opencl 1.1.0-r9: Utility to change the OpenCL implementation being used
-app-misc/media-player-info 22-r9: A repository of data files describing media player capabilities
-dev-python/cerealizer 0.8.1: A secure pickle-like module
-dev-qt/qtnproperty 9999: Extended properties for Qt5
-dev-util/cuda-z 9999: CUDA Information Utility for nVIDIA chipsets.
-dev-util/lemon 3.8.11.1: A LALR(1) parser generator.
-dev-util/nvidia-cuda-toolkit 7.5.18-r2 7.5.18-r3 8.0.44-r3 8.0.61-r1 8.0.61-r2: NVIDIA CUDA Toolkit (compiler and friends)
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-gfx/AwesomeBump 4.0.0 4.0.0-r1 9999 9999-r1 9999-r2: A free, open source, cross-platform video editor
 media-gfx/NormalmapGenerator 9999: A simple program that converts images into normal maps
-media-gfx/PoissonRecon 6.13: Screened Poisson Surface Reconstruction
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
 media-gfx/blender 9999-r15 9999-r16 9999-r17: 3D Creation/Animation/Publishing System
-media-gfx/cloudcompare 9999 9999-r1: 3D point cloud processing software
-media-gfx/cmvs 2: Clustering Views for Multi-view Stereo
 media-gfx/djv 9999 9999-r1: Professional movie playback and image processing software.
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
-media-gfx/luxrender 9999: A GPL unbiased renderer.
-media-gfx/makehuman 1.0.2-r1 1.1.0 1.1.0-r1 1.1.0-r3 1.1.0-r4 9999-r4: Software for the modelling of 3D humanoid characters.
 media-gfx/micmac 9999 9999-r1: Photorgammetry (SFM) software
-media-gfx/natron 9999: Node-graph based compositing software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/osl 9999: Open Shading Language
-media-gfx/pmvs 2-r1: Patch-based Multi-view Stereo Software
-media-gfx/siftgpu 0.5.400 0.5.400-r1: A GPU Implementation of SIFT
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
-media-gfx/slowmovideo 9999: Create slow-motion videos from your footage
-media-gfx/v3d 9999: GPU implementation for slowmoVideo
-media-gfx/vlfeat 9999: Sift detector
-media-gfx/vsfm 0.5.26: A Visual Structure from Motion System
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
-media-libs/SeExpr 9999: An embeddable expression evaluation engine
 media-libs/alembic 9999-r2 9999-r3: An open framework for storing and sharing 3D geometry data.
-media-libs/devil 1.7.8-r2: DevIL image library
-media-libs/filmic-blender 9999: Filmic View and Look Transformations for Blender
-media-libs/graclus 1.2: A fast graph clustering software
-media-libs/libmv 9999: 3D SFM System
-media-libs/luxrays 9999: Library to accelerate the ray intersection process by using GPUs.
-media-libs/openMVG 9999: Open Multiple View Geometry library
-media-libs/opencollada 1.2.2_p20150702: Stream based read/write library for COLLADA files
-media-libs/opencolorio-configs 9999: Color Configurations for OpenColorIO
-media-libs/openctm 1.0.3-r1: OpenCTM - the Open Compressed Triangle Mesh.
-media-libs/openexr 2.2.0-r1 2.2.0-r2: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/opensubdiv 3.2.0: An Open-Source subdivision surface library
-media-libs/pba 1.0.5: Multicore Bundle Adjustment
-media-libs/ptex 2.0.62: Per-Face Texture Mapping for Production Rendering
 media-libs/pyilmbase 2.2.0-r7: Python bindings for the IlmBase
-media-libs/tinydir 9999: Lightweight, portable and easy to integrate C directory and file reader
 media-plugins/blender-Asset-Flinger 9999: Blender addon. Simple Mesh Importer for Blender
 media-plugins/blender-AutoMirror 9999: Blender addon. For auto mirror modifier
 media-plugins/blender-BlenRig 9999: Blender addon. Auto-rigging and skinning system
@@ -86,26 +52,6 @@ media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's L
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
-media-plugins/gxaudiovisualisation 9999: Blender Python script for audio visualisation
-media-plugins/luxblend25 9999: Blender 2.5 exporter for luxrender
-media-plugins/makehuman-mhx2 9999: MakeHuman eXchange format 2
-media-plugins/openfx-TuttleOFX 9999: OpenFX. A library to connect and batch operations
-media-plugins/openfx-arena 9999: OpenFX. A set of visual effect plugins for OpenFX
-media-plugins/openfx-io 9999: OpenFX. The Readers/Writers plugins
-media-plugins/openfx-misc 9999: OpenFX. Miscellaneous plugins
-media-plugins/openfx-opencv 9999: OpenFX. Image processing using OpenCV
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
-media-plugins/vidstab 9999: Video stabilization library
-media-video/QtAV 9999: A cross-platform multimedia framework based on Qt and FFmpeg.
 media-video/lightworks 12.5.0 12.6-r3 12.6-r4 14.0-r1 14.0-r2 14.0-r3: Lightworks is the fastest, most accessible and focused NLE in the industry
-media-video/shotcut 9999: A free, open source, cross-platform video editor
 net-misc/bcloud 3.8.2.2 9999: Baidu Pan client for Linux Desktop users
-sci-libs/ceres-solver 1.11.0-r1: Nonlinear least-squares minimizer
-sci-libs/hdf5 1.8.17-r1 1.8.17-r2 1.10.0_p1: General purpose library and file format for storing scientific data
-sys-kernel/gentoo-sources 4.6.4-r20: Full sources including the Gentoo patchset for the 4.6 kernel tree
-x11-misc/kdeneur 0.17.0: GTK+ based GUI for xneur
-x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
-x11-misc/xneur 0.17.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
-x11-themes/kfaenza 0.8.9-r2: Faenza-Cupertino icon theme for KDE
-x11-themes/oxygen-gtk3 9999: Official GTK+ 3 port of KDE's Oxygen widget style
-x11-themes/virtuality 9999: qt5 widget style

@@ -1,9 +1,0 @@
-DEFINED_PHASES=configure install unpack
-DEPEND=media-video/ffmpeg media-libs/openal media-libs/libass dev-util/nvidia-cuda-toolkit >=dev-vcs/git-1.8.2.1
-DESCRIPTION=A cross-platform multimedia framework based on Qt and FFmpeg.
-EAPI=5
-HOMEPAGE=http://qtav.org
-LICENSE=GPL-2
-SLOT=0
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	git-r3	4f7ddb4119309845d6687213171ab445	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=66118b769a6816ab762d8ed10f665678
