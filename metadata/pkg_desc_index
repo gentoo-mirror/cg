@@ -19,6 +19,7 @@ media-plugins/blender-Asset-Flinger 9999: Blender addon. Simple Mesh Importer fo
 media-plugins/blender-AutoMirror 9999: Blender addon. For auto mirror modifier
 media-plugins/blender-BlenRig 9999: Blender addon. Auto-rigging and skinning system
 media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
+media-plugins/blender-DestructiveExtrude 9999: Blender addon. Extrude poligons like in sketchup
 media-plugins/blender-EasyLattice 9999: Blender addon. Create a lattice for shape editing
 media-plugins/blender-MirrorMirror 9999: Blender addon. Adds mirror modifier to axis
 media-plugins/blender-MultiEdit 9999: Blender addon for editing of multiple objects
