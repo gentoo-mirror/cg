@@ -5,7 +5,7 @@ media-gfx/alchemy 9999: Drawing program used for creating shapes, with interacti
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
 media-gfx/blender 2.78c-r1 2.79-r1 2.79-r2 2.79.9999 2.79.9999-r1 2.79.9999-r2: 3D Creation/Animation/Publishing System
-media-gfx/djv 9999 9999-r1: Professional movie playback and image processing software.
+media-gfx/djv 9999 9999-r1 9999-r2: Professional movie playback and image processing software.
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/micmac 9999 9999-r1: Photorgammetry (SFM) software
