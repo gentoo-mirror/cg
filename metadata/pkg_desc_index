@@ -4,8 +4,8 @@ media-gfx/NormalmapGenerator 9999: Converts images into normal maps
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
-media-gfx/blender 2.78c-r1 2.79-r1 2.79-r2 2.79.9999 2.79.9999-r1 2.79.9999-r2: 3D Creation/Animation/Publishing System
-media-gfx/djv 9999 9999-r1 9999-r2: Professional movie playback and image processing software.
+media-gfx/blender 2.78c-r1 2.79-r1 2.79-r2 2.79.9999 2.79.9999-r1 2.79.9999-r2 2.79.9999-r3: 3D Creation/Animation/Publishing System
+media-gfx/djv 9999 9999-r1 9999-r2 9999-r3: Professional movie playback and image processing software.
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
 media-gfx/micmac 9999 9999-r1: Photorgammetry (SFM) software
@@ -38,6 +38,7 @@ media-plugins/blender-cendatools-offset_animation 9999: Blender addon. Easy shif
 media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
 media-plugins/blender-edgeequalize 9999: Blender addon. Set equal edge lengths.
 media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
+media-plugins/blender-kaleidoscope 9999: Blender addon. A small collection of creative Nodes
 media-plugins/blender-light-studio 9999: Blender addon. Lighting system
 media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
 media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
@@ -56,4 +57,4 @@ media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-video/lightworks 14.0-r5: Lightworks is the fastest, most accessible and focused NLE in the industry
-net-misc/bcloud 3.8.2.2 9999: Baidu Pan client for Linux Desktop users
+net-misc/bcloud 3.8.2.2 9999 9999-r1: Baidu Pan client for Linux Desktop users

@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Blender addon. A small collection of creative Nodes
+EAPI=5
+HOMEPAGE=https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/offset_edges
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/blender[addons]
+SLOT=0
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_md5_=4ccdee3a8c6677db66732bdbf8aac22b
