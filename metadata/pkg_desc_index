@@ -1,4 +1,5 @@
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
+media-blender/booltron 9999: Blender addon. A super fast booleans
 media-gfx/AwesomeBump 9999-r2: A free, open source, cross-platform video editor
 media-gfx/NormalmapGenerator 9999: Converts images into normal maps
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
