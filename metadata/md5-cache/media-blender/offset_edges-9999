@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
-DESCRIPTION=Blender addon. Easy shifting keyframes
-EAPI=5
-HOMEPAGE=https://blenderartists.org/forum/showthread.php?405910-Addon-Cenda-Tools
+DESCRIPTION=Blender addon for offsetting edges
+EAPI=6
+HOMEPAGE=https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/offset_edges
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=29268d653c15a67021d70233c2b341c0
+_md5_=d3443ea5b4adc83bd4f241b664766db7

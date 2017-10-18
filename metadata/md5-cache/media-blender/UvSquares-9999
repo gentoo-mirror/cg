@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
-DESCRIPTION=Blender addon for computational design
-EAPI=5
-HOMEPAGE=http://www.co-de-it.com/wordpress/code/blender-tissue
+DESCRIPTION=Blender addon. A camera calibration toolkit
+EAPI=6
+HOMEPAGE=https://github.com/Radivarig/UvSquares
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=0e1f9da0f57f315986c1539f5dd8b305
+_md5_=b4cbfc2145b9cd3bd82b51d12fcb4070

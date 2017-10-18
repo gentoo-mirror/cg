@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
-DESCRIPTION=Blender addon. For auto mirror modifier
-EAPI=5
-HOMEPAGE=https://blenderaddonlist.blogspot.ru/2014/07/addon-auto-mirror.html
+DESCRIPTION=Blender addon. Create a lattice for shape editing
+EAPI=6
+HOMEPAGE=https://wiki.blender.org/index.php/Easy_Lattice_Editing_Addon
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=f2d4157d541ea629786d6ea2c333ec3d
+_md5_=41ea55b830d9cc108dfaeb749e0bc2f0

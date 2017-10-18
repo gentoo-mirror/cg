@@ -1,5 +1,26 @@
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
+media-blender/EasyLattice 9999: Blender addon. Create a lattice for shape editing
+media-blender/MultiEdit 9999: Blender addon for editing of multiple objects
+media-blender/SpaceshipGenerator 9999: Bkedner addon for procedurally generating 3D spaceships
+media-blender/TubeTool 9999: Blender addon for generate tubing between two selected polygons
+media-blender/UvSquares 9999: Blender addon. A camera calibration toolkit
+media-blender/YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
+media-blender/animation-nodes 9999: Blender addon. The nodes to create animations.
+media-blender/batch-operations 9999: Blender addon. Batch operations for specific cases
+media-blender/blam 9999: Blender addon. A camera calibration toolkit
+media-blender/blender-light-studio 9999: Blender addon. Lighting system
 media-blender/booltron 9999: Blender addon. A super fast booleans
+media-blender/cendatools-offset_animation 9999: Blender addon. Easy shifting keyframes
+media-blender/edgeequalize 9999: Blender addon. Set equal edge lengths.
+media-blender/export-selected 9999: Blender addon. Export only selected objects
+media-blender/kaleidoscope 9999: Blender addon. A small collection of creative Nodes
+media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
+media-blender/offset_edges 9999: Blender addon for offsetting edges
+media-blender/perfect_shape 9999: Blender addon. Shape Extrude Tool
+media-blender/simple_renaming_panel 9999: Blender addon. A simple and fast renaming tool for blender.
+media-blender/sverchok 9999: Blender addon. A visual programing with nodes
+media-blender/time_tracker 9999: Blender addon. Simple time tracker inside blender.
+media-blender/tissue 9999: Blender addon for computational design
 media-gfx/AwesomeBump 9999-r2: A free, open source, cross-platform video editor
 media-gfx/NormalmapGenerator 9999: Converts images into normal maps
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
@@ -20,38 +41,6 @@ media-libs/openimageio 1.7.17: A library for reading and writing images
 media-libs/opensubdiv 3.3.0-r1: An Open-Source subdivision surface library
 media-libs/osl 1.8.11: Advanced shading language for production GI renderers
 media-libs/pyilmbase 2.2.0-r7 2.2.0-r8: Python bindings for the IlmBase
-media-plugins/blender-Asset-Flinger 9999: Blender addon. Simple Mesh Importer for Blender
-media-plugins/blender-AutoMirror 9999: Blender addon. For auto mirror modifier
-media-plugins/blender-BlenRig 9999: Blender addon. Auto-rigging and skinning system
-media-plugins/blender-BoolTool 9999: Blender addon. BootTool with fixes
-media-plugins/blender-DestructiveExtrude 9999: Blender addon. Extrude poligons like in sketchup
-media-plugins/blender-EasyLattice 9999: Blender addon. Create a lattice for shape editing
-media-plugins/blender-MirrorMirror 9999: Blender addon. Adds mirror modifier to axis
-media-plugins/blender-MultiEdit 9999: Blender addon for editing of multiple objects
-media-plugins/blender-SpaceshipGenerator 9999: Bkedner addon for procedurally generating 3D spaceships
-media-plugins/blender-TubeTool 9999: Blender addon for generate tubing between two selected polygons
-media-plugins/blender-YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
-media-plugins/blender-animation-nodes 2.0 9999: Blender addon. The nodes to create animations.
-media-plugins/blender-batch-operations 9999: Blender addon. Batch operations for specific cases
-media-plugins/blender-blam 9999: Blender addon. A camera calibration toolkit
-media-plugins/blender-booltron 9999: Blender addon. A super fast booleans
-media-plugins/blender-cendatools-offset_animation 9999: Blender addon. Easy shifting keyframes
-media-plugins/blender-cut-mesh 9999: Blender addon. Tools for mesh trimming
-media-plugins/blender-edgeequalize 9999: Blender addon. Set equal edge lengths.
-media-plugins/blender-export-selected 9999: Blender addon. Export only selected objects
-media-plugins/blender-kaleidoscope 9999: Blender addon. A small collection of creative Nodes
-media-plugins/blender-light-studio 9999: Blender addon. Lighting system
-media-plugins/blender-meltdown 9999: Blender addon. Streamline baking with Cycles
-media-plugins/blender-mira-tools 9999: Blender addon. Modeling/Retopo tools
-media-plugins/blender-modular-tree 9999: Blender addon. Creation of fully skinned, unwrapped trees.
-media-plugins/blender-name-panel 9999: Blender addon. Name Panel
-media-plugins/blender-offset_edges 9999: Blender addon for offsetting edges
-media-plugins/blender-perfect-shape 9999: Blender addon. Shape Extrude Tool
-media-plugins/blender-sverchok 9999: Blender addon. A visual programing with nodes
-media-plugins/blender-time_tracker 9999: Blender addon. Simple time tracker inside blender.
-media-plugins/blender-tissue 9999: Blender addon for computational design
-media-plugins/blender-uvsquares 9999: Blender addon. A camera calibration toolkit
-media-plugins/blender-vsfmbundle 9999: Blender addon. Import bundler scene to blender
 media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.

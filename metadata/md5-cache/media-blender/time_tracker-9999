@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
 DESCRIPTION=Blender addon. Simple time tracker inside blender.
-EAPI=5
+EAPI=6
 HOMEPAGE=http://blenderartists.org/forum/showthread.php?345129-Time-Tracker-addon
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=c38b501f36d16391a00921ac7ef36d84
+_md5_=92a11bcb263a6cf894e091e5c967aec9

@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
-DESCRIPTION=Blender addon. Adds mirror modifier to axis
-EAPI=5
-HOMEPAGE=https://github.com/fornof/BlenderAddons
+DESCRIPTION=Blender addon. Easy shifting keyframes
+EAPI=6
+HOMEPAGE=https://blenderartists.org/forum/showthread.php?405910-Addon-Cenda-Tools
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=2bfd50810ca893431b65c058533c06a2
+_md5_=fe3f0a5bfc474cec78800256daf57b87
