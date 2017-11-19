@@ -1,3 +1,4 @@
+dev-util/nvidia-cuda-toolkit 8.0.61-r3 8.0.61-r4: NVIDIA CUDA Toolkit (compiler and friends)
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/EasyLattice 9999: Blender addon. Create a lattice for shape editing
 media-blender/MultiEdit 9999: Blender addon for editing of multiple objects

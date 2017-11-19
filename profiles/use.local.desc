@@ -2,6 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
+dev-util/nvidia-cuda-toolkit:eclipse - Install plugins for eclipse
+dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
 media-gfx/blender:addons - Enable bundled addons and addons_contrib.
 media-gfx/blender:alembic - Add support for Alembic interchange format through media-libs/alembic.
 media-gfx/blender:avi - Add support for AVI codec.
