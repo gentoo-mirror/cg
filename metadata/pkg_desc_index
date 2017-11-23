@@ -11,6 +11,7 @@ media-blender/batch-operations 9999: Blender addon. Batch operations for specifi
 media-blender/blam 9999: Blender addon. A camera calibration toolkit
 media-blender/blender-light-studio 9999: Blender addon. Lighting system
 media-blender/booltron 9999: Blender addon. A super fast booleans
+media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
 media-blender/cendatools-offset_animation 9999: Blender addon. Easy shifting keyframes
 media-blender/edgeequalize 9999: Blender addon. Set equal edge lengths.
 media-blender/export-selected 9999: Blender addon. Export only selected objects
