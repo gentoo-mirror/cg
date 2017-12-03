@@ -1,5 +1,6 @@
 dev-util/nvidia-cuda-toolkit 8.0.61-r3 8.0.61-r4: NVIDIA CUDA Toolkit (compiler and friends)
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
+kde-apps/kwin-tiling 9999: Tiling script for kwin
 media-blender/EasyLattice 9999: Blender addon. Create a lattice for shape editing
 media-blender/MultiEdit 9999: Blender addon for editing of multiple objects
 media-blender/SpaceshipGenerator 9999: Bkedner addon for procedurally generating 3D spaceships
@@ -16,6 +17,7 @@ media-blender/cendatools-offset_animation 9999: Blender addon. Easy shifting key
 media-blender/edgeequalize 9999: Blender addon. Set equal edge lengths.
 media-blender/export-selected 9999: Blender addon. Export only selected objects
 media-blender/kaleidoscope 9999: Blender addon. A small collection of creative Nodes
+media-blender/mesh_align_to_gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/offset_edges 9999: Blender addon for offsetting edges
 media-blender/perfect_shape 9999: Blender addon. Shape Extrude Tool

@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Blender addon. Align Selection To Gpencil Stroke
+EAPI=6
+HOMEPAGE=https://blenderartists.org/forum/showthread.php?332160-Addon-Align-Selection-to-Grease-Pencil
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=media-gfx/blender[addons]
+SLOT=0
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
+_md5_=ab63b7c14d3b97edaf2147877403611b
