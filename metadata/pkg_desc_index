@@ -36,6 +36,7 @@ media-gfx/blender 9999: 3D Creation/Animation/Publishing System
 media-gfx/djv 9999 9999-r1 9999-r2 9999-r3: Professional movie playback and image processing software.
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/kde-thumbnailer-blender 9999: to create thumbnails for blend files in KDE
+media-gfx/makehuman 9999: The software to create realistic 3d humans
 media-gfx/micmac 9999 9999-r1: Photorgammetry (SFM) software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
@@ -51,6 +52,7 @@ media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's L
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
+media-plugins/makehuman-assets 9999: These are the assets which are bundled with MakeHuman releases
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-video/lightworks 14.0-r5: Lightworks is the fastest, most accessible and focused NLE in the industry
 net-misc/bcloud 3.8.2.2 9999 9999-r1: Baidu Pan client for Linux Desktop users
