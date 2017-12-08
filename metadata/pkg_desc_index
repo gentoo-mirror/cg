@@ -28,6 +28,7 @@ media-blender/time_tracker 9999: Blender addon. Simple time tracker inside blend
 media-blender/tissue 9999: Blender addon for computational design
 media-gfx/AwesomeBump 9999-r2: A free, open source, cross-platform video editor
 media-gfx/NormalmapGenerator 9999: Converts images into normal maps
+media-gfx/PureRef 1.9.2: PureRef - Reference Image Viewer
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/arc3d_client 2.1.1: The web Tools for 3D reconstruction
