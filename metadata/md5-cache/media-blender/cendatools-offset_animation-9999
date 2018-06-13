@@ -1,5 +1,5 @@
 DEFINED_PHASES=install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Blender addon. Easy shifting keyframes
 EAPI=6
 HOMEPAGE=https://blenderartists.org/forum/showthread.php?405910-Addon-Cenda-Tools
@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=fe3f0a5bfc474cec78800256daf57b87
