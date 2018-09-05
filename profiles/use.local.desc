@@ -2,5 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-media-gfx/openvdb:abi3-compat - Enables compatibility with the old 3.x ABI. enabled by dfault.
-media-gfx/openvdb:openvdb-compression - Adds enhanced compression to files through dev-libs/c-blosc. Very useful so enabled by dfault.
