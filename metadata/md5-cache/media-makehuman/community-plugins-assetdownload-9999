@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=The asset downloader plugin
+EAPI=6
+HOMEPAGE=https://github.com/makehumancommunity/community-plugins-assetdownload
+KEYWORDS=~amd64 ~x86
+LICENSE=AGPL-3
+RDEPEND=media-gfx/makehuman media-makehuman/community-plugins-mhapi
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=662a8e6e6b5fb677032fd89164c905bc
