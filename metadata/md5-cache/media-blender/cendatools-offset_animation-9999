@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=fe3f0a5bfc474cec78800256daf57b87
+_md5_=b0f30a083094e70a080e0e162beaf852
