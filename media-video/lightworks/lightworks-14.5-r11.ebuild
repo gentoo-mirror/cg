@@ -10,7 +10,7 @@ MY_PV="12.6.0"
 
 DESCRIPTION="Lightworks is the fastest, most accessible and focused NLE in the industry"
 HOMEPAGE="http://www.lwks.com/"
-SRC_URI="http://downloads.lwks.com/Lightworks-145RC11-108471-14.5.0.0.deb"
+SRC_URI="https://downloads.lwks.com/v14-5-new/lightworks-14.5.0-amd64.deb"
 
 LICENSE="EditShare"
 SLOT="0"
@@ -40,7 +40,7 @@ RDEPEND="
 	media-libs/fontconfig
 	media-libs/glu
 	media-libs/mesa
-	=media-libs/portaudio-19_pre20140130[jack] 
+	media-libs/portaudio[jack] 
 	>=media-gfx/nvidia-cg-toolkit-3.1.0013-r2
 	x11-libs/libxcb
 	x11-libs/libXinerama
