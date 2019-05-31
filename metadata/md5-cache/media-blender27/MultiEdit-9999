@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Blender addon for editing of multiple objects
+EAPI=6
+HOMEPAGE=http://blenderartists.org/forum/showthread.php?339369-MultiEdit-%28alpha-1%29-Multiple-Objects-Editing!
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/blender27[addons]
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=6eb68a847d978b5ea85e206059414fad

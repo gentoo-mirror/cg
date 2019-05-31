@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Blender addon. Export only selected objects
+EAPI=6
+HOMEPAGE=https://github.com/dairin0d/export-selected
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/blender27[addons]
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=08047510e7b2ebc3804be8f10d7d3d0b

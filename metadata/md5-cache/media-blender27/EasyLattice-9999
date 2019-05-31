@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Blender addon. Create a lattice for shape editing
+EAPI=6
+HOMEPAGE=https://wiki.blender.org/index.php/Easy_Lattice_Editing_Addon
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/blender27[addons]
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=34e4530168fcc39f50931f47569714e9

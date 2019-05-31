@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Blender addon. YeTiVision studio's Blender tools.
+EAPI=6
+HOMEPAGE=https://github.com/brothermechanic/YetiTools
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=media-gfx/blender27[addons]
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=b1ee84e8cffef430246304388725203e
