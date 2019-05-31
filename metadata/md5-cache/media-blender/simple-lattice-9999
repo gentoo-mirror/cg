@@ -1,11 +1,11 @@
 DEFINED_PHASES=install postinst unpack
 DEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DESCRIPTION=Blender addon. New modeling Cloth tools
+DESCRIPTION=Blender addon. Make working with lattices simpler.
 EAPI=6
-HOMEPAGE=https://github.com/the3dadvantage/Modeling-Cloth-2.8
+HOMEPAGE=https://github.com/BenjaminSauder/SimpleLattice
 KEYWORDS=~amd64 ~x86
-LICENSE=MIT
+LICENSE=GPL-3
 RDEPEND=media-gfx/blender[addons]
 SLOT=0
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	0d4635eeb5a96cd5315597a47eba25c9	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=e0fc16fe210da51dfd918226d453ea6a
+_md5_=c6f1815cb69143aa5ecf5b6179dfdc3c
