@@ -5,6 +5,7 @@ dev-python/pyside-tools 9999-r1: PySide development tools (lupdate, rcc, uic)
 dev-python/shiboken 9999-r1: Tool for creating Python bindings for C++ libraries
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/nvidia-cuda-toolkit 10.1.168-r1: NVIDIA CUDA Toolkit (compiler and friends)
+media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
