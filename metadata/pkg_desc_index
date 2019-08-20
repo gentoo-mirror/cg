@@ -15,6 +15,7 @@ media-blender/mesh-fairing 9999: Blender addon. Provides an alternative smoothin
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
+media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/simple-asset-manager 9999: Blender addon. Works with objects, materials and particle systems.
 media-blender/simple-lattice 9999: Blender addon. Make working with lattices simpler.
 media-blender/textools 9999: Blender addon. UV and Texture tool.
