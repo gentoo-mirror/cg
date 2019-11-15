@@ -14,6 +14,7 @@ media-blender/edge-flow 9999: Blender addon. Blender tools for working with edge
 media-blender/mesh-fairing 9999: Blender addon. Provides an alternative smoothing operation
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
+media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
@@ -97,4 +98,5 @@ sci-libs/proj 6.0.0: Proj.4 cartographic projection software
 sci-libs/vtk 8.2.0_rc1: The Visualization Toolkit
 sys-block/rts5229 9999: Linux driver for Realtek PCI-Express card reader chip
 x11-libs/gl2ps 1.4.1: OpenGL to PostScript printing library
+x11-misc/perWindowLayoutD 9999: Keeping per-window keyboard layout X11
 x11-misc/xbindkeys-config 0.1.3: Gtk+ program for configuring xbindkeys
