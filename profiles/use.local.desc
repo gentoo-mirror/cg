@@ -105,45 +105,9 @@ media-gfx/instant-meshes:tbb - Add support for dev-cpp/tbb
 media-gfx/openvdb:abi3-compat - Disables newer features to maintain compatibility with ABI3. Enabled by default.
 media-gfx/openvdb:abi4-compat - Disables newer features to maintain compatibility with ABI4. Enabled by default.
 media-gfx/sketch-retopo:tbb - Add support for dev-cpp/tbb
-media-libs/libvpx:highbitdepth - Enable 10 and 12 bit support for VP9.
-media-libs/libvpx:postproc - Enable additional post processing filters
-media-libs/libvpx:svc - Enable spatial-svc support (experimental)
-media-libs/openimageio:colorio - Use media-libs/opencolorio
-media-libs/openimageio:cpu_flags_x86_avx512f - SIMD Optimization
-media-libs/openimageio:cpu_flags_x86_f16c - SIMD Optimization
-media-libs/openimageio:field3d - Use media-libs/Field3D
-media-libs/openimageio:opencv - Use media-libs/opencv
-media-libs/openimageio:ptex - Use media-libs/ptex
 media-video/obs-studio:fdk - Enable libfdk support for AAC encoding.
 media-video/obs-studio:imagemagick - Use ImageMagick for image loading instead of FFmpeg.
 media-video/obs-studio:luajit - Build support for scripting via Luajit.
 media-video/obs-studio:nvenc - Enable NVENC encoding for nVidia video cards.
 media-video/obs-studio:python - Build support for scripting via Python 3.
 media-video/obs-studio:speex - Enable noise suppression filter support via media-libs/speexdsp.
-net-libs/libsoup:gssapi - Enable GSSAPI support
-net-libs/libsoup:samba - Use net-fs/samba for NTLM Single Sign-On
-sci-libs/gdal:armadillo - Use sci-libs/armadillo for faster TPS transform computation
-sci-libs/gdal:aux_xml - Enable Portable Auxilliary Metadata generation
-sci-libs/gdal:fits - Enable support for NASA's sci-libs/cfitsio library
-sci-libs/gdal:geos - Add support for geometry engine (sci-libs/geos)
-sci-libs/gdal:gml - Enable support for dev-libs/xerces-c C++ API
-sci-libs/gdal:hdf5 - Add support for the Hierarchical Data Format v5 (sci-libs/hdf5)
-sci-libs/gdal:mdb - Enable support for Microsoft Access database
-sci-libs/gdal:ogdi - Enable support for the open geographic datastore interface (sci-libs/ogdi)
-sci-libs/gdal:opencl - Enable OpenCL support
-sci-libs/gdal:spatialite - Enable Spatial DBMS over sqlite dev-db/spatialite
-sci-libs/gdal:xls - Add the dev-libs/freexl library for xls import support
-sci-libs/gdal:zstd - Enable support for ZSTD compression using app-arch/zstd
-sci-libs/vtk:R - Enable support for dev-lang/R
-sci-libs/vtk:all-modules - Build all modules
-sci-libs/vtk:boost - Add support for boost
-sci-libs/vtk:gdal - Support for gdal formated data
-sci-libs/vtk:imaging - Building Imaging modules
-sci-libs/vtk:json - Support for json formated data
-sci-libs/vtk:kaapi - Use sci-libs/xkaapi to handle smp support
-sci-libs/vtk:offscreen - Offscreen rendering through OSMesa
-sci-libs/vtk:rendering - Building Redering modules
-sci-libs/vtk:tbb - Use dev-cpp/tbb to handle smp support
-sci-libs/vtk:views - Building Views modules
-sci-libs/vtk:web - Install web component
-sci-libs/vtk:xdmf2 - Support for xdmf2 formated data
