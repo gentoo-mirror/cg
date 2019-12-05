@@ -3,7 +3,7 @@
 
 EAPI=6
 
-inherit qmake-utils git-r3
+inherit qmake-utils git-r3 eutils
 
 DESCRIPTION="Converts images into normal maps"
 HOMEPAGE="https://github.com/Theverat/NormalmapGenerator"
