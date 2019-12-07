@@ -8,5 +8,5 @@ LICENSE=AGPL-3
 PROPERTIES=live
 RDEPEND=media-gfx/makehuman media-makehuman/community-plugins-mhapi
 SLOT=0
-_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
 _md5_=662a8e6e6b5fb677032fd89164c905bc
