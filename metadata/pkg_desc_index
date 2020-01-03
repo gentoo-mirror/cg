@@ -88,7 +88,6 @@ media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-video/lightworks 14.5-r12 14.6-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/obs-studio 9999-r1: Software for Recording and Streaming Live Video Content
-net-misc/bcloud 3.8.2.2 9999 9999-r1: Baidu Pan client for Linux Desktop users
 sci-libs/libmed 3.3.1-r1: A library to store and exchange meshed data or computation results
 sys-block/rts5229 9999: Linux driver for Realtek PCI-Express card reader chip
 x11-libs/gl2ps 1.4.1: OpenGL to PostScript printing library
