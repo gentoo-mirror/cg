@@ -41,7 +41,7 @@ media-gfx/blender:dds - Adds DDS textures support to Blender.
 media-gfx/blender:decimate - Build with decimate (polygon reducer) modifier.
 media-gfx/blender:doc - Build C and Python API documentation directly from the source code.
 media-gfx/blender:dpx - Build with DPX image format support.
-media-gfx/blender:fluid - Adds surface fluid simulation to Blender using El'Beem library.
+media-gfx/blender:fluid - Enable Mantaflow Fluid Simulation Framework
 media-gfx/blender:freestyle - FreeStyle is an edge- and line-based non-photorealistic rendering engine.
 media-gfx/blender:game-engine - Adds Game Engine support to Blender.
 media-gfx/blender:ndof - Enable NDOF input devices (SpaceNavigator and friends).
