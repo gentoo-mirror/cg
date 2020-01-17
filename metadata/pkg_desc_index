@@ -80,6 +80,7 @@ media-libs/oidn 9999: Intel(R) Open Image Denoise library
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
+media-makehuman/makehuman-assets 9999: These are the assets which are bundled with MakeHuman releases
 media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
 media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps

@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=These are the assets which are bundled with MakeHuman releases
+EAPI=6
+HOMEPAGE=https://github.com/makehumancommunity/makehuman-assets
+KEYWORDS=~amd64 ~x86
+LICENSE=AGPL-3.0
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_md5_=202157869881b886e966e372a67a95f6
