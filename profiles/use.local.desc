@@ -2,33 +2,11 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-python/pyside:charts - Build QtCharts module
-dev-python/pyside:concurrent - Build QtConcurrent module
-dev-python/pyside:datavis - Build QtDataVisualization module
-dev-python/pyside:declarative - Build QtQml, QtQuick, and QtQuickWidgets modules
-dev-python/pyside:designer - Build QtDesigner and QtUiTools modules
-dev-python/pyside:gui - Build QtGui module
-dev-python/pyside:help - Build QtHelp module
-dev-python/pyside:multimedia - Build QtMultimedia and QtMultimediaWidgets modules
-dev-python/pyside:network - Build QtNetwork module
-dev-python/pyside:opengl - Build QtOpenGL module
-dev-python/pyside:printsupport - Build QtPrintSupport module
-dev-python/pyside:script - Build QtScript module
-dev-python/pyside:scripttools - Build QtScriptTools module
-dev-python/pyside:sql - Build QtSql module
-dev-python/pyside:svg - Build QtSvg module
-dev-python/pyside:testlib - Build QtTest module
-dev-python/pyside:webchannel - Build QtWebChannel module
-dev-python/pyside:webengine - Build QtWebEngine and QtWebEngineWidgets modules
-dev-python/pyside:webkit - Build QtWebKit and QtWebKitWidgets modules
-dev-python/pyside:websockets - Build QtWebSockets module
-dev-python/pyside:widgets - Build QtWidgets module
-dev-python/pyside:x11extras - Build QtX11Extras module
-dev-python/pyside:xmlpatterns - Build QtXmlPatterns module
-dev-python/shiboken:numpy - Enable NumPy-based 2D array support
 dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger
 dev-util/nvidia-cuda-toolkit:eclipse - Install plugins for eclipse
 dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler
+dev-util/renderdoc:python - Build with python support
+dev-util/renderdoc:qt5 - Build Qt5 based GUI
 media-gfx/blender:addons - Enable bundled addons and addons_contrib.
 media-gfx/blender:alembic - Add support for Alembic interchange format through media-libs/alembic.
 media-gfx/blender:avi - Add support for AVI codec.
