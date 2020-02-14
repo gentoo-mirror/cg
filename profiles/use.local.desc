@@ -89,3 +89,26 @@ media-video/obs-studio:luajit - Build support for scripting via Luajit.
 media-video/obs-studio:nvenc - Enable NVENC encoding for nVidia video cards.
 media-video/obs-studio:python - Build support for scripting via Python 3.
 media-video/obs-studio:speex - Enable noise suppression filter support via media-libs/speexdsp.
+sci-libs/ceres-solver:c++11 - Build ceres-solver using the C++11 standard
+sci-libs/ceres-solver:cxsparse - Enable simple support for sparse matrix algebra from sci-libs/cxsparse with no LAPACK dependencies
+sci-libs/ceres-solver:gflags - Use dev-cpp/gflags for flag parsing
+sci-libs/ceres-solver:schur - Enable fixed-size schur specializations (disable if binary size is an issue)
+sci-libs/ceres-solver:sparse - Enable support for sparse matrix algebra with various packages from SuiteSparse
+sci-libs/gmsh:cgns - Enables cgns output support
+sci-libs/gmsh:med - Enables med support
+sci-libs/gmsh:metis - Enables metis support
+sci-libs/gmsh:netgen - Enable 3D Frontal triangulation using netgen lib
+sci-libs/gmsh:opencascade - Enable OpenCASCADE support
+sci-libs/gmsh:petsc - Enable sci-mathematics/petsc support
+sci-libs/vtk:R - Enable support for dev-lang/R
+sci-libs/vtk:all-modules - Build all modules
+sci-libs/vtk:boost - Add support for boost
+sci-libs/vtk:gdal - Support for gdal formated data
+sci-libs/vtk:imaging - Building Imaging modules
+sci-libs/vtk:json - Support for json formated data
+sci-libs/vtk:offscreen - Offscreen rendering through OSMesa
+sci-libs/vtk:rendering - Building Redering modules
+sci-libs/vtk:tbb - Use dev-cpp/tbb to handle smp support
+sci-libs/vtk:views - Building Views modules
+sci-libs/vtk:web - Install web component
+sci-libs/vtk:xdmf2 - Support for xdmf2 formated data
