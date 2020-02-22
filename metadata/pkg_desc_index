@@ -57,7 +57,7 @@ media-gfx/PureRef 1.9.2: PureRef - Reference Image Viewer
 media-gfx/ShipCAD 9999: Models Ship hulls using subdivision surfaces.
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
 media-gfx/antimony 9999: CAD from a parallel universe
-media-gfx/blender 9999 9999-r1: 3D Creation/Animation/Publishing System
+media-gfx/blender 9999 9999-r1 9999-r2: 3D Creation/Animation/Publishing System
 media-gfx/blender27 9999: 3D Creation/Animation/Publishing System. Legacy version
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
