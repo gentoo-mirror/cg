@@ -68,13 +68,17 @@ media-gfx/meshlab 9999-r1: the open source system for processing and editing 3D 
 media-gfx/micmac 1.1: Photorgammetry (SFM) software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/oda-file-converter 19.12.0.0-r2: Converts files between the .dwg and .dxf file formats
-media-gfx/openvdb 6.0.0-r3 6.0.0-r4: Libs for the efficient manipulation of volumetric data
+media-gfx/openvdb 6.0.0-r4 7.0.0: Libs for the efficient manipulation of volumetric data
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
+media-libs/USD 9999: Universal Scene Description
+media-libs/embree 3.8.0: Collection of high-performance ray tracing kernels
+media-libs/ilmbase 2.4.1: OpenEXR ILM Base libraries
 media-libs/lensfun 9999-r1: Library for rectifying and simulating photographic lens distortions
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
 media-libs/oidn 9999: Intel(R) Open Image Denoise library
+media-libs/openexr 2.4.1: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
