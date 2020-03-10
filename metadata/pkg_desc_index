@@ -1,4 +1,5 @@
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
+dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-python/pivy 0.6.4 9999-r1: Coin3d bindings for Python
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/nvidia-cuda-toolkit 10.1.168-r1: NVIDIA CUDA Toolkit (compiler and friends)
@@ -11,6 +12,7 @@ media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration usi
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
+media-blender/interface-splitter 9999: Blender addon. The predefined ways of splitting the interface
 media-blender/mesh-fairing 9999: Blender addon. Provides an alternative smoothing operation
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
@@ -18,6 +20,7 @@ media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and expor
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
+media-blender/set-viewport-color 9999: Blender addon. Set the Viewport Color based on a nodetree
 media-blender/shader-nodes 9999: Blender addon. Utilities for Cycles PyNodes
 media-blender/simple-asset-manager 9999: Blender addon. Works with objects, materials and particle systems.
 media-blender/simple-lattice 9999: Blender addon. Make working with lattices simpler.
