@@ -1,4 +1,5 @@
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
+app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
 dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-python/pivy 0.6.4 9999-r1: Coin3d bindings for Python
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
