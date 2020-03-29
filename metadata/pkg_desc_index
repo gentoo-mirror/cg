@@ -6,6 +6,7 @@ dev-util/nvidia-cuda-toolkit 10.1.168-r1: NVIDIA CUDA Toolkit (compiler and frie
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
+media-blender/animation-nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
@@ -59,7 +60,7 @@ media-gfx/PureRef 1.9.2 1.10.3: PureRef - Reference Image Viewer
 media-gfx/ShipCAD 9999: Models Ship hulls using subdivision surfaces.
 media-gfx/alchemy 9999: Drawing program used for creating shapes, with interactivity and creativity as main focus.
 media-gfx/antimony 9999: CAD from a parallel universe
-media-gfx/blender 9999 9999-r1 9999-r2: 3D Creation/Animation/Publishing System
+media-gfx/blender 9999: 3D Creation/Animation/Publishing System
 media-gfx/blender27 9999: 3D Creation/Animation/Publishing System. Legacy version
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
@@ -74,7 +75,6 @@ media-gfx/openvdb 6.0.0-r4 7.0.0: Libs for the efficient manipulation of volumet
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
-media-libs/USD 9999: Universal Scene Description
 media-libs/embree 3.8.0: Collection of high-performance ray tracing kernels
 media-libs/ilmbase 2.4.1: OpenEXR ILM Base libraries
 media-libs/lensfun 9999-r1: Library for rectifying and simulating photographic lens distortions
