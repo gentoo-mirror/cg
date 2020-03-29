@@ -65,6 +65,7 @@ media-gfx/blender27 9999: 3D Creation/Animation/Publishing System. Legacy versio
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/djv 1.1.2: Professional movie playback and image processing software.
+media-gfx/freecad-bin 0.18.4: The 3D CAD/CAE parametric modeling application.
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/meshlab 9999-r1: the open source system for processing and editing 3D triangular meshes
