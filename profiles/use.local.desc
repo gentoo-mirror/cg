@@ -117,4 +117,3 @@ sci-libs/vtk:tbb - Use dev-cpp/tbb to handle smp support
 sci-libs/vtk:views - Building Views modules
 sci-libs/vtk:web - Install web component
 sci-libs/vtk:xdmf2 - Support for xdmf2 formated data
-sys-libs/zlib:minizip - include the minizip library for quick and dirty zip extraction

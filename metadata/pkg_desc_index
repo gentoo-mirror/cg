@@ -107,8 +107,6 @@ sci-libs/gmsh 4.5.2: A three-dimensional finite element mesh generator
 sci-libs/libmed 3.3.1-r1: A library to store and exchange meshed data or computation results
 sci-libs/vtk 8.2.0: The Visualization Toolkit
 sys-block/rts5229 9999: Linux driver for Realtek PCI-Express card reader chip
-sys-libs/minizip 2.9.2: zip manipulation library found in the zlib distribution
-sys-libs/zlib 9999: Standard (de)compression library
 x11-libs/gl2ps 1.4.1: OpenGL to PostScript printing library
 x11-misc/perWindowLayoutD 9999: Keeping per-window keyboard layout X11
 x11-misc/xbindkeys-config 0.1.3: Gtk+ program for configuring xbindkeys
