@@ -1,0 +1,9 @@
+DEFINED_PHASES=install postinst postrm prepare
+DESCRIPTION=3D Creation/Animation/Publishing System
+EAPI=7
+HOMEPAGE=http://www.blender.org/
+LICENSE=|| ( GPL-2 BL )
+SLOT=29
+SRC_URI=https://builder.blender.org/download/blender-2.90.0-4db63b648643-linux64.tar.xz -> blender-bin-9999.tar.xz
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
+_md5_=be1c154248f40a9b9d842ef92cc86d81
