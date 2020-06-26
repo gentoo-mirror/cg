@@ -10,10 +10,10 @@ DESCRIPTION="3D Creation/Animation/Publishing System"
 HOMEPAGE="http://www.blender.org/"
 
 EGIT_REPO_URI="https://git.blender.org/blender"
-EGIT_BRANCH="blender-v2.83-release"
+#EGIT_BRANCH="master"
 
 LICENSE="|| ( GPL-2 BL )"
-SLOT="28"
+SLOT="29"
 KEYWORDS=""
 MY_PV="2.83"
 
@@ -318,7 +318,7 @@ src_compile() {
 
 		cd "${CMAKE_USE_DIR}" || die
 		einfo "Generating (BPY) Blender Python API docs ..."
-		"${BUILD_DIR}"/bin/blender --background --python doc/python_api/sphinx_doc_gen.py -noaudio || die "blender failed."
+		"${BUILD_DIR}"/bin/blender29 --background --python doc/python_api/sphinx_doc_gen.py -noaudio || die "blender failed."
 
 		cd "${CMAKE_USE_DIR}"/doc/python_api || die
 		sphinx-build sphinx-in BPY_API || die "sphinx failed."
@@ -329,7 +329,7 @@ src_test() { :; }
 
 src_install() {
 	# Pax mark blender for hardened support.
-	pax-mark m "${CMAKE_BUILD_DIR}"/bin/blender
+	pax-mark m "${CMAKE_BUILD_DIR}"/bin/blender29
 
 	if use doc; then
 		docinto "html/API/python"
@@ -343,11 +343,16 @@ src_install() {
 
 	# fix doc installdir
 	docinto "html"
-	dodoc "${CMAKE_USE_DIR}"/release/text/readme.html
+	rm "${CMAKE_USE_DIR}"/release/text/readme.html
 	rm -r "${ED%/}"/usr/share/doc/blender || die
 
-	python_fix_shebang "${ED%/}/usr/bin/blender-thumbnailer.py"
+	rm "${ED%/}/usr/bin/blender-thumbnailer.py"
+	rm -r "${ED%/}/usr/share/icons"
 	python_optimize "${ED%/}/usr/share/blender/${MY_PV}/scripts"
+	mv "${ED%/}/usr/bin/blender" "${ED%/}/usr/bin/blender27" || die
+	mv "${ED%/}/usr/share/applications/blender.desktop" "${ED%/}/usr/share/applications/blender29.desktop" || die
+	sed -i -e "s|^Exec.*|Exec=blender29 %f|" "${ED%/}/usr/share/applications/blender29.desktop"
+	sed -i -e "s|^Name.*|Name=Blender29 %f|" "${ED%/}/usr/share/applications/blender29.desktop"
 }
 
 pkg_postinst() {
