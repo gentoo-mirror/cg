@@ -89,7 +89,7 @@ media-libs/gegl 9999: A graph based image processing framework
 media-libs/ilmbase 2.4.1: OpenEXR ILM Base libraries
 media-libs/lensfun 0.3.95: Library for rectifying and simulating photographic lens distortions
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
-media-libs/oidn 9999: Intel(R) Open Image Denoise library
+media-libs/oidn 1.2.1 9999: Intel(R) Open Image Denoise library
 media-libs/openexr 2.4.1: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/openusd 9999: Universal Scene Description
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
