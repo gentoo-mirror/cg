@@ -1,6 +1,6 @@
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
-dev-lang/ispc 9999-r1: Intel SPMD Program Compiler
+dev-lang/ispc 1.13.0 9999 9999-r1: Intel SPMD Program Compiler
 dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-python/pivy 0.6.4 9999-r1: Coin3d bindings for Python
 dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
