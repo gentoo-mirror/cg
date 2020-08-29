@@ -103,7 +103,7 @@ media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB 
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
-media-video/lightworks 14.5-r12 14.6-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 14.5-r12 14.6-r1 2020.1-r2: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/obs-studio 9999-r1: Software for Recording and Streaming Live Video Content
 sci-libs/ceres-solver 1.14.0: Nonlinear least-squares minimizer
 sci-libs/gmsh 4.5.2: A three-dimensional finite element mesh generator
