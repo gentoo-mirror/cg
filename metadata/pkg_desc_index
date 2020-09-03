@@ -30,6 +30,7 @@ media-blender/simple-asset-manager 9999: Blender addon. Works with objects, mate
 media-blender/simple-lattice 9999: Blender addon. Make working with lattices simpler.
 media-blender/sverchok 9999: Blender addon. Sverchok is a powerful parametric tool for architects
 media-blender/textools 9999: Blender addon. UV and Texture tool.
+media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
 media-blender27/EasyLattice 9999: Blender addon. Create a lattice for shape editing
 media-blender27/MultiEdit 9999: Blender addon for editing of multiple objects
