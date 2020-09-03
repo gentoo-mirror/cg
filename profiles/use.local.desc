@@ -2,9 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger
-dev-util/nvidia-cuda-toolkit:eclipse - Install plugins for eclipse
-dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler
 dev-util/renderdoc:python - Build with python support
 dev-util/renderdoc:qt5 - Build Qt5 based GUI
 media-gfx/blender:addons - Enable bundled addons and addons_contrib.

@@ -6,7 +6,6 @@ dev-python/geomdl 9999: Object-oriented NURBS library in Python
 dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
-dev-util/nvidia-cuda-toolkit 10.1.168-r1: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
