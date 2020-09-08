@@ -1,0 +1,15 @@
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=virtual/opengl media-libs/freeglut doc? ( app-doc/doxygen[dot] )
+DESCRIPTION=Continuous Collision Detection and Physics Library
+EAPI=7
+HOMEPAGE=http://www.bulletphysics.com/
+IUSE=+bullet3 doc double-precision examples extras test
+KEYWORDS=amd64 ~arm ~ppc ~ppc64 x86 ~amd64-linux ~x86-linux
+LICENSE=ZLIB
+RDEPEND=virtual/opengl media-libs/freeglut
+RESTRICT=mirror test
+SLOT=0/2.89_p20200908
+SRC_URI=https://github.com/bulletphysics/bullet3/archive/b44307a6ce3c1d07767c23fc20b129a7355da503.tar.gz -> bullet-2.89_p20200908.tar.gz
+_eclasses_=cmake-utils	77cd39e6009811bf97a59d91ffd5b54f	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	multilib	2477ebe553d3e4d2c606191fe6c33602	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=40e42a5bc781cdc85955a7e05a6688aa
