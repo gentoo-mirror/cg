@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Socket server for makehuman
+EAPI=7
+HOMEPAGE=https://github.com/makehumancommunity/community-plugins-socket
+KEYWORDS=~amd64 ~x86
+LICENSE=AGPL-3.0
+PROPERTIES=live
+RDEPEND=media-gfx/makehuman
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=3bb32be85a387dd954a2a06461b8d28b

@@ -18,6 +18,7 @@ media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone 
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
 media-blender/leomoon-lightstudio 9999: Blender addon for easiest, fastest and most advanced lighting setup.
+media-blender/makehuman-plugin-for-blender 9999: Blender addon. Sync operations with MakeHuman
 media-blender/mesh-fairing 9999: Blender addon. Provides an alternative smoothing operation
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
@@ -98,6 +99,7 @@ media-libs/openusd 9999: Universal Scene Description
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
+media-makehuman/community-plugins-socket 9999: Socket server for makehuman
 media-makehuman/makehuman-assets 9999: These are the assets which are bundled with MakeHuman releases
 media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
 media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
