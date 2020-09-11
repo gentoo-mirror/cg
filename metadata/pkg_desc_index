@@ -87,7 +87,7 @@ media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-libs/babl 9999: A dynamic, any to any, pixel format conversion library
-media-libs/embree 3.8.0: Collection of high-performance ray tracing kernels
+media-libs/embree 3.11.0: Collection of high-performance ray tracing kernels
 media-libs/gegl 9999: A graph based image processing framework
 media-libs/ilmbase 2.4.1: OpenEXR ILM Base libraries
 media-libs/lensfun 0.3.95: Library for rectifying and simulating photographic lens distortions
