@@ -1,8 +1,8 @@
-app-emacs/elpy 1.34.0: A helper library for integrating Python development in Emacs
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
 dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
+dev-python/elpy 1.34.0: An ntegrating Python development in Emacs. Python lib
 dev-python/geomdl 9999: Object-oriented NURBS library in Python
 dev-python/numba 0.51.2: NumPy aware dynamic Python compiler using LLVM
 dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
