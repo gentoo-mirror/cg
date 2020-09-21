@@ -88,7 +88,7 @@ media-gfx/meshlab 9999-r1: the open source system for processing and editing 3D 
 media-gfx/micmac 1.1: Photorgammetry (SFM) software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/oda-file-converter 19.12.0.0-r2: Converts files between the .dwg and .dxf file formats
-media-gfx/openvdb 6.0.0-r4 7.0.0: Libs for the efficient manipulation of volumetric data
+media-gfx/openvdb 6.0.0-r4 7.0.0 7.1.0-r1: Libs for the efficient manipulation of volumetric data
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
