@@ -8,6 +8,7 @@ dev-python/geomdl 9999: Object-oriented NURBS library in Python
 dev-python/numba 0.51.2: NumPy aware dynamic Python compiler using LLVM
 dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
+dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
@@ -93,6 +94,7 @@ media-gfx/oda-file-converter 19.12.0.0-r2: Converts files between the .dwg and .
 media-gfx/openvdb 6.0.0-r4 7.0.0 7.1.0-r1: Libs for the efficient manipulation of volumetric data
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
+media-gfx/usd_from_gltf 9999: Command-line tool for converting glTF models to USD
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-libs/babl 9999: A dynamic, any to any, pixel format conversion library
 media-libs/embree 3.11.0: Collection of high-performance ray tracing kernels
