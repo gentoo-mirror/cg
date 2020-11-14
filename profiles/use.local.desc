@@ -119,6 +119,8 @@ media-gfx/instant-meshes:tbb - Add support for dev-cpp/tbb
 media-gfx/openvdb:abi3-compat - Disables newer features to maintain compatibility with ABI3. Enabled by default.
 media-gfx/openvdb:abi4-compat - Disables newer features to maintain compatibility with ABI4. Enabled by default.
 media-gfx/sketch-retopo:tbb - Add support for dev-cpp/tbb
+media-libs/draco:compat - Build in compatibility mode.
+media-libs/draco:gltf - Compile with support for glTF (GL Transmission Format) from The Khronos Group Inc.
 media-libs/gegl:lensfun - Enable support for media-libs/lensfun.
 media-libs/gegl:umfpack - Enable sparse solving via sci-libs/umfpack.
 media-video/obs-studio:fdk - Enable libfdk support for AAC encoding.
