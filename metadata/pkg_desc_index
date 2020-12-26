@@ -71,10 +71,7 @@ media-blender27/sverchok 9999: Blender addon. A visual programing with nodes
 media-blender27/textools 9999: Blender addon. A set of professional UV and Texture tools
 media-blender27/time_tracker 9999: Blender addon. Simple time tracker inside blender.
 media-blender27/tissue 9999: Blender addon for computational design
-media-gfx/AwesomeBump 9999: A free, open source, cross-platform video editor
-media-gfx/NormalmapGenerator 9999: Converts images into normal maps
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
-media-gfx/ShipCAD 9999: Models Ship hulls using subdivision surfaces.
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/blender 2.91.0 9999: 3D Creation/Animation/Publishing System
 media-gfx/blender-bin 9999: 3D Creation/Animation/Publishing System
@@ -87,7 +84,6 @@ media-gfx/gimp 9999: GNU Image Manipulation Program
 media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/krita-bin 4.2.9: Krita is a professional FREE and open source painting program
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
-media-gfx/meshlab 9999-r1: the open source system for processing and editing 3D triangular meshes
 media-gfx/micmac 1.1: Photorgammetry (SFM) software
 media-gfx/ngplant 9999: plant modeling software package
 media-gfx/oda-file-converter 19.12.0.0-r2: Converts files between the .dwg and .dxf file formats
