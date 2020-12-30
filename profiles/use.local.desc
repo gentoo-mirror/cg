@@ -112,9 +112,6 @@ media-gfx/blender27:sm_70 - Nvidia Cuda Shader Models https://developer.nvidia.c
 media-gfx/blender27:smoke - Smoke simulation support
 media-gfx/blender27:sse - Build with sse CPU optimisations.
 media-gfx/blender27:valgrind - Add support for memory debugging using dev-util/valgrind
-media-gfx/gimp:heif - Enable support for ISO/IEC 23008-12:2017 HEIF files
-media-gfx/gimp:smp - Enable support for multiprocessors
-media-gfx/gimp:vector-icons - Enable support for vector icons (experimental)
 media-gfx/instant-meshes:tbb - Add support for dev-cpp/tbb
 media-gfx/openvdb:abi3-compat - Disables newer features to maintain compatibility with ABI3. Enabled by default.
 media-gfx/openvdb:abi4-compat - Disables newer features to maintain compatibility with ABI4. Enabled by default.
