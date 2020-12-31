@@ -74,7 +74,7 @@ media-blender27/time_tracker 9999: Blender addon. Simple time tracker inside ble
 media-blender27/tissue 9999: Blender addon for computational design
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/antimony 9999: CAD from a parallel universe
-media-gfx/blender 2.91.0 9999: 3D Creation/Animation/Publishing System
+media-gfx/blender 2.91.0 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/blender-bin 9999: 3D Creation/Animation/Publishing System
 media-gfx/blender27 9999: 3D Creation/Animation/Publishing System. Legacy version
 media-gfx/cloudcompare 9999: 3D point cloud processing software
