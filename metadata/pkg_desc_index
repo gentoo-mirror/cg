@@ -103,7 +103,7 @@ media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks
 media-libs/oidn 1.2.1 9999: Intel(R) Open Image Denoise library
 media-libs/openexr 2.4.1: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/opensubdiv 3.4.3: An Open-Source subdivision surface library
-media-libs/openusd 9999 9999-r1: Universal Scene Description
+media-libs/openusd 9999: Universal Scene Description
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
