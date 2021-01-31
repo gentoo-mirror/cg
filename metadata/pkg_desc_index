@@ -1,5 +1,4 @@
 app-emacs/ergoemacs-mode 9999: Ergoemacs Keybindings for Emacs
-app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
 dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
@@ -85,7 +84,6 @@ media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/krita-bin 4.2.9: Krita is a professional FREE and open source painting program
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/micmac 1.1: Photorgammetry (SFM) software
-media-gfx/ngplant 9999: plant modeling software package
 media-gfx/oda-file-converter 19.12.0.0-r2: Converts files between the .dwg and .dxf file formats
 media-gfx/openvdb 6.0.0-r4 7.2.0 8.0.0: Libs for the efficient manipulation of volumetric data
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
