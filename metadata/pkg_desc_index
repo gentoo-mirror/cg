@@ -1,4 +1,5 @@
 app-emacs/ergoemacs-mode 9999: Ergoemacs Keybindings for Emacs
+app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
 dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
