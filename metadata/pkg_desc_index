@@ -1,6 +1,7 @@
 app-emacs/ergoemacs-mode 9999: Ergoemacs Keybindings for Emacs
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
+dev-cpp/pystring 1.1.3: C++ functions matching the interface and behavior of python string methods
 dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
 dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
@@ -14,8 +15,8 @@ dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/MB-Lab 9999: Blender addon. Character creation tool
-media-blender/addons 9999: A central repository of Blender addons
-media-blender/addons_contrib 9999: A central repository of Blender contrib addons
+media-blender/addons 2.92.0 9999: A central repository of Blender addons
+media-blender/addons_contrib 2.92.0 9999: A central repository of Blender contrib addons
 media-blender/align-nodes 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
 media-blender/animation-nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
@@ -74,7 +75,7 @@ media-blender27/time_tracker 9999: Blender addon. Simple time tracker inside ble
 media-blender27/tissue 9999: Blender addon for computational design
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/antimony 9999: CAD from a parallel universe
-media-gfx/blender 2.91.0 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 2.92.0 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/blender-bin 9999: 3D Creation/Animation/Publishing System
 media-gfx/blender27 9999: 3D Creation/Animation/Publishing System. Legacy version
 media-gfx/cloudcompare 9999: 3D point cloud processing software
@@ -100,6 +101,7 @@ media-libs/ilmbase 2.5.4: OpenEXR ILM Base libraries
 media-libs/lensfun 0.3.95: Library for rectifying and simulating photographic lens distortions
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
 media-libs/oidn 1.3.0 9999: Intel(R) Open Image Denoise library
+media-libs/opencolorio 2.0.0: A color management framework for visual effects and animation
 media-libs/openexr 2.4.1: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/opensubdiv 3.4.3: An Open-Source subdivision surface library
 media-libs/openusd 9999: Universal Scene Description
