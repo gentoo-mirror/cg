@@ -2,7 +2,7 @@ app-emacs/ergoemacs-mode 9999: Ergoemacs Keybindings for Emacs
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
 dev-cpp/pystring 1.1.3: C++ functions matching the interface and behavior of python string methods
-dev-libs/c-blosc 1.17.1: Blocking, shuffling and lossless compression library
+dev-libs/c-blosc 1.21.0: Blocking, shuffling and lossless compression library
 dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
 dev-python/elpy 1.34.0: An ntegrating Python development in Emacs. Python lib
