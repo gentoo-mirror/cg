@@ -26,6 +26,7 @@ media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration usi
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
+media-blender/imagepaste 9999: Blender addon for image pasting from system clipboard
 media-blender/leomoon-lightstudio 9999: Blender addon for easiest, fastest and most advanced lighting setup.
 media-blender/make-corner-end 9999: Blender addon for Make Corner and Make End
 media-blender/makehuman-plugin-for-blender 9999: Blender addon. Sync operations with MakeHuman
