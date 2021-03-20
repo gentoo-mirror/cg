@@ -47,33 +47,6 @@ media-blender/textools 9999: Blender addon. UV and Texture tool.
 media-blender/tissue 9999: Blender addon for computational design
 media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
-media-blender27/EasyLattice 9999: Blender addon. Create a lattice for shape editing
-media-blender27/MultiEdit 9999: Blender addon for editing of multiple objects
-media-blender27/SpaceshipGenerator 9999: Bkedner addon for procedurally generating 3D spaceships
-media-blender27/TubeTool 9999: Blender addon for generate tubing between two selected polygons
-media-blender27/UvSquares 9999: Blender addon. A camera calibration toolkit
-media-blender27/YetiTools 9999: Blender addon. YeTiVision studio's Blender tools.
-media-blender27/batch-operations 9999: Blender addon. Batch operations for specific cases
-media-blender27/blender-light-studio 9999: Blender addon. Lighting system
-media-blender27/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
-media-blender27/booltron 9999: Blender addon. A super fast booleans
-media-blender27/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
-media-blender27/cendatools-offset_animation 9999: Blender addon. Easy shifting keyframes
-media-blender27/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
-media-blender27/edgeequalize 9999: Blender addon. Set equal edge lengths.
-media-blender27/export-selected 9999: Blender addon. Export only selected objects
-media-blender27/fastlattice 9999: Blender addon. Fast Lattice addon for Blender.
-media-blender27/image-background-transform 9999: http://lacuisine.tech/2018/04/26/image-background-transform/
-media-blender27/kaleidoscope 9999: Blender addon. A small collection of creative Nodes
-media-blender27/mesh_align_to_gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
-media-blender27/mira-tools 9999: Blender addon. Modeling/Retopo tools
-media-blender27/offset_edges 9999: Blender addon for offsetting edges
-media-blender27/perfect_shape 9999: Blender addon. Shape Extrude Tool
-media-blender27/simple_renaming_panel 9999: Blender addon. A simple and fast renaming tool for blender.
-media-blender27/sverchok 9999: Blender addon. A visual programing with nodes
-media-blender27/textools 9999: Blender addon. A set of professional UV and Texture tools
-media-blender27/time_tracker 9999: Blender addon. Simple time tracker inside blender.
-media-blender27/tissue 9999: Blender addon for computational design
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/blender 2.92.0 9999: Blender is a free and open-source 3D creation suite.
