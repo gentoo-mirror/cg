@@ -3,10 +3,11 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=The hard dependency for most community plugins
 EAPI=6
 HOMEPAGE=https://github.com/makehumancommunity/community-plugins-mhapi
+INHERIT=git-r3
 KEYWORDS=~amd64 ~x86
 LICENSE=AGPL-3.0
 PROPERTIES=live
 RDEPEND=media-gfx/makehuman
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=80cb1d045b68f1372787ed57f6b4c4ea

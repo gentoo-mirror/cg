@@ -3,9 +3,10 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=These are the assets which are bundled with MakeHuman releases
 EAPI=6
 HOMEPAGE=https://github.com/makehumancommunity/makehuman-assets
+INHERIT=git-r3
 KEYWORDS=~amd64 ~x86
 LICENSE=AGPL-3.0
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=202157869881b886e966e372a67a95f6
