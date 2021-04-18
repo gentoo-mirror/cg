@@ -7,4 +7,4 @@ LICENSE=|| ( GPL-2 BL )
 SLOT=29
 SRC_URI=https://builder.blender.org/download/blender-2.90.0-62aa103d485f-linux64.tar.xz -> blender-bin-9999.tar.xz
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e
-_md5_=9f2d20d7707c80cc1f539f6c8eacdedf
+_md5_=74b79f6a98890d9b23ece5f129b5c820
