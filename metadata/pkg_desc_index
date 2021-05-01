@@ -60,7 +60,7 @@ media-gfx/instant-meshes 9999: Interactive field-aligned mesh generator
 media-gfx/krita-bin 4.2.9: Krita is a professional FREE and open source painting program
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/micmac 1.1: Photogrammetry (SFM) software
-media-gfx/oda-file-converter 19.12.0.0-r2: Converts files between the .dwg and .dxf file formats
+media-gfx/oda-file-converter 19.12.0.0-r2 21.11.0.0-r1: Converts files between the .dwg and .dxf file formats
 media-gfx/openvdb 6.0.0-r4 7.2.0 8.0.1: Libs for the efficient manipulation of volumetric data
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
