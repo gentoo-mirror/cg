@@ -68,7 +68,7 @@ media-gfx/usd_from_gltf 9999: Command-line tool for converting glTF models to US
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-libs/babl 9999: A dynamic, any to any, pixel format conversion library
 media-libs/draco 1.3.5-r3 1.4.1: Library for compressing and decompressing 3D geometric objects
-media-libs/embree 3.11.0 3.12.2: Collection of high-performance ray tracing kernels
+media-libs/embree 3.11.0 3.12.2 3.13.0: Collection of high-performance ray tracing kernels
 media-libs/gegl 9999: A graph based image processing framework
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/lensfun 0.3.95: Library for rectifying and simulating photographic lens distortions
