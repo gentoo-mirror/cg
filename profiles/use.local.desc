@@ -76,42 +76,6 @@ media-gfx/blender-bin:sm_70 - Nvidia Cuda Shader Models https://developer.nvidia
 media-gfx/blender-bin:smoke - Smoke simulation support
 media-gfx/blender-bin:sse - Build with sse CPU optimisations.
 media-gfx/blender-bin:valgrind - Add support for memory debugging using dev-util/valgrind
-media-gfx/blender27:addons - Enable bundled addons and addons_contrib.
-media-gfx/blender27:alembic - Add support for Alembic interchange format through media-libs/alembic.
-media-gfx/blender27:avi - Add support for AVI codec.
-media-gfx/blender27:blender - Build main blender editor.
-media-gfx/blender27:boolean - Build with boolean modifier.
-media-gfx/blender27:collada - Add support for Collada interchange format through media-libs/opencollada.
-media-gfx/blender27:cuda - Build cycles renderer with nVidia CUDA support.
-media-gfx/blender27:cycles - Build cycles renderer.
-media-gfx/blender27:dds - Adds DDS textures support to Blender.
-media-gfx/blender27:decimate - Build with decimate (polygon reducer) modifier.
-media-gfx/blender27:doc - Build C and Python API documentation directly from the source code.
-media-gfx/blender27:dpx - Build with DPX image format support.
-media-gfx/blender27:fluid - Adds surface fluid simulation to Blender using El'Beem library.
-media-gfx/blender27:freestyle - FreeStyle is an edge- and line-based non-photorealistic rendering engine.
-media-gfx/blender27:game-engine - Adds Game Engine support to Blender.
-media-gfx/blender27:ndof - Enable NDOF input devices (SpaceNavigator and friends).
-media-gfx/blender27:oceansim - Build with modifier for ocean simulation.
-media-gfx/blender27:opencl - Opencl acceleration for compositor and Cycles renderer
-media-gfx/blender27:opencolorio - Enable OpenColorIO color management through media-libs/opencolorio.
-media-gfx/blender27:openimageio - Simple but powerful ImageInput and ImageOutput APIs
-media-gfx/blender27:opensubdiv - Add viewport rendering support for subdivision modifier.
-media-gfx/blender27:openvdb - Library for use in volumetric.
-media-gfx/blender27:osl - Advanced shading language. Works only on CPU.
-media-gfx/blender27:player - Build the Blender Video Player.
-media-gfx/blender27:portable - Build the Blender portable.
-media-gfx/blender27:remesh - Build with voxel retopology modifier.
-media-gfx/blender27:sm_21 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:sm_30 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:sm_35 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:sm_50 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:sm_52 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:sm_61 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:sm_70 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
-media-gfx/blender27:smoke - Smoke simulation support
-media-gfx/blender27:sse - Build with sse CPU optimisations.
-media-gfx/blender27:valgrind - Add support for memory debugging using dev-util/valgrind
 media-gfx/instant-meshes:tbb - Add support for dev-cpp/tbb
 media-gfx/openvdb:abi3-compat - Disables newer features to maintain compatibility with ABI3. Enabled by default.
 media-gfx/openvdb:abi4-compat - Disables newer features to maintain compatibility with ABI4. Enabled by default.
