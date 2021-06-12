@@ -7,8 +7,11 @@ dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
 dev-python/elpy 1.34.0: An ntegrating Python development in Emacs. Python lib
 dev-python/geomdl 9999: Object-oriented NURBS library in Python
+dev-python/lazrs 0.3.0: Python bindings for the laz-rs crate.
 dev-python/numba 0.51.2: NumPy aware dynamic Python compiler using LLVM
 dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
+dev-python/pylas 0.4.3: Reading Las (lidar) in Python
+dev-python/pyntcloud 0.1.4: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
@@ -37,6 +40,7 @@ media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
+media-blender/photogrammetry-importer 9999: Blender addon to import reconstruction results of several libraries
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
 media-blender/set-viewport-color 9999: Blender addon. Set the Viewport Color based on a nodetree
 media-blender/shader-nodes 9999: Blender addon. Utilities for Cycles PyNodes
