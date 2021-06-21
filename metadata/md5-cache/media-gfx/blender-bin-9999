@@ -6,5 +6,5 @@ INHERIT=eutils
 LICENSE=|| ( GPL-2 BL )
 SLOT=29
 SRC_URI=https://builder.blender.org/download/blender-2.90.0-62aa103d485f-linux64.tar.xz -> blender-bin-9999.tar.xz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	45faf8ab7d5fe72e58a634092cd1f283
 _md5_=74b79f6a98890d9b23ece5f129b5c820
