@@ -14,7 +14,6 @@ dev-python/pylas 0.4.3: Reading Las (lidar) in Python
 dev-python/pyntcloud 0.1.4: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
 dev-util/lemon 3.33.0: A LALR(1) parser generator
-dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/MB-Lab 9999: Blender addon. Character creation tool
