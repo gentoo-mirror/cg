@@ -8,7 +8,6 @@ dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from 
 dev-python/elpy 1.34.0: An ntegrating Python development in Emacs. Python lib
 dev-python/geomdl 9999: Object-oriented NURBS library in Python
 dev-python/lazrs 0.3.0: Python bindings for the laz-rs crate.
-dev-python/numba 0.51.2: NumPy aware dynamic Python compiler using LLVM
 dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
 dev-python/pylas 0.4.3: Reading Las (lidar) in Python
 dev-python/pyntcloud 0.1.4: Python library for working with 3D point clouds.
@@ -54,6 +53,7 @@ media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/blender 2.92.0 2.93.0 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/blender-bin 9999: 3D Creation/Animation/Publishing System
+media-gfx/blender3 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/djv-bin 2.0.5: Professional review software for VFX, animation, and film production
