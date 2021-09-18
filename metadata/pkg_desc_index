@@ -13,6 +13,7 @@ dev-python/pylas 0.4.3: Reading Las (lidar) in Python
 dev-python/pyntcloud 0.1.4: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
 dev-util/lemon 3.33.0: A LALR(1) parser generator
+dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/MB-Lab 9999: Blender addon. Character creation tool
@@ -84,10 +85,12 @@ media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugi
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
 media-makehuman/makehuman-assets 9999: These are the assets which are bundled with MakeHuman releases
+media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
 media-plugins/gimp-luce-plugin 2.0.0: Luce for GIMP is a port of Amico Perry's Luce Photoshop plug-in.
 media-plugins/gimp-normalmap 1.2.3: Gimp plug-in for converting images into RGB normal maps
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
+media-plugins/refocus-it 2.0.0: Iterative refocus GIMP plug-in.
 media-video/lightworks 14.5-r12 14.6-r1 2020.1-r3: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/obs-studio 9999-r1: Software for Recording and Streaming Live Video Content
 sci-libs/ceres-solver 2.0.0: Nonlinear least-squares minimizer
@@ -98,3 +101,4 @@ sci-physics/bullet 2.89_p20200908: Continuous Collision Detection and Physics Li
 sys-block/rts5229 9999: Linux driver for Realtek PCI-Express card reader chip
 x11-libs/gl2ps 1.4.1: OpenGL to PostScript printing library
 x11-misc/perWindowLayoutD 9999: Keeping per-window keyboard layout X11
+x11-misc/xbindkeys-config 0.1.3: Gtk+ program for configuring xbindkeys
