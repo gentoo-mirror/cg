@@ -120,6 +120,11 @@ media-libs/draco:compat - Build in compatibility mode.
 media-libs/draco:gltf - Compile with support for glTF (GL Transmission Format) from The Khronos Group Inc.
 media-libs/gegl:lensfun - Enable support for media-libs/lensfun.
 media-libs/gegl:umfpack - Enable sparse solving via sci-libs/umfpack.
+media-libs/openimageio:dicom - Enable DICOM medical image file support via sci-libs/dcmtk
+media-libs/openimageio:field3d - Enable f3d file (write) support via media-libs/Field3D
+media-libs/openimageio:opencv - Enable OpenCV support via media-libs/opencv
+media-libs/openimageio:openvdb - Enable OpenVDB support via media-gfx/openvdb
+media-libs/openimageio:ptex - Enable Ptex texture mapping system file support via media-libs/ptex
 media-libs/opensubdiv:cuda - Enable NVIDIA CUDA Toolkit support through dev-util/nvidia-cuda-toolkit
 media-libs/opensubdiv:opencl - Enable OpenCL support through virtual/opencl
 media-libs/opensubdiv:ptex - Adds support for faster per-face texture mapping through media-libs/ptex
