@@ -54,7 +54,6 @@ media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/blender 2.93.4 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/blender-bin 9999: 3D Creation/Animation/Publishing System
-media-gfx/blender3 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/djv-bin 2.0.5: Professional review software for VFX, animation, and film production
