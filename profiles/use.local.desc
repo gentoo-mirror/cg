@@ -5,6 +5,8 @@
 dev-libs/imath:large-stack - Enables code to take advantage of large stack support
 dev-util/renderdoc:python - Build with python support
 dev-util/renderdoc:qt5 - Build Qt5 based GUI
+media-gfx/alembic:hdf5 - Add support sci-libs/hdf5
+media-gfx/alembic:test - Build and run the test-suite
 media-gfx/blender:addons - Enable bundled addons and addons_contrib.
 media-gfx/blender:alembic - Add support for Alembic interchange format through media-libs/alembic.
 media-gfx/blender:avi - Add support for AVI codec.
