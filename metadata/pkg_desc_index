@@ -81,6 +81,7 @@ media-libs/opencolorio 2.1.1-r2: A color management framework for visual effects
 media-libs/openimageio 2.2.18.0-r1 2.3.11.0: A library for reading and writing images
 media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library
 media-libs/openusd 9999: Universal Scene Description
+media-libs/osl 1.11.17.0: Advanced shading language for production GI renderers
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
