@@ -3,7 +3,7 @@ app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver pe
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
 dev-cpp/pystring 1.1.3: C++ functions matching the interface and behavior of python string methods
 dev-libs/c-blosc 1.21.0: Blocking, shuffling and lossless compression library
-dev-libs/imath 3.1.4: Imath basic math package
+dev-libs/imath 3.1.4-r1: Imath basic math package
 dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
 dev-python/elpy 1.34.0: An ntegrating Python development in Emacs. Python lib
@@ -81,7 +81,7 @@ media-libs/opencolorio 2.1.1-r2: A color management framework for visual effects
 media-libs/openimageio 2.2.18.0-r1 2.3.11.0: A library for reading and writing images
 media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library
 media-libs/openusd 9999: Universal Scene Description
-media-libs/osl 1.11.17.0: Advanced shading language for production GI renderers
+media-libs/osl 1.11.17.0-r1: Advanced shading language for production GI renderers
 media-libs/vxl 9999: C++ libraries for Computer Vision and Image Understanding.
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
