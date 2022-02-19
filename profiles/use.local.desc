@@ -2,7 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-libs/imath:large-stack - Enables code to take advantage of large stack support
 dev-util/renderdoc:python - Build with python support
 dev-util/renderdoc:qt5 - Build Qt5 based GUI
 media-gfx/alembic:hdf5 - Add support sci-libs/hdf5
