@@ -21,7 +21,6 @@ media-blender/addons 2.93.0 9999: A central repository of Blender addons
 media-blender/addons_contrib 2.93.0 9999: A central repository of Blender contrib addons
 media-blender/align-nodes 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
-media-blender/animation-nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
