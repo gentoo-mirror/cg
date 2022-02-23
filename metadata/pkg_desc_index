@@ -63,7 +63,7 @@ media-gfx/krita-bin 4.2.9: Krita is a professional FREE and open source painting
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/micmac 1.1: Photogrammetry (SFM) software
 media-gfx/oda-file-converter 19.12.0.0-r2 21.11.0.0-r1: Converts files between the .dwg and .dxf file formats
-media-gfx/openvdb 9.0.0-r2: Library for the efficient manipulation of volumetric data
+media-gfx/openvdb 9.0.0-r3: Library for the efficient manipulation of volumetric data
 media-gfx/sketch-retopo 9999: Sketch-Based Mesh Generator
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-gfx/usd_from_gltf 9999: Command-line tool for converting glTF models to USD
@@ -74,7 +74,6 @@ media-libs/gegl 9999: A graph based image processing framework
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/lensfun 0.3.95: Library for rectifying and simulating photographic lens distortions
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
-media-libs/nanovdb 8.0.1 8.1.0 9.0.0: A lightweight GPU friendly version of VDB
 media-libs/oidn 1.3.0 1.4.0 1.4.1 9999: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.1.1-r6: A color management framework for visual effects and animation
 media-libs/openimageio 2.2.19.0 2.3.12.0-r2: A library for reading and writing images
