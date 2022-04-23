@@ -53,7 +53,7 @@ media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.3-r2: Open framework for storing and sharing scene data
 media-gfx/antimony 9999: CAD from a parallel universe
-media-gfx/blender 2.93.6 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 2.93.9 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/djv-bin 2.0.5: Professional review software for VFX, animation, and film production
