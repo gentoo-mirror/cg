@@ -12,6 +12,7 @@ dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Pyt
 dev-python/pylas 0.4.3: Reading Las (lidar) in Python
 dev-python/pyntcloud 0.1.4: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
+dev-python/slvs_py 9999: Python Binding of SOLVESPACE Constraint Solver
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
@@ -24,6 +25,7 @@ media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil S
 media-blender/animation-nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
+media-blender/cad_sketcher 9999: Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
