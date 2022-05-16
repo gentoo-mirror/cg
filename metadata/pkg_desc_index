@@ -18,8 +18,8 @@ dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 dev-util/renderdoc 1.6: A tool for tracing, analyzing, and debugging graphics APIs
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
 media-blender/MB-Lab 9999: Blender addon. Character creation tool
-media-blender/addons 2.93.0 3.1.2 9999: A central repository of Blender addons
-media-blender/addons_contrib 2.93.0 3.1.2 9999: A central repository of Blender contrib addons
+media-blender/addons 2.93.0 3.1.2 3.2.0 9999: A central repository of Blender addons
+media-blender/addons_contrib 2.93.0 3.1.2 3.2.0 9999: A central repository of Blender contrib addons
 media-blender/align-nodes 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
 media-blender/animation-nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
@@ -55,7 +55,7 @@ media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.3-r2: Open framework for storing and sharing scene data
 media-gfx/antimony 9999: CAD from a parallel universe
-media-gfx/blender 2.93.9 3.1.2 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 2.93.9 3.1.2 3.2.0 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cloudcompare 9999: 3D point cloud processing software
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/djv-bin 2.0.5: Professional review software for VFX, animation, and film production
