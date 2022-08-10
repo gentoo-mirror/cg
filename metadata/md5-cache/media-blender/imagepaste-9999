@@ -11,4 +11,4 @@ RDEPEND=media-gfx/blender:=[addons]
 RESTRICT=mirror
 SLOT=0
 _eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=005829beb0412abcbdb7e1db3d7ac438
+_md5_=15727f28564e2cc3a9fff4cdf55124c4
