@@ -4,12 +4,12 @@ DEPEND=dev-python/slvs_py media-gfx/blender:=[addons]
 DESCRIPTION=Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
 EAPI=8
 HOMEPAGE=https://makertales.gumroad.com/l/CADsketcher
-INHERIT=git-r3
+INHERIT=git-r3 blender-addons-dir
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=dev-python/slvs_py media-gfx/blender:=[addons]
 RESTRICT=mirror
 SLOT=0
-_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=e4b01c826c2df7d865c230c4bc273df1
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53	blender-addons-dir	f039b34263b1a01ba1e39a3fa381a5d8
+_md5_=bf3625f36cce6b77756ee78950df3c76
