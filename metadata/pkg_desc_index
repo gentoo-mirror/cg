@@ -73,7 +73,7 @@ media-libs/opencolorio 2.1.1-r6: A color management framework for visual effects
 media-libs/openimageio 2.2.19.0 2.3.12.0-r2: A library for reading and writing images
 media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library
 media-libs/openusd 9999: Universal Scene Description
-media-libs/osl 1.11.17.0-r3 1.13.4.4: Advanced shading language for production GI renderers
+media-libs/osl 1.11.17.0-r4 1.12.6.0: Advanced shading language for production GI renderers
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
