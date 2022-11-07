@@ -9,5 +9,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=media-gfx/blender[addons] media-makehuman/community-plugins-socket
 SLOT=0
-_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53	blender-addons-dir	f039b34263b1a01ba1e39a3fa381a5d8
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	blender-addons-dir	f039b34263b1a01ba1e39a3fa381a5d8
 _md5_=7b98b78e2327a54f2406d68f24219373
