@@ -40,7 +40,7 @@ media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
-media-blender/photogrammetry-importer 9999: Blender addon to import reconstruction results of several libraries
+media-blender/photogrammetry_importer 9999: Blender addon to import reconstruction results of several libraries
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
 media-blender/set-viewport-color 9999: Blender addon. Set the Viewport Color based on a nodetree
 media-blender/shader-nodes 9999: Blender addon. Utilities for Cycles PyNodes
