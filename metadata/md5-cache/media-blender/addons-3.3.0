@@ -1,15 +1,16 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=install setup unpack
-DEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
+DEFINED_PHASES=compile install postinst postrm pretend setup unpack
+DEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 )
 DESCRIPTION=A central repository of Blender addons
 EAPI=8
-HOMEPAGE=https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git
-INHERIT=git-r3 python-single-r1 blender-addons-dir
-IUSE=python_single_target_python3_9 python_single_target_python3_10
+HOMEPAGE=https://git.blender.org/gitweb/gitweb.cgi/blender-addons
+INHERIT=blender-addon
+IUSE=python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 PROPERTIES=live
-RDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
+RDEPEND=media-gfx/blender:=[addons]
+RESTRICT=mirror
 SLOT=3.3
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8	blender-addons-dir	f039b34263b1a01ba1e39a3fa381a5d8
-_md5_=942c986caf0083360d662fa338bb55f8
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	vcs-clean	d271b7bc7e6a009758d7d4ef749174e3	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8	blender-addon	dbaba4335b6a6d4fb0a569866e7b5be3
+_md5_=0dc52aa2249074e7954ea23c16709f75

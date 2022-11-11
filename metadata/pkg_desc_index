@@ -21,7 +21,7 @@ media-blender/addons 2.93.10 3.1.2 3.2.2 3.3.0 9999: A central repository of Ble
 media-blender/addons_contrib 2.93.10 3.1.2 3.2.2 3.3.0 9999: A central repository of Blender contrib addons
 media-blender/align-nodes 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
-media-blender/animation-nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
+media-blender/animation_nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/cad_sketcher 9999: Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
@@ -39,7 +39,6 @@ media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
-media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/photogrammetry-importer 9999: Blender addon to import reconstruction results of several libraries
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
 media-blender/set-viewport-color 9999: Blender addon. Set the Viewport Color based on a nodetree
