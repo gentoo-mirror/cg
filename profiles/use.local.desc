@@ -7,7 +7,6 @@ media-gfx/alembic:test - Build and run the test-suite
 media-gfx/blender:addons - Enable bundled addons and addons_contrib.
 media-gfx/blender:alembic - Add support for Alembic interchange format through media-libs/alembic.
 media-gfx/blender:avi - Add support for AVI codec.
-media-gfx/blender:blender - Build main blender editor.
 media-gfx/blender:boolean - Build with boolean modifier.
 media-gfx/blender:collada - Add support for Collada interchange format through media-libs/opencollada.
 media-gfx/blender:cuda - Build cycles renderer with nVidia CUDA support.
@@ -18,7 +17,6 @@ media-gfx/blender:doc - Build C and Python API documentation directly from the s
 media-gfx/blender:dpx - Build with DPX image format support.
 media-gfx/blender:fluid - Enable Mantaflow Fluid Simulation Framework
 media-gfx/blender:freestyle - FreeStyle is an edge- and line-based non-photorealistic rendering engine.
-media-gfx/blender:game-engine - Adds Game Engine support to Blender.
 media-gfx/blender:ndof - Enable NDOF input devices (SpaceNavigator and friends).
 media-gfx/blender:oceansim - Build with modifier for ocean simulation.
 media-gfx/blender:opencl - Opencl acceleration for compositor and Cycles renderer
@@ -37,6 +35,8 @@ media-gfx/blender:sm_50 - Nvidia Cuda Shader Models https://developer.nvidia.com
 media-gfx/blender:sm_52 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
 media-gfx/blender:sm_61 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
 media-gfx/blender:sm_70 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender:sm_75 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender:sm_86 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
 media-gfx/blender:smoke - Smoke simulation support
 media-gfx/blender:sse - Build with sse CPU optimisations.
 media-gfx/blender:valgrind - Add support for memory debugging using dev-util/valgrind
