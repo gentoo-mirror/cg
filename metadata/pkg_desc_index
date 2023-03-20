@@ -68,7 +68,7 @@ media-libs/gegl 9999: A graph based image processing framework
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
 media-libs/oidn 1.4.3 9999: Intel(R) Open Image Denoise library
-media-libs/opencolorio 2.1.1-r6: A color management framework for visual effects and animation
+media-libs/opencolorio 2.1.2: A color management framework for visual effects and animation
 media-libs/openimageio 2.2.19.0 2.3.12.0-r2: A library for reading and writing images
 media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library

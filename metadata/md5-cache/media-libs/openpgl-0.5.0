@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/cmake app-alternatives/lex app-alternatives/yacc >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
+BDEPEND=dev-util/cmake app-alternatives/lex app-alternatives/yacc >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare test
 DESCRIPTION=Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 EAPI=8
@@ -8,9 +8,9 @@ IUSE=doc openmp static test tools cpu_flags_arm_neon cpu_flags_arm_vfpv3 cpu_fla
 KEYWORDS=amd64 ~arm64
 LICENSE=Apache-2.0
 RDEPEND=!openmp? ( dev-cpp/tbb ) media-libs/embree
-REQUIRED_USE=amd64? ( cpu_flags_x86_sse3 cpu_flags_x86_avx ) arm64? ( cpu_flags_arm_neon )
+REQUIRED_USE=amd64? ( cpu_flags_x86_sse3 ) arm64? ( cpu_flags_arm_neon )
 RESTRICT=mirror test
 SLOT=0
 SRC_URI=https://github.com/openpathguidinglibrary/openpgl/archive/v0.5.0.tar.gz -> openpgl-0.5.0.tar.gz
 _eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	38c85b725d0467e51954ea921b6c104b	xdg-utils	ac0e315a3688929e34ac75b139e7349a	cmake	2e47edc2986d4e1c0363867058cd4489
-_md5_=0280bd464d608d5d2f691dd87c830f19
+_md5_=d2b64ebf9afbf627551cae61fe9d519d
