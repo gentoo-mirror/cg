@@ -23,12 +23,16 @@ media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil S
 media-blender/animation_nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
+media-blender/blender-wiggle 2.2.0: Simulate spring-like physics on Bone transforms
 media-blender/cad_sketcher 9999: Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
+media-blender/camera_shakify 9999: Add captured camera shake/wobble to your cameras
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
+media-blender/deepbump 9999: Generates normal & height maps from image textures
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
 media-blender/imagepaste 9999: Blender addon for image pasting from system clipboard
+media-blender/jremesh-tools 9999: Addon for quad remeshing, a wrapper for instant meshes
 media-blender/leomoon-lightstudio 9999: Blender addon for easiest, fastest and most advanced lighting setup.
 media-blender/make-corner-end 9999: Blender addon for Make Corner and Make End
 media-blender/makehuman-plugin-for-blender 9999: Blender addon. Sync operations with MakeHuman
@@ -40,6 +44,8 @@ media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and expor
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/photogrammetry_importer 9999: Blender addon to import reconstruction results of several libraries
+media-blender/quicksnap 1.4.4: Blender addon for align the nodes in any nodes editor.
+media-blender/real-sky 9999: Physical sky lighting and 3D procedural clouds
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
 media-blender/set-viewport-color 9999: Blender addon. Set the Viewport Color based on a nodetree
 media-blender/shader-nodes 9999: Blender addon. Utilities for Cycles PyNodes
@@ -52,7 +58,7 @@ media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
 media-gfx/PureRef 1.9.2 1.10.4 1.11.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.5: Open framework for storing and sharing scene data
-media-gfx/blender 2.93.16 3.4.1 3.5.0 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 2.93.16 3.4.1 3.5.1 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/djv-bin 2.0.5: Professional review software for VFX, animation, and film production
 media-gfx/freecad-bin 0.18.4: The 3D CAD/CAE parametric modeling application.
