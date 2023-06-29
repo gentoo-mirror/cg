@@ -90,7 +90,7 @@ media-makehuman/community-plugins-socket 9999: Socket server for makehuman
 media-makehuman/makehuman-assets 9999: These are the assets which are bundled with MakeHuman releases
 media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
 media-video/lightworks 2020.1-r3 2022.2-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
-sci-libs/ceres-solver 2.1.0 2.1.0_p20230610: Nonlinear least-squares minimizer
+sci-libs/ceres-solver 2.1.0: Nonlinear least-squares minimizer
 sci-libs/onnxruntime 1.15.0: Cross-platform inference and training machine-learning accelerator.
 x11-misc/perWindowLayoutD 9999: Keeping per-window keyboard layout X11
 x11-misc/xbindkeys-config 0.1.3: Gtk+ program for configuring xbindkeys
