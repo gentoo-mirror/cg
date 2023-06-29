@@ -1,6 +1,5 @@
 app-emacs/ergoemacs-mode 9999: Ergoemacs Keybindings for Emacs
 app-office/libreoffice-bin 9999: A full office productivity suite. Binary package
-dev-cpp/eigen 3.4.0_p20230615: C++ template library for linear algebra
 dev-libs/c-blosc 1.21.0: Blocking, shuffling and lossless compression library
 dev-libs/cudnn 8.9.1.23: NVIDIA Accelerated Deep Learning on GPU library
 dev-libs/optix 7.4.0 7.5.0 7.7.0: NVIDIA Ray Tracing Engine
