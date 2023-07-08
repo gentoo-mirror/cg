@@ -7,12 +7,13 @@ dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
 dev-python/elpy 1.34.0: An ntegrating Python development in Emacs. Python lib
 dev-python/geomdl 9999: Object-oriented NURBS library in Python
-dev-python/lazrs 0.3.0: Python bindings for the laz-rs crate.
-dev-python/pyglet 1.5.2: Cross-platform windowing and multimedia library for Python
-dev-python/pylas 0.4.3: Reading Las (lidar) in Python
-dev-python/pyntcloud 0.1.4: Python library for working with 3D point clouds.
+dev-python/gmsh_api 9999: Python Binding of gmsh - API for a great Finite Element Mesher
+dev-python/laspy 2.4.1 9999: Laspy is a python library for reading, modifying and creating LAS LiDAR files
+dev-python/lazrs 0.5.0: Python bindings for the laz-rs crate.
+dev-python/numpy 1.24.2: Fast array and numerical python library
+dev-python/pyntcloud 0.3.1 9999: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
-dev-python/slvs_py 9999: Python Binding of SOLVESPACE Constraint Solver
+dev-python/slvs_py 1.0.6 9999: Python Binding of SOLVESPACE Constraint Solver
 dev-util/hip 5.5.1: C++ Heterogeneous-Compute Interface for Portability
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
@@ -26,6 +27,7 @@ media-blender/MB-Lab 9999: Blender addon. Character creation tool
 media-blender/align-nodes 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
 media-blender/animation_nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
+media-blender/anton 9999: An open-source generative design framework built on Blender
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/blender-wiggle 2.2.0: Simulate spring-like physics on Bone transforms
