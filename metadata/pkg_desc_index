@@ -18,12 +18,13 @@ dev-util/hip 5.5.1: C++ Heterogeneous-Compute Interface for Portability
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 kde-apps/kde5-thumbnailer-blender 9999: Blender thumbnail generator for KDE
+media-blender/BlenRig 9999: BlenRig 6 rigging system
 media-blender/Blender-Gcode-Import 9999: Import GCODE files to Blender
 media-blender/Blender-Molecular-Script 9999: Addon for calculating collisions and for creating links between particles
 media-blender/CubeSurfer 9999: IsoSurface mesher addon for Blender (Updated by Gogo)
-media-blender/DeepBump 9999: Generates normal & height maps from image textures
 media-blender/LilySurfaceScraper 9999: Import material from a single URL
 media-blender/MB-Lab 9999: Blender addon. Character creation tool
+media-blender/Welder 9999: Generate weld along the edge of intersection of two objects
 media-blender/align-nodes 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/align-to-gpencil 9999: Blender addon. Align Selection To Gpencil Stroke
 media-blender/animation_nodes 9999: Blender addon. Node based visual scripting system designed for motion graphics in Blender.
@@ -36,7 +37,6 @@ media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration usi
 media-blender/camera_shakify 9999: Add captured camera shake/wobble to your cameras
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
-media-blender/deepbump 9999: Generates normal & height maps from image textures
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
 media-blender/imagepaste 9999: Blender addon for image pasting from system clipboard
 media-blender/jremesh-tools 9999: Addon for quad remeshing, a wrapper for instant meshes
@@ -45,14 +45,17 @@ media-blender/make-corner-end 9999: Blender addon for Make Corner and Make End
 media-blender/makehuman-plugin-for-blender 9999: Blender addon. Sync operations with MakeHuman
 media-blender/makewalk 9999: Blender addon. Mocap retargeting for Blender.
 media-blender/mesh-fairing 9999: Blender addon. Provides an alternative smoothing operation
+media-blender/mesh-maze 9999: Convert any mesh to a maze pattern
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
+media-blender/nd 9999: Non-destructive operations, tools, and generators.
 media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/photogrammetry_importer 9999: Blender addon to import reconstruction results of several libraries
-media-blender/quicksnap 1.4.4: Blender addon for align the nodes in any nodes editor.
+media-blender/quicksnap 1.4.5: Blender addon for align the nodes in any nodes editor.
 media-blender/real-sky 9999: Physical sky lighting and 3D procedural clouds
+media-blender/rigacar 9999: Adds a deformation rig for vehicules, generates animation rig and bake wheels animation.
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
 media-blender/set-viewport-color 9999: Blender addon. Set the Viewport Color based on a nodetree
 media-blender/shader-nodes 9999: Blender addon. Utilities for Cycles PyNodes
