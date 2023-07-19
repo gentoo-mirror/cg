@@ -4,7 +4,7 @@ DEPEND=dev-libs/boost:= dev-libs/pugixml >=media-libs/openexr-3:0= >=media-libs/
 DESCRIPTION=Advanced shading language for production GI renderers
 EAPI=8
 HOMEPAGE=http://opensource.imageworks.com/?p=osl
-INHERIT=cmake cuda llvm toolchain-funcs python-single-r1
+INHERIT=cmake cuda flag-o-matic llvm toolchain-funcs python-single-r1
 IUSE=doc optix partio qt5 test cpu_flags_x86_sse2 cpu_flags_x86_sse3 cpu_flags_x86_ssse3 cpu_flags_x86_sse4_1 cpu_flags_x86_sse4_2 cpu_flags_x86_avx cpu_flags_x86_avx2 cpu_flags_x86_avx512f cpu_flags_x86_f16c sm_30 sm_35 sm_50 sm_52 sm_61 sm_70 sm_75 sm_86 python python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12
 KEYWORDS=~amd64 ~arm ~arm64 ~ppc64 ~x86
 LICENSE=BSD
@@ -12,6 +12,6 @@ RDEPEND=dev-libs/boost:= dev-libs/pugixml >=media-libs/openexr-3:0= >=media-libs
 REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 ) optix? ( ^^ ( sm_30 sm_35 sm_50 sm_52 sm_61 sm_70 sm_75 sm_86 ) )
 RESTRICT=!test (test) mirror
 SLOT=0
-SRC_URI=https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/archive/v1.12.12.0.tar.gz -> osl-1.12.12.0.tar.gz
+SRC_URI=https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/archive/v1.12.13.0.tar.gz -> osl-1.12.13.0.tar.gz
 _eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	ad475baa777c9978fa035216c8264a10	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	f3010c780f65d1bb5aea15a9af1adc9c	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	aa1d1fa7be37663d48162ac963b22692	cuda	13d76baf0dc95e560610c6b7dfa79db4	llvm	5b4ee8759b4e9eec5cb48b46975ca56c	python-utils-r1	7661dc585f75dd1f81eccefe37bef093	python-single-r1	75118e916668a74c660a13b0ecb22562
-_md5_=b128589d82107b3441e4d36fe10b8678
+_md5_=ffd5ee6a53c1a829504e3d7e5bac474e
