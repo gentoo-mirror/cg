@@ -90,6 +90,7 @@ media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for m
 media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library
 media-libs/openusd 9999: Universal Scene Description
 media-libs/osl 1.12.13.0: Advanced shading language for production GI renderers
+media-libs/shaderc 2023.5: Collection of tools, libraries and tests for shader compilation
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
