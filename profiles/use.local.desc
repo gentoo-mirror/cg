@@ -51,8 +51,6 @@ media-libs/embree:raymask - Enables ray mask support.
 media-libs/embree:ssp - When enabled, Embree compiles with stack protection against return address overrides. Stack protection will wield a minor performance decrease in return for higher security.
 media-libs/embree:tbb - Use TBB instead of the built-in Embree tasking system.
 media-libs/embree:tutorial - Enable to build Embree tutorials programs.
-media-libs/gegl:lensfun - Enable support for media-libs/lensfun.
-media-libs/gegl:umfpack - Enable sparse solving via sci-libs/umfpack.
 media-libs/opensubdiv:cuda - Enable NVIDIA CUDA Toolkit support through dev-util/nvidia-cuda-toolkit
 media-libs/opensubdiv:opencl - Enable OpenCL support through virtual/opencl
 media-libs/opensubdiv:ptex - Adds support for faster per-face texture mapping through media-libs/ptex
