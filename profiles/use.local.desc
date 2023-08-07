@@ -9,6 +9,7 @@ media-gfx/blender:addons - Enable bundled addons and addons_contrib.
 media-gfx/blender:alembic - Add support for Alembic interchange format through media-libs/alembic.
 media-gfx/blender:avi - Add support for AVI codec.
 media-gfx/blender:boolean - Build with boolean modifier.
+media-gfx/blender:cg - Recommended CG settings for blender.
 media-gfx/blender:collada - Add support for Collada interchange format through media-libs/opencollada.
 media-gfx/blender:cuda - Build cycles renderer with nVidia CUDA support.
 media-gfx/blender:cycles - Build cycles renderer.

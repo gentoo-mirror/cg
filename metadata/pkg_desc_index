@@ -32,6 +32,7 @@ media-blender/blender-wiggle 2.2.0: Simulate spring-like physics on Bone transfo
 media-blender/cad_sketcher 9999: Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
 media-blender/camera_shakify 9999: Add captured camera shake/wobble to your cameras
+media-blender/cg_preferences 9999: CG Overlay setup for blender preferences and hotkeys.
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
