@@ -1,0 +1,17 @@
+BDEPEND=|| ( dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) || ( ( dev-lang/python:3.12 >=dev-python/jinja-2[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 >=dev-python/jinja-2[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 >=dev-python/jinja-2[python_targets_python3_10(-)] ) ) >=dev-util/cmake-3.0 virtual/pkgconfig || ( sys-devel/clang sys-devel/gcc ) >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
+DEFINED_PHASES=compile configure install prepare setup test
+DEPEND=|| ( dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) media-libs/mesa[egl(+),gles2?,libglvnd(+)] media-libs/vulkan-loader virtual/libc system-jsoncpp? ( dev-libs/jsoncpp ) xcb? ( x11-libs/libxcb x11-libs/xcb-util-keysyms x11-libs/xcb-util-wm ) xlib? ( x11-base/xorg-proto x11-libs/libX11 ) wayland? ( dev-libs/wayland dev-libs/wayland-protocols dev-util/wayland-scanner media-libs/mesa[egl(+)] ) || ( video_cards_amdgpu? ( media-libs/mesa[video_cards_radeonsi,vulkan] x11-base/xorg-drivers[video_cards_amdgpu] ) video_cards_intel? ( media-libs/mesa[video_cards_intel,vulkan] x11-base/xorg-drivers[video_cards_intel] ) video_cards_nvidia? ( >=x11-drivers/nvidia-drivers-390.132 ) video_cards_radeonsi? ( media-libs/mesa[video_cards_radeonsi,vulkan] x11-base/xorg-drivers[video_cards_radeonsi] ) )
+DESCRIPTION=Generated headers and sources for OpenXR loader.
+EAPI=8
+HOMEPAGE=https://khronos.org/openxr
+INHERIT=cmake flag-o-matic python-any-r1 toolchain-funcs
+IUSE=doc gles2 +system-jsoncpp video_cards_amdgpu test video_cards_intel video_cards_nvidia video_cards_radeonsi wayland xcb xlib
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+RDEPEND=|| ( dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) media-libs/mesa[egl(+),gles2?,libglvnd(+)] media-libs/vulkan-loader virtual/libc system-jsoncpp? ( dev-libs/jsoncpp ) xcb? ( x11-libs/libxcb x11-libs/xcb-util-keysyms x11-libs/xcb-util-wm ) xlib? ( x11-base/xorg-proto x11-libs/libX11 ) wayland? ( dev-libs/wayland dev-libs/wayland-protocols dev-util/wayland-scanner media-libs/mesa[egl(+)] ) || ( video_cards_amdgpu? ( media-libs/mesa[video_cards_radeonsi,vulkan] x11-base/xorg-drivers[video_cards_amdgpu] ) video_cards_intel? ( media-libs/mesa[video_cards_intel,vulkan] x11-base/xorg-drivers[video_cards_intel] ) video_cards_nvidia? ( >=x11-drivers/nvidia-drivers-390.132 ) video_cards_radeonsi? ( media-libs/mesa[video_cards_radeonsi,vulkan] x11-base/xorg-drivers[video_cards_radeonsi] ) )
+REQUIRED_USE=^^ ( xcb xlib wayland ) || ( video_cards_amdgpu video_cards_intel video_cards_nvidia video_cards_radeonsi )
+RESTRICT=!test ( test ) mirror
+SLOT=0/1.0
+SRC_URI=https://github.com/KhronosGroup/OpenXR-SDK-Source/archive/release-1.0.31.tar.gz -> openxr-1.0.31.tar.gz
+_eclasses_=toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	39e7a84b06eff4efd9f2e0c3d1668b98	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	0f2e0c197fad0312f3c4765c9cf36271	python-utils-r1	30999b80ec1fe0b4af340ae819375346	python-any-r1	f5169813d1619761b459800587005fd2
+_md5_=8396d125e2efd237dd7034e415cf9335

@@ -2,6 +2,17 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-libs/jemalloc-usd:bolt - Perform 3 step BOLT optimization in one emerge. (EXPERIMENTAL/TESTING)
+dev-libs/jemalloc-usd:custom-cflags - Allow to override upstream optimization flags
+dev-libs/jemalloc-usd:ebolt - Perform 1 step BOLT optimization in one emerge with training done passively. (EXPERIMENTAL/TESTING)
+dev-libs/jemalloc-usd:epgo - Perform 1 step PGO optimization in one emerge. with training done passively. If USE pgo or epgo is disabled, it will fall back to manual hot and cold function marking. If USE pgo or epgo is enabled, it will override and replace the manual hot and cold function marking with automatic detection.
+dev-libs/jemalloc-usd:lazy-lock - Enable lazy locking (only lock when multi-threaded)
+dev-libs/jemalloc-usd:pgo - Perform 3 step PGO optimization in one emerge. If USE pgo or epgo is disabled, it will fall back to manual hot and cold function marking. If USE pgo or epgo is enabled, it will override and replace the manual hot and cold function marking with automatic detection.
+dev-libs/jemalloc-usd:prof - Enable allocation profiling
+dev-libs/jemalloc-usd:stats - Enable statistics calculation/reporting
+dev-libs/jemalloc-usd:stress-test-trainer - Use the stress test as the PGO trainer.
+dev-libs/jemalloc-usd:test-trainer - Use the test suite as the PGO trainer.
+dev-libs/jemalloc-usd:xmalloc - Add support for xmalloc (abort-on-out-of-memory)
 dev-libs/optix:headers-only - Download and install only the header files
 media-gfx/alembic:hdf5 - Add support sci-libs/hdf5
 media-gfx/alembic:test - Build and run the test-suite
@@ -42,8 +53,6 @@ media-gfx/blender:sm_86 - Nvidia Cuda Shader Models https://developer.nvidia.com
 media-gfx/blender:smoke - Smoke simulation support
 media-gfx/blender:sse - Build with sse CPU optimisations.
 media-gfx/blender:valgrind - Add support for memory debugging using dev-util/valgrind
-media-gfx/openvdb:abi3-compat - Disables newer features to maintain compatibility with ABI3. Enabled by default.
-media-gfx/openvdb:abi4-compat - Disables newer features to maintain compatibility with ABI4. Enabled by default.
 media-libs/draco:compat - Build in compatibility mode.
 media-libs/draco:gltf - Compile with support for glTF (GL Transmission Format) from The Khronos Group Inc.
 media-libs/embree:compact-polys - Enables double indexed poly layout.
