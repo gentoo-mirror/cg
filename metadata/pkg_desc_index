@@ -78,7 +78,7 @@ media-libs/draco 1.3.5-r3 1.5.2: Library for compressing and decompressing 3D ge
 media-libs/embree 4.3.0: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
-media-libs/materialx 1.38.8: MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
+media-libs/materialx 1.38.8: MaterialX is an open standard for the exchange of rich material content across applications and renderers.
 media-libs/oidn 1.4.3 9999: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
 media-libs/openimageio 2.4.16.0 2.5.5.0: A library for reading and writing images
@@ -87,6 +87,7 @@ media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library
 media-libs/openusd 23.11: Universal Scene Description
 media-libs/openxr 1.0.31: Generated headers and sources for OpenXR loader.
 media-libs/osl 1.12.14.0 9999: Advanced shading language for production GI renderers
+media-libs/ptex 2.4.2_p20230725: Per-Face Texture Mapping for Production Rendering
 media-libs/shaderc 2023.5: Collection of tools, libraries and tests for shader compilation
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
