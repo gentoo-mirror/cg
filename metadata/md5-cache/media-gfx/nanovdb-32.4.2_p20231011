@@ -13,5 +13,5 @@ REQUIRED_USE=benchmark? ( openvdb ) blosc? ( openvdb ) cuda? ( || ( cuda_targets
 RESTRICT=mirror
 SLOT=0/32.4
 SRC_URI=https://github.com/AcademySoftwareFoundation/openvdb/archive/87a508ca48a69f06d149be6cb0d8289fc1314f72.tar.gz -> nanovdb-32.4.2_p20231011-87a508c.tar.gz https://github.com/jpaver/opengametools/archive/e1743d37cf7a8128568769cf71cf598166c2cd30.tar.gz -> ogt-e1743d3.tar.gz
-_eclasses_=toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	39e7a84b06eff4efd9f2e0c3d1668b98	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	0f2e0c197fad0312f3c4765c9cf36271	cuda	283d0f298f6c196c755a0f8d50daca85
+_eclasses_=toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	39e7a84b06eff4efd9f2e0c3d1668b98	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	0f2e0c197fad0312f3c4765c9cf36271	cuda	283d0f298f6c196c755a0f8d50daca85
 _md5_=f09aa15e194486dce9119c0514f3c543
