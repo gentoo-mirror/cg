@@ -3,11 +3,11 @@ DESCRIPTION=NVIDIA Accelerated Deep Learning on GPU library
 EAPI=8
 HOMEPAGE=https://developer.nvidia.com/cudnn
 INHERIT=unpacker
-KEYWORDS=~amd64 ~amd64-linux
+KEYWORDS=~amd64 ~ppc64 ~arm64
 LICENSE=NVIDIA-cuDNN
 RDEPEND==dev-util/nvidia-cuda-toolkit-12*
 RESTRICT=mirror fetch
 SLOT=0/8
-SRC_URI=cudnn-linux-x86_64-8.9.1.23_cuda12-archive.tar.xz
+SRC_URI=amd64? ( cudnn-linux-x86_64-8.9.5.30_cuda12-archive.tar.xz ) ppc64? ( cudnn-linux-ppc64le-8.9.5.30_cuda12-archive.tar.xz ) arm64? ( cudnn-linux-sbsa-8.9.5.30_cuda12-archive.tar.xz )
 _eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	aa6a4e924009232d8b78b31e932c30b5
-_md5_=44d402e82d2a0bd3bd8cde1336b9c4f8
+_md5_=3c33ae842c55072b4fa374bb05051dc4

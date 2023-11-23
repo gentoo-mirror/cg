@@ -1,5 +1,5 @@
 dev-libs/c-blosc 1.21.0: Blocking, shuffling and lossless compression library
-dev-libs/cudnn 8.9.1.23: NVIDIA Accelerated Deep Learning on GPU library
+dev-libs/cudnn 8.9.5.30_p12: NVIDIA Accelerated Deep Learning on GPU library
 dev-libs/jemalloc-usd 5.3.0: Jemalloc is a general-purpose scalable concurrent allocator
 dev-libs/optix 7.4.0 7.5.0 7.7.0 8.0.0: NVIDIA Ray Tracing Engine
 dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
