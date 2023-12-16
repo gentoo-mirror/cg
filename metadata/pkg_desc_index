@@ -86,7 +86,7 @@ media-libs/oidn 1.4.3 9999: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
 media-libs/openimageio 2.4.16.0 2.5.6.0: A library for reading and writing images
 media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
-media-libs/opensubdiv 3.4.4-r3: An Open-Source subdivision surface library
+media-libs/opensubdiv 3.5.0 3.6.0 9999: An Open-Source subdivision surface library
 media-libs/openusd 23.11: Universal Scene Description
 media-libs/openxr 1.0.31: Generated headers and sources for OpenXR loader.
 media-libs/osl 1.12.14.0 9999: Advanced shading language for production GI renderers
