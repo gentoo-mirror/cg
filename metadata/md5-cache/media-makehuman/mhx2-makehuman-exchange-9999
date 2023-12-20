@@ -9,5 +9,5 @@ LICENSE=AGPL-3.0
 PROPERTIES=live live
 RDEPEND=media-gfx/makehuman media-gfx/blender
 SLOT=0
-_eclasses_=mercurial	e6a56a378cb9241482284b8b897c7a39	git-r3	5133e393e8717a3a093660f990801dc1
+_eclasses_=mercurial	e6a56a378cb9241482284b8b897c7a39	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
 _md5_=aaa7a0814bc406f4069e78aacce3a9c7
