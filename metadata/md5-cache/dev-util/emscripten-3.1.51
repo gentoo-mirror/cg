@@ -1,0 +1,16 @@
+BDEPEND=net-libs/nodejs
+DEFINED_PHASES=compile install prepare setup
+DEPEND=!!sys-devel/llvm:0
+DESCRIPTION=Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
+EAPI=8
+HOMEPAGE=https://emscripten.org
+INHERIT=python-single-r1 llvm
+IUSE=python_single_target_python3_10 python_single_target_python3_11
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=dev-util/binaryen net-libs/nodejs <sys-devel/clang-18[llvm_targets_WebAssembly] <sys-devel/lld-18 virtual/jre
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/emscripten-core/emscripten/archive/3.1.51.tar.gz -> emscripten-3.1.51.tar.gz
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-single-r1	75118e916668a74c660a13b0ecb22562	llvm	dcfb437a52b5672e5f39deaae6f789c3
+_md5_=2c9452d503063362e102104603ffefb6

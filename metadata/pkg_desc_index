@@ -11,6 +11,7 @@ dev-python/lazrs 0.5.0: Python bindings for the laz-rs crate.
 dev-python/pyntcloud 0.3.1 9999: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
 dev-python/slvs_py 9999: Python Binding of SOLVESPACE Constraint Solver
+dev-util/emscripten 3.1.51: Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
 dev-util/hip 5.5.1: C++ Heterogeneous-Compute Interface for Portability
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
@@ -84,7 +85,7 @@ media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks
 media-libs/materialx 1.38.8 9999: MaterialX is an open standard for the exchange of rich material content across applications and renderers.
 media-libs/oidn 2.1.0: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
-media-libs/openimageio 2.4.16.0 2.5.6.0: A library for reading and writing images
+media-libs/openimageio 2.4.16.0 2.5.6.0 2.5.7.0: A library for reading and writing images
 media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 media-libs/opensubdiv 3.5.0 3.6.0 9999: An Open-Source subdivision surface library
 media-libs/openusd 23.11: Universal Scene Description
