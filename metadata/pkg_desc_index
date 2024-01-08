@@ -82,7 +82,7 @@ media-libs/embree 4.3.0: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/libuiohook 9999: C library to provide global keyboard and mouse hooks from userland.
 media-libs/materialx 1.38.8 9999: MaterialX is an open standard for the exchange of rich material content across applications and renderers.
-media-libs/oidn 1.4.3 9999: Intel(R) Open Image Denoise library
+media-libs/oidn 2.1.0: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
 media-libs/openimageio 2.4.16.0 2.5.6.0: A library for reading and writing images
 media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
