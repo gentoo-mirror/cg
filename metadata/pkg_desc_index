@@ -90,7 +90,7 @@ media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for m
 media-libs/opensubdiv 3.5.0 3.6.0 9999: An Open-Source subdivision surface library
 media-libs/openusd 23.11: Universal Scene Description
 media-libs/openxr 1.0.31: Generated headers and sources for OpenXR loader.
-media-libs/osl 1.12.14.0 9999: Advanced shading language for production GI renderers
+media-libs/osl 1.12.14.0 1.13.6.0_beta1 9999: Advanced shading language for production GI renderers
 media-libs/ptex 2.4.2_p20230725: Per-Face Texture Mapping for Production Rendering
 media-libs/shaderc 2023.5: Collection of tools, libraries and tests for shader compilation
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
