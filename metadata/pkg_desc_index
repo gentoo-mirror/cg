@@ -15,6 +15,7 @@ dev-util/emscripten 3.1.51: Emscripten is a complete compiler toolchain to WebAs
 dev-util/hip 5.5.1: C++ Heterogeneous-Compute Interface for Portability
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
+dev-util/vulkan-headers 1.3.275 9999: Vulkan Header files and API registry
 media-blender/BlenRig 9999: BlenRig 6 rigging system
 media-blender/Blender-Gcode-Import 9999: Import GCODE files to Blender
 media-blender/Blender-Molecular-Script 9999: Addon for calculating collisions and for creating links between particles
@@ -93,6 +94,7 @@ media-libs/openxr 1.0.31: Generated headers and sources for OpenXR loader.
 media-libs/osl 1.12.14.0 1.13.6.0_beta1 9999: Advanced shading language for production GI renderers
 media-libs/ptex 2.4.2_p20230725: Per-Face Texture Mapping for Production Rendering
 media-libs/shaderc 2023.5: Collection of tools, libraries and tests for shader compilation
+media-libs/vulkan-loader 1.3.275 9999: Vulkan Installable Client Driver (ICD) Loader
 media-makehuman/community-plugins-assetdownload 9999: The asset downloader plugin
 media-makehuman/community-plugins-mhapi 9999: The hard dependency for most community plugins
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
