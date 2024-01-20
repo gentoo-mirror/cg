@@ -61,12 +61,13 @@ media-libs/embree:raymask - Enables ray mask support.
 media-libs/embree:ssp - When enabled, Embree compiles with stack protection against return address overrides. Stack protection will wield a minor performance decrease in return for higher security.
 media-libs/embree:tbb - Use TBB instead of the built-in Embree tasking system.
 media-libs/embree:tutorial - Enable to build Embree tutorials programs.
+media-libs/openexr:large-stack - Enables code to take advantage of large stack support.
+media-libs/openexr:utils - Build several binary tools for verifying and manipulating EXR files.
 media-libs/opensubdiv:cuda - Enable NVIDIA CUDA Toolkit support through dev-util/nvidia-cuda-toolkit
 media-libs/opensubdiv:opencl - Enable OpenCL support through virtual/opencl
 media-libs/opensubdiv:ptex - Adds support for faster per-face texture mapping through media-libs/ptex
 media-libs/opensubdiv:tbb - Enable multithreading with the Intel Threads Building Blocks through dev-cpp/tbb
 media-libs/opensubdiv:tutorials - Install the tutorials
-media-libs/vulkan-loader:layers - Include the vulkan layers
 sci-libs/ceres-solver:c++11 - Build ceres-solver using the C++11 standard
 sci-libs/ceres-solver:cxsparse - Enable simple support for sparse matrix algebra from sci-libs/cxsparse with no LAPACK dependencies
 sci-libs/ceres-solver:gflags - Use dev-cpp/gflags for flag parsing
