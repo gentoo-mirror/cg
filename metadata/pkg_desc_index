@@ -1,8 +1,6 @@
-dev-libs/c-blosc 1.21.0: Blocking, shuffling and lossless compression library
 dev-libs/cudnn 8.9.5.30_p12: NVIDIA Accelerated Deep Learning on GPU library
 dev-libs/jemalloc-usd 5.3.0: Jemalloc is a general-purpose scalable concurrent allocator
 dev-libs/optix 7.4.0 7.5.0 7.7.0 8.0.0: NVIDIA Ray Tracing Engine
-dev-libs/stb 9999: single-file public domain (or MIT licensed) libraries for C/C++
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
 dev-python/geomdl 9999: Object-oriented NURBS library in Python
 dev-python/gmsh_api 9999: Python Binding of gmsh - API for a great Finite Element Mesher
@@ -99,7 +97,5 @@ media-makehuman/community-plugins-mhapi 9999: The hard dependency for most commu
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
 media-makehuman/makehuman-assets 9999: These are the assets which are bundled with MakeHuman releases
 media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
-media-video/lightworks 2020.1-r3 2022.2-r1: Lightworks is the fastest, most accessible and focused NLE in the industry
 sci-libs/ceres-solver 2.2.0-r1: Nonlinear least-squares minimizer
 sci-libs/onnxruntime 1.16.3: Cross-platform inference and training machine-learning accelerator.
-x11-misc/perWindowLayoutD 9999: Keeping per-window keyboard layout X11

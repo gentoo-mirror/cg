@@ -73,8 +73,3 @@ sci-libs/ceres-solver:cxsparse - Enable simple support for sparse matrix algebra
 sci-libs/ceres-solver:gflags - Use dev-cpp/gflags for flag parsing
 sci-libs/ceres-solver:schur - Enable fixed-size schur specializations (disable if binary size is an issue)
 sci-libs/ceres-solver:sparse - Enable support for sparse matrix algebra with various packages from SuiteSparse
-sci-mathematics/netgen:ffmpeg - Enable video recording with virtual/ffmpeg
-sci-mathematics/netgen:gui - Build the graphical user interface
-sci-mathematics/netgen:jpeg - Enable snapshots using a virtual/jpeg
-sci-mathematics/netgen:mpi - Enable mpi parallelization using virtual/mpi
-sci-mathematics/netgen:opencascade - Compile with OpenCascade geometry kernel (not supported upstream)
