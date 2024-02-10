@@ -420,7 +420,7 @@ src_prepare() {
 		cp "${WORKDIR}"/cg_preferences/share/splash.png release/datafiles/ || die
 		cp "${WORKDIR}"/cg_preferences/share/00_cg_preferences_service.py "${S}"/scripts/startup/ || die
 		cp "${FILESDIR}"/99_cg_scripts_dir_service.py "${S}"/scripts/startup/ || die
-		sed -i -e "s|cg_blender_scripts_dir =.*|cg_blender_scripts_dir = \"${CG_BLENDER_SCRIPTS_DIR}\"|" "${S}"/scripts/startup/cg_blender_scripts_dir_service.py || die
+		sed -i -e "s|cg_blender_scripts_dir =.*|cg_blender_scripts_dir = \"${CG_BLENDER_SCRIPTS_DIR}\"|" "${S}"/scripts/startup/99_cg_scripts_dir_service.py || die
 		elog "Blender configured for CG overlay!"
 	else
 		ewarn "Blender is not configured for CG overlay!"
