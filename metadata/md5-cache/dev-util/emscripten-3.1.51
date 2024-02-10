@@ -12,5 +12,5 @@ RDEPEND=dev-util/binaryen net-libs/nodejs <sys-devel/clang-18[llvm_targets_WebAs
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/emscripten-core/emscripten/archive/3.1.51.tar.gz -> emscripten-3.1.51.tar.gz
-_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-single-r1	75118e916668a74c660a13b0ecb22562	llvm	203003e590307acca60eba586555388b
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-single-r1	75118e916668a74c660a13b0ecb22562	llvm-utils	e59dc622da7e7e7f16879105bed34858	llvm	1eea65d11f743b8e256ef279b652a2e6
 _md5_=2c9452d503063362e102104603ffefb6
