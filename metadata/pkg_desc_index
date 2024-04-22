@@ -75,7 +75,7 @@ media-gfx/oda-file-converter 19.12.0.0-r2 21.11.0.0-r1: Converts files between t
 media-gfx/openvdb 9.1.0-r2 10.1.0 11.0.0: Library for the efficient manipulation of volumetric data
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-gfx/xcftools 1.0.7 1.0.7-r1: A set of fast command-line tools for manipulationg Gimp's file format XCF.
-media-libs/audaspace 1.5.0 9999: A high level and feature rich audio library written in C++ with language bindings
+media-libs/audaspace 1.4.0_p20230525 1.5.0 9999: A high level and feature rich audio library written in C++ with language bindings
 media-libs/draco 1.3.5-r3 1.5.6: Library for compressing and decompressing 3D geometric objects
 media-libs/embree 4.3.0: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
