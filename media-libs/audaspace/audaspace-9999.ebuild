@@ -37,7 +37,7 @@ BDEPEND="
 	sndfile? ( media-libs/libsndfile )
 	ffmpeg? (
 		<media-video/ffmpeg-7:=[mp3,encode,theora,vorbis,opus]
-		>=media-video/ffmpeg-5:=[mp3,encode,theora,vorbis,opus]
+		>media-video/ffmpeg-5:=[mp3,encode,theora,vorbis,opus]
 	)
 	fftw? ( sci-libs/fftw:3.0= )
 	jack? ( virtual/jack )

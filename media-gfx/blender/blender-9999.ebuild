@@ -420,7 +420,8 @@ src_prepare() {
 	use elibc_musl && eapply "${FILESDIR}/blender-4.0.0-support-building-with-musl-libc.patch"
 	eapply "${FILESDIR}/blender-fix-lld-17-linking.patch"
 
-	#if use cg && [ -d ${CG_BLENDER_SCRIPTS_DIR} ]; then
+	#no need `if use cg && [ -d ${CG_BLENDER_SCRIPTS_DIR} ]; then`
+	#because CG_BLENDER_SCRIPTS_DIR set in cg/eclass/cg-blender-scripts-dir.eclass
 	if use cg; then
 		eapply "${WORKDIR}"/cg_preferences/patches/cg-defaults.patch
 		cp "${WORKDIR}"/cg_preferences/share/startup.blend release/datafiles/ || die
