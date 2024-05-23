@@ -84,7 +84,7 @@ media-libs/materialx 1.38.10 9999: MaterialX is an open standard for the exchang
 media-libs/oidn 2.2.2: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
 media-libs/openexr 3.2.1 9999: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/openimageio 2.4.16.0 2.5.6.0 2.5.9.0: A library for reading and writing images
+media-libs/openimageio 2.4.16.0 2.5.6.0 2.5.11.0: A library for reading and writing images
 media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 media-libs/opensubdiv 3.5.0 3.6.0-r1 9999: An Open-Source subdivision surface library
 media-libs/openusd 23.11 24.05: Universal Scene Description
