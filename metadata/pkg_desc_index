@@ -66,7 +66,7 @@ media-blender/tissue 9999: Blender addon for computational design
 media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
 media-gfx/alembic 1.8.6-r1: Open framework for storing and sharing scene data
-media-gfx/blender 3.6.8 4.0.2 4.1.1 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 3.6.8 4.0.2 4.1.1 4.2.0 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/nanovdb 32.4.2_p20231011 32.6.0_p20231027: A lightweight GPU friendly version of VDB initially targeting rendering applications.
@@ -74,14 +74,14 @@ media-gfx/openvdb 9.1.0-r3 10.1.0-r1 11.0.0-r1: Library for the efficient manipu
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-libs/audaspace 1.4.0_p20230525 1.5.0 9999: A high level and feature rich audio library written in C++ with language bindings
 media-libs/draco 1.3.5-r3 1.5.6: Library for compressing and decompressing 3D geometric objects
-media-libs/embree 4.3.1: Collection of high-performance ray tracing kernels
+media-libs/embree 4.3.2: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/materialx 1.38.10 9999: MaterialX is an open standard for the exchange of rich material content across applications and renderers.
-media-libs/oidn 2.2.2-r1: Intel(R) Open Image Denoise library
+media-libs/oidn 2.3.0: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
 media-libs/openexr 3.2.1 9999: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/openimageio 2.4.16.0 2.5.6.0 2.5.12.0: A library for reading and writing images
-media-libs/openpgl 0.5.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
+media-libs/openpgl 0.5.0 0.6.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 media-libs/opensubdiv 3.5.0 3.6.0-r1 9999: An Open-Source subdivision surface library
 media-libs/openusd 23.11 24.05: Universal Scene Description
 media-libs/openxr 1.0.31: Generated headers and sources for OpenXR loader.
