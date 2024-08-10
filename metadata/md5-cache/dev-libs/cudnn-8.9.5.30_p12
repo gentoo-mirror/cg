@@ -9,5 +9,5 @@ RDEPEND==dev-util/nvidia-cuda-toolkit-12*
 RESTRICT=mirror fetch
 SLOT=0/8
 SRC_URI=amd64? ( cudnn-linux-x86_64-8.9.5.30_cuda12-archive.tar.xz ) ppc64? ( cudnn-linux-ppc64le-8.9.5.30_cuda12-archive.tar.xz ) arm64? ( cudnn-linux-sbsa-8.9.5.30_cuda12-archive.tar.xz )
-_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e7e7331166166e7a516d19e264b098c2	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	fb4b84181244b3b9990fa0bf40232dd2
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	fb4b84181244b3b9990fa0bf40232dd2
 _md5_=3c33ae842c55072b4fa374bb05051dc4
