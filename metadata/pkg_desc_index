@@ -84,7 +84,7 @@ media-libs/openexr 3.2.1 9999: ILM's OpenEXR high dynamic-range image file forma
 media-libs/openimageio 2.4.16.0 2.5.6.0 2.5.13.1: A library for reading and writing images
 media-libs/openpgl 0.5.0 0.6.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 media-libs/opensubdiv 3.5.0 3.6.0-r1 9999: An Open-Source subdivision surface library
-media-libs/openusd 23.11 24.05: Universal Scene Description
+media-libs/openusd 23.11 24.08: Universal Scene Description
 media-libs/openxr 1.0.31: Generated headers and sources for OpenXR loader.
 media-libs/osl 1.12.14.0 1.13.10.0 9999: Advanced shading language for production GI renderers
 media-libs/ptex 2.4.2_p20230725: Per-Face Texture Mapping for Production Rendering
@@ -92,4 +92,4 @@ media-libs/shaderc 2023.5: Collection of tools, libraries and tests for shader c
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
 media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
 sci-libs/ceres-solver 2.2.0-r1: Nonlinear least-squares minimizer
-sci-libs/onnxruntime 1.18.0-r1: Cross-platform inference and training machine-learning accelerator.
+sci-libs/onnxruntime 1.19.0: Cross-platform inference and training machine-learning accelerator.
