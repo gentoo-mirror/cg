@@ -9,7 +9,8 @@ dev-python/lazrs 0.5.0: Python bindings for the laz-rs crate.
 dev-python/pyntcloud 0.3.1 9999: Python library for working with 3D point clouds.
 dev-python/pywavefront 9999: Python library for importing Wavefront .obj files
 dev-python/slvs_py 9999: Python Binding of SOLVESPACE Constraint Solver
-dev-util/emscripten 3.1.51: Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
+dev-util/binaryen 119: Compiler infrastructure and toolchain library for WebAssembly
+dev-util/emscripten 3.1.67: Compile C and C++ LLVM Bytecode into highly-optimizable JavaScript for the web
 dev-util/hip 5.5.1: C++ Heterogeneous-Compute Interface for Portability
 dev-util/lemon 3.33.0: A LALR(1) parser generator
 dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
