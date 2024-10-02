@@ -13,5 +13,5 @@ REQUIRED_USE=llvm_targets_WebAssembly ^^ ( llvm_slot_18 llvm_slot_19 )
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/emscripten-core/emscripten/archive/3.1.67.tar.gz -> emscripten-3.1.67.tar.gz
-_eclasses_=llvm-utils	e59dc622da7e7e7f16879105bed34858	llvm-r1	aee9ccb15d2aee00819d8784fa242ac3	multiprocessing	e644caa6eb7ce7e5ab0864383ac13ad9	toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	python-utils-r1	6881b056477c23167d9a6b33e146374e	python-single-r1	f7abe75c203a988aa9b5c460b6c7d0f1	flag-o-matic	fa33e3696fe4689dda7e9affe92e2c94	java-utils-2	505f237da61d30569dcc6d5df8c51262	java-pkg-opt-2	28044ae40e7846886b6f5eca24661629
+_eclasses_=llvm-utils	e59dc622da7e7e7f16879105bed34858	llvm-r1	aee9ccb15d2aee00819d8784fa242ac3	multiprocessing	e644caa6eb7ce7e5ab0864383ac13ad9	toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	python-utils-r1	6881b056477c23167d9a6b33e146374e	python-single-r1	f7abe75c203a988aa9b5c460b6c7d0f1	flag-o-matic	fa33e3696fe4689dda7e9affe92e2c94	java-utils-2	f1da644b1cb86c9aca40b31a544a9906	java-pkg-opt-2	28044ae40e7846886b6f5eca24661629
 _md5_=8b5367150237469c57551e0a2b2524a6
