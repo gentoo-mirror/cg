@@ -68,7 +68,7 @@ media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.6-r1: Open framework for storing and sharing scene data
-media-gfx/blender 3.6.8 4.0.2 4.1.1 4.2.0 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 3.6.8 4.0.2 4.1.1 4.2.2 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/nanovdb 32.4.2_p20231011 32.6.0_p20231027: A lightweight GPU friendly version of VDB initially targeting rendering applications.
@@ -93,4 +93,4 @@ media-libs/shaderc 2023.5: Collection of tools, libraries and tests for shader c
 media-makehuman/community-plugins-socket 9999: Socket server for makehuman
 media-makehuman/mhx2-makehuman-exchange 9999: MHX2 - MakeHuman eXchange format 2
 sci-libs/ceres-solver 2.2.0-r1: Nonlinear least-squares minimizer
-sci-libs/onnxruntime 1.19.0: Cross-platform inference and training machine-learning accelerator.
+sci-libs/onnxruntime 1.19.2: Cross-platform inference and training machine-learning accelerator.
