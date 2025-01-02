@@ -70,7 +70,7 @@ media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.7: Open framework for storing and sharing scene data
-media-gfx/blender 3.6.18 4.2.4 4.3.2 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 3.6.19 4.2.5 4.3.2 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/nanovdb 32.4.2_p20231011 32.6.0_p20231027: A lightweight GPU friendly version of VDB initially targeting rendering applications.
@@ -82,7 +82,7 @@ media-libs/embree 4.3.3: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/materialx 1.39.1 9999: MaterialX is an open standard for the exchange of rich material content across applications and renderers.
 media-libs/oidn 2.3.0: Intel(R) Open Image Denoise library
-media-libs/opencolorio 2.3.0: A color management framework for visual effects and animation
+media-libs/opencolorio 2.3.2: A color management framework for visual effects and animation
 media-libs/openexr 3.2.1 9999: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/openimageio 2.4.16.0 2.5.6.0 2.5.13.1: A library for reading and writing images
 media-libs/openpgl 0.5.0 0.6.0 0.7.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
