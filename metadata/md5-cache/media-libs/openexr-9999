@@ -1,15 +1,17 @@
-BDEPEND=>=app-arch/libdeflate-1.18 virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5 >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=virtual/pkgconfig doc? ( sys-apps/help2man ) app-alternatives/ninja >=dev-build/cmake-3.20.5 >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=>=dev-libs/imath-3.1.6:= sys-libs/zlib
+DEPEND=>=app-arch/libdeflate-1.18:=[zlib(+)] >=dev-libs/imath-3.1.6:=
 DESCRIPTION=ILM's OpenEXR high dynamic-range image file format libraries
 EAPI=8
 HOMEPAGE=https://openexr.com/
 INHERIT=cmake flag-o-matic git-r3
-IUSE=cpu_flags_x86_avx examples large-stack utils test threads
+IUSE=cpu_flags_x86_avx doc examples large-stack utils test threads
 LICENSE=BSD
 PROPERTIES=live
-RDEPEND=>=dev-libs/imath-3.1.6:= sys-libs/zlib
+RDEPEND=>=app-arch/libdeflate-1.18:=[zlib(+)] >=dev-libs/imath-3.1.6:=
+REQUIRED_USE=doc? ( utils )
 RESTRICT=!test? ( test )
-SLOT=0/30
+SLOT=0/33
+SRC_URI=test? ( utils? ( https://github.com/AcademySoftwareFoundation/openexr-images/archive/refs/tags/v1.0.tar.gz -> openexr-images-1.0.tar.gz ) )
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=a2ea2fea73e1de915bf471e80f2212fd
+_md5_=0b038764040711ffbe645db4f8b65a94
