@@ -32,7 +32,7 @@ media-blender/anton 9999: An open-source generative design framework built on Bl
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/blender-qle 9999: Blender addon. Adds a Basic Lighting Setup to Your Blender Scene.
-media-blender/blender-wiggle 2.2.0: Simulate spring-like physics on Bone transforms
+media-blender/blender-wiggle 2.2.3: Simulate spring-like physics on Bone transforms
 media-blender/cad_sketcher 9999: Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
 media-blender/camera_shakify 9999: Add captured camera shake/wobble to your cameras
