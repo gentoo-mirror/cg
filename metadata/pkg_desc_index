@@ -70,7 +70,7 @@ media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.7: Open framework for storing and sharing scene data
-media-gfx/blender 3.6.20 4.2.6 4.3.2 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 3.6.21 4.2.8 4.3.2 4.4.0 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/nanovdb 32.4.2_p20231011 32.6.0_p20231027: A lightweight GPU friendly version of VDB initially targeting rendering applications.
