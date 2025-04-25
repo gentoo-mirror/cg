@@ -68,7 +68,7 @@ media-blender/textools 9999: Blender addon. UV and Texture tool.
 media-blender/tissue 9999: Blender addon for computational design
 media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
-media-gfx/Bforartists 4.3.3 9999: A fork of the popular 3D software Blender, with improved UI
+media-gfx/Bforartists 4.4.0 9999: A fork of the popular 3D software Blender, with improved UI
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.8: Open framework for storing and sharing scene data
 media-gfx/blender 3.6.22 4.2.9 4.3.2 4.4.2_rc1 9999: Blender is a free and open-source 3D creation suite.
