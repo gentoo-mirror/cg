@@ -71,7 +71,7 @@ media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid
 media-gfx/Bforartists 4.3.3 9999: A fork of the popular 3D software Blender, with improved UI
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.8: Open framework for storing and sharing scene data
-media-gfx/blender 3.6.22 4.2.9 4.3.2 4.4.1 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 3.6.22 4.2.9 4.3.2 4.4.2_rc1 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/openvdb 12.0.1: Library for the efficient manipulation of volumetric data
