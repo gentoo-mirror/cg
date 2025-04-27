@@ -80,11 +80,13 @@ media-libs/audaspace 1.4.0_p20230525 1.5.0_p20250117 1.6.0_p20250407 9999: A hig
 media-libs/draco 1.3.5-r3 1.5.7: Library for compressing and decompressing 3D geometric objects
 media-libs/embree 4.3.3: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
+media-libs/libultrahdr 1.4.0 9999: Codec for the Ultra HDR format
+media-libs/libwebp 1.5.0: A lossy image compression format
 media-libs/materialx 1.39.1 9999: MaterialX is an open standard for the exchange of rich material content across applications and renderers.
 media-libs/oidn 2.3.2 2.3.3: Intel(R) Open Image Denoise library
 media-libs/opencolorio 2.3.2: A color management framework for visual effects and animation
 media-libs/openexr 3.3.2 9999: ILM's OpenEXR high dynamic-range image file format libraries
-media-libs/openimageio 2.5.18.0: A library for reading and writing images
+media-libs/openimageio 2.5.18.0 3.0.5.0: A library for reading and writing images
 media-libs/openpgl 0.5.0 0.6.0 0.7.0 9999: Intel Open Path Guiding Library. Algorithms for more efficient ray tracing renderings.
 media-libs/opensubdiv 3.5.0 3.6.0-r1 9999: An Open-Source subdivision surface library
 media-libs/openusd 23.11 24.08 24.11 25.02: Universal Scene Description

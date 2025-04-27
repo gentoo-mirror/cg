@@ -1,0 +1,14 @@
+BDEPEND=virtual/libc virtual/pkgconfig app-alternatives/ninja dev-build/cmake doc? ( app-text/doxygen[-nodot(-),dot(+)] dev-python/sphinx[latex] ) app-alternatives/ninja >=dev-build/cmake-3.20.5 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=egl? ( media-libs/mesa[egl(+)] ) xmp? ( >=media-libs/exempi-2.1.0:= ) iso? ( >=sys-libs/libosinfo-1.10.0-r1 )
+DESCRIPTION=Codec for the Ultra HDR format
+EAPI=8
+HOMEPAGE=https://github.com/google/libultrahdr
+INHERIT=cmake git-r3
+IUSE=benchmark doc examples +egl test +iso +xmp cpu_flags_x86_avx cpu_flags_x86_sse4_2
+LICENSE=Apache-2.0
+PROPERTIES=live
+RESTRICT=mirror !test? ( test )
+SLOT=0
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f	git-r3	875eb471682d3e1f18da124be97dcc81
+_md5_=06b12364ddbda64eeb5e7e74969f6a47
