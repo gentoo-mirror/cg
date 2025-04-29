@@ -39,6 +39,7 @@ media-blender/camera_shakify 9999: Add captured camera shake/wobble to your came
 media-blender/cg_preferences 9999: Setup CG preferences and hotkeys from JSON config
 media-blender/cork-on-blender 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
+media-blender/df-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
 media-blender/imagepaste 9999: Blender addon for image pasting from system clipboard
 media-blender/jremesh-tools 9999: Addon for quad remeshing, a wrapper for instant meshes
@@ -48,6 +49,7 @@ media-blender/makehuman-plugin-for-blender 9999: Blender addon. Sync operations 
 media-blender/makewalk 9999: Blender addon. Mocap retargeting for Blender.
 media-blender/mesh-fairing 9999: Blender addon. Provides an alternative smoothing operation
 media-blender/mesh-maze 9999: Convert any mesh to a maze pattern
+media-blender/mifth-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
