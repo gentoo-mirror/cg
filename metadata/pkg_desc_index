@@ -52,10 +52,10 @@ media-blender/mira-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/modeling-cloth 9999: Blender addon. New modeling Cloth tools
 media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and export animations to UE4
 media-blender/nd 9999: Non-destructive operations, tools, and generators.
-media-blender/offset-edges 9999: Blender addon. HidesatoIkeya_OffsetEdges.
+media-blender/offset-edges 9999: Blender addon. Mesh editing edges offset.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
 media-blender/photogrammetry_importer 9999: Blender addon to import reconstruction results of several libraries
-media-blender/quicksnap 1.4.5: Blender addon for align the nodes in any nodes editor.
+media-blender/quicksnap 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/real-sky 9999: Physical sky lighting and 3D procedural clouds
 media-blender/rigacar 9999: Adds a deformation rig for vehicules, generates animation rig and bake wheels animation.
 media-blender/screencastkeys 9999: Blender addon. Screencast Keys Status.
@@ -68,6 +68,7 @@ media-blender/textools 9999: Blender addon. UV and Texture tool.
 media-blender/tissue 9999: Blender addon for computational design
 media-blender/usdz 9999: Blender addon. UDSZ file import/export add-on
 media-blender/uvsquares 9999: Blender addon for reshaping UV selection into grid.
+media-blender/viewport-fps 9999: Calculates minimum, maximum and average viewport FPS
 media-gfx/Bforartists 4.4.0 9999: A fork of the popular 3D software Blender, with improved UI
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.8: Open framework for storing and sharing scene data
