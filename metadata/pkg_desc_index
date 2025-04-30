@@ -32,6 +32,7 @@ media-blender/anton 9999: An open-source generative design framework built on Bl
 media-blender/auto-reload 9999: Blender addon. Handy automatic reload for Image Textures
 media-blender/blender-off-addon 9999: Blender addon. Cork - a powerful standalone boolean calculations software
 media-blender/blender-qle 9999: Blender addon. Adds a Basic Lighting Setup to Your Blender Scene.
+media-blender/blender-web-viewer 9999: An open-source Blender addon that converts scenes into interactive, web-accessible 3D viewers.
 media-blender/blender-wiggle 2.2.3: Simulate spring-like physics on Bone transforms
 media-blender/cad_sketcher 9999: Constraint-based sketcher addon for Blender with support a fully non-destructive workflow
 media-blender/camera-calibration-pvr 9999: Blender addon. Camera Calibration using Perspective Views of Rectangles
@@ -42,7 +43,6 @@ media-blender/curve-cad 9999: Blender addon.Bezier Curve CAD Tools for CNC.
 media-blender/df-tools 9999: Blender addon. Modeling/Retopo tools
 media-blender/edge-flow 9999: Blender addon. Blender tools for working with edgeloops.
 media-blender/imagepaste 9999: Blender addon for image pasting from system clipboard
-media-blender/jremesh-tools 9999: Addon for quad remeshing, a wrapper for instant meshes
 media-blender/leomoon-lightstudio 9999: Blender addon for easiest, fastest and most advanced lighting setup.
 media-blender/make-corner-end 9999: Blender addon for Make Corner and Make End
 media-blender/makehuman-plugin-for-blender 9999: Blender addon. Sync operations with MakeHuman
@@ -74,7 +74,7 @@ media-blender/viewport-fps 9999: Calculates minimum, maximum and average viewpor
 media-gfx/Bforartists 4.4.0 9999: A fork of the popular 3D software Blender, with improved UI
 media-gfx/PureRef 2.0.1: PureRef - Reference Image Viewer
 media-gfx/alembic 1.8.8: Open framework for storing and sharing scene data
-media-gfx/blender 3.6.22 4.2.9 4.3.2 4.4.2_rc1 9999: Blender is a free and open-source 3D creation suite.
+media-gfx/blender 3.6.22 4.2.9 4.3.2 4.4.3 9999: Blender is a free and open-source 3D creation suite.
 media-gfx/cork 9999: Cork - a powerful standalone boolean calculations software
 media-gfx/makehuman 9999: Open source tool for making 3d characters.
 media-gfx/openvdb 12.0.1: Library for the efficient manipulation of volumetric data
