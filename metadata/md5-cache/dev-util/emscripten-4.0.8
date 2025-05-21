@@ -1,0 +1,17 @@
+BDEPEND=llvm_slot_18? ( llvm-core/clang:18= llvm-core/llvm:18= ) llvm_slot_19? ( llvm-core/clang:19= llvm-core/llvm:19= ) llvm_slot_20? ( llvm-core/clang:20= llvm-core/llvm:20= ) dev-build/cmake dev-libs/libxml2 dev-vcs/git dev-build/ninja java? ( virtual/jdk )
+DEFINED_PHASES=compile configure install preinst prepare setup
+DEPEND=java? ( >=dev-java/java-config-2.2.0-r3 )
+DESCRIPTION=Compile C and C++ LLVM Bytecode into highly-optimizable JavaScript for the web
+EAPI=8
+HOMEPAGE=https://emscripten.org
+INHERIT=llvm-r1 python-single-r1 flag-o-matic java-pkg-opt-2 toolchain-funcs
+IUSE=java python llvm_targets_WebAssembly +llvm_slot_19 llvm_slot_18 llvm_slot_20 python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 java
+KEYWORDS=~amd64
+LICENSE=NCSA MIT
+RDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) dev-util/binaryen net-libs/nodejs[npm] sys-apps/which python? ( dev-lang/python ) java? ( virtual/jre ) java? ( >=dev-java/java-config-2.2.0-r3 )
+REQUIRED_USE=llvm_targets_WebAssembly ^^ ( llvm_slot_18 llvm_slot_19 llvm_slot_20 )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/emscripten-core/emscripten/archive/4.0.8.tar.gz -> emscripten-4.0.8.tar.gz
+_eclasses_=llvm-utils	846280a994c1843d9c21248c188bd147	llvm-r1	0bd586d3786517cd63802a520b404dda	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	java-utils-2	c610b1541a10e37cb26ab5b707a744f1	java-pkg-opt-2	28044ae40e7846886b6f5eca24661629
+_md5_=c74b742f6575eac5f80e9ab1e0f82170

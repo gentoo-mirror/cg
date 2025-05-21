@@ -1,0 +1,12 @@
+DEFINED_PHASES=install nofetch
+DESCRIPTION=NVIDIA Ray Tracing Engine
+EAPI=8
+HOMEPAGE=https://developer.nvidia.com/rtx/ray-tracing/optix
+IUSE=doc
+KEYWORDS=~amd64 ~arm64
+LICENSE=NVIDIA-SDK-v2017.06.13 BSD
+RDEPEND=>=x11-drivers/nvidia-drivers-560
+RESTRICT=bindist mirror test
+SLOT=0/9
+SRC_URI=https://github.com/NVIDIA/optix-dev/archive/refs/tags/v9.0.0.tar.gz -> optix-9.0.0.tar.gz
+_md5_=faf6d03030a4930bc66c91ddc5db9fbd

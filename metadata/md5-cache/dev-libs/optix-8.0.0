@@ -1,12 +1,12 @@
 DEFINED_PHASES=install nofetch unpack
 DESCRIPTION=NVIDIA Ray Tracing Engine
 EAPI=8
-HOMEPAGE=https://developer.nvidia.com/optix
+HOMEPAGE=https://developer.nvidia.com/rtx/ray-tracing/optix
 IUSE=doc
 KEYWORDS=~amd64 ~arm64
-LICENSE=NVIDIA-SDK
+LICENSE=NVIDIA-SDK-v2017.06.13 BSD
 RDEPEND=>=x11-drivers/nvidia-drivers-510
-RESTRICT=bindist mirror
-SLOT=0
+RESTRICT=bindist mirror test
+SLOT=0/8
 SRC_URI=NVIDIA-OptiX-SDK-8.0.0-linux64-x86_64.sh
-_md5_=a982e260c3ae15dea99b6237353a4db0
+_md5_=f53932a34fb307d1d16e6c4666fb9324
