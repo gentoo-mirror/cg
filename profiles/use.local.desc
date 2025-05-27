@@ -53,6 +53,43 @@ media-gfx/blender:sm_86 - Nvidia Cuda Shader Models https://developer.nvidia.com
 media-gfx/blender:smoke - Smoke simulation support
 media-gfx/blender:sse - Build with sse CPU optimisations.
 media-gfx/blender:valgrind - Add support for memory debugging using dev-util/valgrind
+media-gfx/blender-bin:addons - Enable bundled addons and addons_contrib.
+media-gfx/blender-bin:alembic - Add support for Alembic interchange format through media-libs/alembic.
+media-gfx/blender-bin:avi - Add support for AVI codec.
+media-gfx/blender-bin:boolean - Build with boolean modifier.
+media-gfx/blender-bin:cg - Recommended CG settings for blender.
+media-gfx/blender-bin:collada - Add support for Collada interchange format through media-libs/opencollada.
+media-gfx/blender-bin:cuda - Build cycles renderer with nVidia CUDA support.
+media-gfx/blender-bin:cycles - Build cycles renderer.
+media-gfx/blender-bin:dds - Adds DDS textures support to Blender.
+media-gfx/blender-bin:decimate - Build with decimate (polygon reducer) modifier.
+media-gfx/blender-bin:doc - Build C and Python API documentation directly from the source code.
+media-gfx/blender-bin:dpx - Build with DPX image format support.
+media-gfx/blender-bin:fluid - Enable Mantaflow Fluid Simulation Framework
+media-gfx/blender-bin:freestyle - FreeStyle is an edge- and line-based non-photorealistic rendering engine.
+media-gfx/blender-bin:ndof - Enable NDOF input devices (SpaceNavigator and friends).
+media-gfx/blender-bin:oceansim - Build with modifier for ocean simulation.
+media-gfx/blender-bin:opencl - Opencl acceleration for compositor and Cycles renderer
+media-gfx/blender-bin:opencolorio - Enable OpenColorIO color management through media-libs/opencolorio.
+media-gfx/blender-bin:openimageio - Simple but powerful ImageInput and ImageOutput APIs
+media-gfx/blender-bin:opensubdiv - Add viewport rendering support for subdivision modifier.
+media-gfx/blender-bin:openvdb - Library for use in volumetric.
+media-gfx/blender-bin:osl - Advanced shading language. Works only on CPU.
+media-gfx/blender-bin:player - Build the Blender Video Player.
+media-gfx/blender-bin:portable - Build the Blender portable.
+media-gfx/blender-bin:remesh - Build with voxel retopology modifier.
+media-gfx/blender-bin:sm_21 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_30 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_35 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_50 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_52 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_61 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_70 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_75 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:sm_86 - Nvidia Cuda Shader Models https://developer.nvidia.com/cuda-gpus
+media-gfx/blender-bin:smoke - Smoke simulation support
+media-gfx/blender-bin:sse - Build with sse CPU optimisations.
+media-gfx/blender-bin:valgrind - Add support for memory debugging using dev-util/valgrind
 media-libs/draco:compat - Build in compatibility mode.
 media-libs/draco:gltf - Compile with support for glTF (GL Transmission Format) from The Khronos Group Inc.
 media-libs/embree:compact-polys - Enables double indexed poly layout.
