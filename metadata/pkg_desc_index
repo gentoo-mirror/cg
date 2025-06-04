@@ -4,7 +4,6 @@ dev-libs/optix 7.4.0 7.5.0 7.7.0 8.0.0 9.0.0-r1: NVIDIA Ray Tracing Engine
 dev-libs/spirv-reflect 1.3.296.0 9999: Lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications
 dev-libs/vulkan-memory-allocator 3.1.0: Easy to integrate Vulkan memory allocation library
 dev-python/PyMCubes 9999: Marching cubes algorithm to extract iso-surfaces from volumetric data
-dev-python/geomdl 9999: Object-oriented NURBS library in Python
 dev-python/gmsh_api 9999: Python Binding of gmsh - API for a great Finite Element Mesher
 dev-python/laspy 2.4.1 9999: Laspy is a python library for reading, modifying and creating LAS LiDAR files
 dev-python/lazrs 0.6.3: Python bindings for the laz-rs crate.
