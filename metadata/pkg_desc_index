@@ -86,7 +86,7 @@ media-libs/libultrahdr 1.4.0 9999: Codec for the Ultra HDR format
 media-libs/libwebp 1.5.0: A lossy image compression format
 media-libs/materialx 1.39.3 9999: MaterialX is an open standard for the exchange of rich material content.
 media-libs/nanogui 0.2.0_p20250423 9999: Minimalistic C++/Python GUI library
-media-libs/oidn 2.3.2 2.3.3-r1: Intel Open Image Denoise library
+media-libs/oidn 2.3.3-r2: Intel Open Image Denoise library
 media-libs/opencolorio 2.3.2: A color management framework for visual effects and animation
 media-libs/openexr 3.3.2 9999: ILM's OpenEXR high dynamic-range image file format libraries
 media-libs/openimageio 2.5.18.0 3.0.6.1: A library for reading and writing images
