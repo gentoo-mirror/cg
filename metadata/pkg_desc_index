@@ -18,6 +18,7 @@ dev-util/nvidia-cuda-sdk 10.1.105 10.1.168: NVIDIA CUDA Software Development Kit
 media-blender/BlenRig 9999: BlenRig 6 rigging system
 media-blender/Blender-Gcode-Import 9999: Import GCODE files to Blender
 media-blender/Blender-Molecular-Script 9999: Addon for calculating collisions and for creating links between particles
+media-blender/BrickTricks 9999: Blender addon. Utilities for Cycles PyNodes
 media-blender/CubeSurfer 9999: IsoSurface mesher addon for Blender (Updated by Gogo)
 media-blender/DeepBump 9999: Generates normal & height maps from image textures
 media-blender/LilySurfaceScraper 9999: Import material from a single URL
@@ -55,6 +56,7 @@ media-blender/mr-mannequins-tools 9999: Blender addon. Loading, saving and expor
 media-blender/nd 9999: Non-destructive operations, tools, and generators.
 media-blender/offset-edges 9999: Blender addon. Mesh editing edges offset.
 media-blender/optiloops 9999: Blender addon for optimizing topology.
+media-blender/oslpy 9999: Blender addon. Utilities for Cycles PyNodes
 media-blender/photogrammetry_importer 9999: Blender addon to import reconstruction results of several libraries
 media-blender/quicksnap 9999: Blender addon for align the nodes in any nodes editor.
 media-blender/real-sky 9999: Physical sky lighting and 3D procedural clouds
