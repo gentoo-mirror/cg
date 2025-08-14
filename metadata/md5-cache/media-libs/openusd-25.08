@@ -12,6 +12,6 @@ RDEPEND=!python? ( >=dev-libs/boost-1.76.0 ) >=sys-libs/zlib-1.2.11 alembic? ( >
 REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) alembic? ( openexr ) embree? ( imaging opengl ) hdf5? ( alembic ) color-management? ( imaging ) opengl? ( imaging ) openimageio? ( imaging ) openvdb? ( ^^ ( openvdb_abi_10 openvdb_abi_11 openvdb_abi_12 ) imaging openexr opengl ) osl? ( openexr ) ptex? ( imaging ) test? ( python ) usdview? ( opengl python )
 RESTRICT=mirror !test? ( test )
 SLOT=0
-SRC_URI=https://github.com/PixarAnimationStudios/USD/archive/refs/tags/v25.05.01.tar.gz -> openusd-25.05.01.tar.gz
+SRC_URI=https://github.com/PixarAnimationStudios/USD/archive/refs/tags/v25.08.tar.gz -> openusd-25.08.tar.gz
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	460729dc36f68cf03b044bc1d367e34a	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	python-utils-r1	8a006695bc0db22490452dd06914dda5	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	openvdb	1da6621e448b3c72f5ef926a7cd37bd3
-_md5_=ed561f1cbe8481415e1dbc4fe823fd1e
+_md5_=1b77b43b0d971d7b89880f364d356be9
