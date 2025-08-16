@@ -84,7 +84,7 @@ media-gfx/openvdb 12.1.0: Library for the efficient manipulation of volumetric d
 media-gfx/unreal-engine 4.22.1: A 3D game engine by Epic Games which can be used non-commercially for free.
 media-libs/audaspace 1.4.0_p20230525 1.5.0_p20250117 1.6.0_p20250407 9999: A high level and feature rich audio library written in C++ with language bindings
 media-libs/draco 1.3.5-r3 1.5.7: Library for compressing and decompressing 3D geometric objects
-media-libs/embree 4.4.0: Collection of high-performance ray tracing kernels
+media-libs/embree 4.4.0-r1: Collection of high-performance ray tracing kernels
 media-libs/giflib 5.2.1-r1: Library to handle, display and manipulate GIF images
 media-libs/libultrahdr 1.4.0 9999: Codec for the Ultra HDR format
 media-libs/libwebp 1.5.0: A lossy image compression format
