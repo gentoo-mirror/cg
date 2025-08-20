@@ -1,15 +1,15 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install postinst postrm prepare pretend setup unpack
-DESCRIPTION=Blender addon. Make working with lattices simpler.
+DEFINED_PHASES=compile install postinst postrm pretend setup unpack
+DESCRIPTION=Align and distribute tools for blender objects.
 EAPI=8
-HOMEPAGE=https://github.com/BenjaminSauder/SimpleLattice
+HOMEPAGE=https://github.com/Tuily/bl-align-and-distribute
 INHERIT=blender-addon
 IUSE=python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
 KEYWORDS=alpha amd64 arm arm64 hppa ia64 ~loong m68k ~mips ppc ppc64 ~riscv s390 sparc x86 ~x64-cygwin ~amd64-linux ~x86-linux ~ppc-macos ~x64-macos ~sparc-solaris ~sparc64-solaris ~x64-solaris ~x86-solaris
-LICENSE=GPL-3
+LICENSE=CC0-1.0
 PROPERTIES=live
 RDEPEND=media-gfx/blender
 RESTRICT=mirror test
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	vcs-clean	f5d76e36be67d713022315e10c51bc6c	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	python-utils-r1	8a006695bc0db22490452dd06914dda5	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	cg-blender-scripts-dir	651a1f384f4b3399d92c65661cecf087	blender-addon	d14308d0928801f97f20d7947e68193a
-_md5_=7de78549413b9c4dd064a8a324724a24
+_md5_=0bc492fb6163fb558741c6bea0a530ac
